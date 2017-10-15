@@ -1,0 +1,58 @@
+{
+  "beer_s": {
+    "9": {
+      "name": "生ビール小ジョッキ",
+      "price": "150円",
+      "calorie": "92kcal",
+      "protein": "0.9g",
+      "lipid": "0g",
+      "carbohydrate": "6.6g",
+      "sodium": "18mg",
+      "SaltEquivalent": "0g",
+      "description": "",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/beer_s_160620.jpg"
+    }
+  },
+  "highball_s": {
+    "9": {
+      "name": "ハイボール小ジョッキ",
+      "price": "150円",
+      "calorie": "94kcal",
+      "protein": "0g",
+      "lipid": "0g",
+      "carbohydrate": "0g",
+      "sodium": "0mg",
+      "SaltEquivalent": "0g",
+      "description": "",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/highball_s_160620.jpg"
+    }
+  },
+  "beer_m": {
+    "9": {
+      "name": "生ビール中ジョッキ",
+      "price": "290円",
+      "calorie": "134kcal",
+      "protein": "1.3g",
+      "lipid": "0g",
+      "carbohydrate": "9.6g",
+      "sodium": "26mg",
+      "SaltEquivalent": "0.1g",
+      "description": "",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/beer_m_160620.jpg"
+    }
+  },
+  "highball_m": {
+    "9": {
+      "name": "ハイボール中ジョッキ",
+      "price": "290円",
+      "calorie": "135kcal",
+      "protein": "0g",
+      "lipid": "0g",
+      "carbohydrate": "0g",
+      "sodium": "0mg",
+      "SaltEquivalent": "0g",
+      "description": "",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/highball_m_160620.jpg"
+    }
+  }
+}

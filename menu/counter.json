@@ -1,0 +1,128 @@
+{
+  "Soy_Sauce": {
+    "9": {
+      "name": "醤油",
+      "price": "",
+      "calorie": "4kcal",
+      "protein": "0.4g",
+      "lipid": "0g",
+      "carbohydrate": "0.5g",
+      "sodium": "275mg",
+      "SaltEquivalent": "0.7g",
+      "description": "",
+      "imageURL": ""
+    }
+  },
+  "Red_Ginger": {
+    "9": {
+      "name": "紅生姜",
+      "price": "",
+      "calorie": "1kcal",
+      "protein": "0g",
+      "lipid": "0g",
+      "carbohydrate": "0.2g",
+      "sodium": "45mg",
+      "SaltEquivalent": "0.1g",
+      "description": "",
+      "imageURL": ""
+    }
+  },
+  "Seven_Spice_Blend": {
+    "9": {
+      "name": "七味唐辛子",
+      "price": "",
+      "calorie": "1kcal",
+      "protein": "0g",
+      "lipid": "0g",
+      "carbohydrate": "0.2g",
+      "sodium": "0mg",
+      "SaltEquivalent": "0g",
+      "description": "",
+      "imageURL": ""
+    }
+  },
+  "Black_Sesame_Roasting_Seasoning": {
+    "9": {
+      "name": "黒胡麻焙煎七味",
+      "price": "",
+      "calorie": "2kcal",
+      "protein": "0g",
+      "lipid": "0.1g",
+      "carbohydrate": "0.2g",
+      "sodium": "1mg",
+      "SaltEquivalent": "0g",
+      "description": "",
+      "imageURL": ""
+    }
+  },
+  "French_Dressing": {
+    "9": {
+      "name": "フレンチドレッシング",
+      "price": "",
+      "calorie": "163kcal",
+      "protein": "0.1g",
+      "lipid": "16.3g",
+      "carbohydrate": "2.9g",
+      "sodium": "235mg",
+      "SaltEquivalent": "0.6g",
+      "description": "",
+      "imageURL": ""
+    }
+  },
+  "Sesame_Dressing": {
+    "9": {
+      "name": "ごまドレッシング",
+      "price": "",
+      "calorie": "69kcal",
+      "protein": "0.8g",
+      "lipid": "5g",
+      "carbohydrate": "5.2g",
+      "sodium": "364mg",
+      "SaltEquivalent": "0.9g",
+      "description": "",
+      "imageURL": ""
+    }
+  },
+  "Ponzu_Sauce": {
+    "9": {
+      "name": "ポン酢だれ",
+      "price": "",
+      "calorie": "14kcal",
+      "protein": "1g",
+      "lipid": "0g",
+      "carbohydrate": "2.4g",
+      "sodium": "610mg",
+      "SaltEquivalent": "1.5g",
+      "description": "",
+      "imageURL": ""
+    }
+  },
+  "Barbecue_Sauce": {
+    "9": {
+      "name": "バーベキューだれ",
+      "price": "",
+      "calorie": "25kcal",
+      "protein": "1g",
+      "lipid": "0.1g",
+      "carbohydrate": "5.3g",
+      "sodium": "620mg",
+      "SaltEquivalent": "1.6g",
+      "description": "",
+      "imageURL": ""
+    }
+  },
+  "Calvi_Sauce": {
+    "9": {
+      "name": "カルビだれ",
+      "price": "",
+      "calorie": "35kcal",
+      "protein": "0.6g",
+      "lipid": "0g",
+      "carbohydrate": "7.8g",
+      "sodium": "462mg",
+      "SaltEquivalent": "1.2g",
+      "description": "",
+      "imageURL": ""
+    }
+  }
+}

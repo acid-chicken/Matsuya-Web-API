@@ -1,0 +1,131 @@
+{
+  "cri_ori": {
+    "2": {
+      "name": "オリジナルカレー 並盛",
+      "price": "380円",
+      "calorie": "655kcal",
+      "protein": "12.5g",
+      "lipid": "15g",
+      "carbohydrate": "113.6g",
+      "sodium": "2132mg",
+      "SaltEquivalent": "5.4g",
+      "description": "14種類のスパイスを使用した、コクと深み！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_161101.jpg"
+    },
+    "3": {
+      "name": "オリジナルカレー 大盛",
+      "price": "480円",
+      "calorie": "871kcal",
+      "protein": "16g",
+      "lipid": "18.2g",
+      "carbohydrate": "155.3g",
+      "sodium": "2431mg",
+      "SaltEquivalent": "6.2g",
+      "description": "14種類のスパイスを使用した、コクと深み！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_161101.jpg"
+    }
+  },
+  "cry_ori_pote": {
+    "2": {
+      "name": "オリジナルカレーポテトサラダセット 並盛",
+      "price": "500円",
+      "calorie": "764kcal",
+      "protein": "14.5g",
+      "lipid": "20.8g",
+      "carbohydrate": "126.8g",
+      "sodium": "2333mg",
+      "SaltEquivalent": "5.9g",
+      "description": "それぞれ単品で購入するより40円お得！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_pote_170307.jpg"
+    },
+    "3": {
+      "name": "オリジナルカレーポテトサラダセット 大盛",
+      "price": "600円",
+      "calorie": "980kcal",
+      "protein": "18g",
+      "lipid": "24g",
+      "carbohydrate": "168.5g",
+      "sodium": "2631mg",
+      "SaltEquivalent": "6.7g",
+      "description": "それぞれ単品で購入するより40円お得！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_pote_170307.jpg"
+    }
+  },
+  "cry_ori_gyu_p": {
+    "2": {
+      "name": "カレギュウ（プレミアム牛肉使用） 並盛",
+      "price": "590円",
+      "calorie": "934kcal",
+      "protein": "23.2g",
+      "lipid": "37.1g",
+      "carbohydrate": "123.5g",
+      "sodium": "2514mg",
+      "SaltEquivalent": "6.4g",
+      "description": "プレミアム牛めしとオリジナルカレーが一皿で楽しめる！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_gyuu_p_160802.jpg"
+    },
+    "3": {
+      "price": "690円",
+      "calorie": "1151kcal",
+      "protein": "26.8g",
+      "lipid": "40.2g",
+      "carbohydrate": "165.2g",
+      "sodium": "2813mg",
+      "SaltEquivalent": "7.1g",
+      "description": "プレミアム牛めしとオリジナルカレーが一皿で楽しめる！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_gyuu_p_160802.jpg"
+    }
+  },
+  "cry_ori_gyu": {
+    "2": {
+      "name": "カレギュウ 並盛",
+      "price": "500円",
+      "calorie": "931kcal",
+      "protein": "23.2g",
+      "lipid": "36.8g",
+      "carbohydrate": "123.3g",
+      "sodium": "2514mg",
+      "SaltEquivalent": "6.4g",
+      "description": "牛めしとオリジナルカレーが一皿で楽しめる！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_gyuu_160802.jpg"
+    },
+    "3": {
+      "name": "カレギュウ 大盛",
+      "price": "600円",
+      "calorie": "1148kcal",
+      "protein": "26.7g",
+      "lipid": "40.2g",
+      "carbohydrate": "165g",
+      "sodium": "2812mg",
+      "SaltEquivalent": "7.1g",
+      "description": "牛めしとオリジナルカレーが一皿で楽しめる！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_gyuu_160802.jpg"
+    }
+  },
+  "cry_ori_hb": {
+    "2": {
+      "name": "ハンバーグカレー 並盛",
+      "price": "590円",
+      "calorie": "960kcal",
+      "protein": "32.9g",
+      "lipid": "33.5g",
+      "carbohydrate": "128g",
+      "sodium": "2808mg",
+      "SaltEquivalent": "7.1g",
+      "description": "ハンバーグでボリュームアップ！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_hb_160517.jpg"
+    },
+    "3": {
+      "name": "ハンバーグカレー 大盛",
+      "price": "690円",
+      "calorie": "1176kcal",
+      "protein": "36.4g",
+      "lipid": "36.7g",
+      "carbohydrate": "169.7g",
+      "sodium": "3106mg",
+      "SaltEquivalent": "7.9g",
+      "description": "ハンバーグでボリュームアップ！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_hb_160517.jpg"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "morning_teiban": {
+    "6": {
+      "name": "定番朝定食",
+      "price": "360円",
+      "calorie": "519kcal",
+      "protein": "14.7g",
+      "lipid": "7g",
+      "carbohydrate": "95.1g",
+      "sodium": "914mg",
+      "SaltEquivalent": "2.3g",
+      "description": "ライス、みそ汁、焼きのり、ミニお新香、生玉子のシンプルな組み合わせに「選べる小鉢」を付けた朝定食の定番商品",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/morning_teiban_160411.jpg"
+    }
+  },
+  "morning_yakizakana": {
+    "6": {
+      "name": "焼鮭定食",
+      "price": "450円",
+      "calorie": "542kcal",
+      "protein": "18.8g",
+      "lipid": "8g",
+      "carbohydrate": "95.4g",
+      "sodium": "1498mg",
+      "SaltEquivalent": "3.8g",
+      "description": "ライス、みそ汁、焼きのり、ミニお新香、生玉子のシンプルな組み合わせに「選べる小鉢」を付けた朝定食の定番商品",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/morning_yakizakana_160411.jpg"
+    }
+  },
+  "morning_sausage_egg": {
+    "6": {
+      "name": "ソーセージエッグ定食",
+      "price": "400円",
+      "calorie": "620kcal",
+      "protein": "19.1g",
+      "lipid": "14.8g",
+      "carbohydrate": "97.9g",
+      "sodium": "1134mg",
+      "SaltEquivalent": "2.9g",
+      "description": "良質なたんぱく質を含むと言われている玉子を目玉焼きにして、パリっとしたソーセージとミニ野菜を添えた松屋の朝定食でも人気の商品。「選べる小鉢」付き。",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/morning_sausage_egg_160411.jpg"
+    },
+    "7": {
+      "name": "ソーセージエッグW定食",
+      "price": "450円",
+      "calorie": "709kcal",
+      "protein": "24.9g",
+      "lipid": "21.5g",
+      "carbohydrate": "98g",
+      "sodium": "1200mg",
+      "SaltEquivalent": "3g",
+      "description": "玉子を2個使用したW定食は、身体を作る上でも必要なたんぱく質がしっかり摂れてお得な商品。「選べる小鉢」付き。",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/morning_sausage_egg_w_160411.jpg"
+    }
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "tei_gyuuyaki": {
+    "6": {
+      "name": "牛焼肉定食",
+      "price": "590円",
+      "calorie": "776kcal",
+      "protein": "24.8g",
+      "lipid": "30.1g",
+      "carbohydrate": "98.8g",
+      "sodium": "1110mg",
+      "SaltEquivalent": "2.8g",
+      "description": "大人気の定番メニュー！おろしと青ねぎでさらに美味しく！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_r_161018.jpg"
+    },
+    "7": {
+      "name": "牛焼肉W定食",
+      "price": "890円",
+      "calorie": "1098kcal",
+      "protein": "40.8g",
+      "lipid": "57.9g",
+      "carbohydrate": "100.8g",
+      "sodium": "1559mg",
+      "SaltEquivalent": "4g",
+      "description": "大人気の定番メニュー！おろしと青ねぎでさらに美味しく！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_r_161018.jpg"
+    },
+    "8": {
+      "name": "牛焼肉定食 ライスミニ",
+      "price": "590円",
+      "calorie": "776kcal",
+      "protein": "24.8g",
+      "lipid": "30.1g",
+      "carbohydrate": "98.8g",
+      "sodium": "1110mg",
+      "SaltEquivalent": "2.8g",
+      "description": "大人気の定番メニュー！おろしと青ねぎでさらに美味しく！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_r_161018.jpg"
+    },
+    "9": {
+      "name": "牛焼肉定食 単品",
+      "price": "390円",
+      "calorie": "322kcal",
+      "protein": "16g",
+      "lipid": "27.9g",
+      "carbohydrate": "2.1g",
+      "sodium": "449mg",
+      "SaltEquivalent": "1.1g",
+      "description": "大人気の定番メニュー！おろしと青ねぎでさらに美味しく！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_r_161018.jpg"
+    }
+  },
+  "tei_gyuuyaki_large": {
+    "6": {
+      "name": "牛焼肉ラージ定食",
+      "price": "740円",
+      "calorie": "941kcal",
+      "protein": "32.9g",
+      "lipid": "44.1g",
+      "carbohydrate": "100.4g",
+      "sodium": "1337mg",
+      "SaltEquivalent": "3.4g",
+      "description": "おかずが大盛！1.5倍！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_large_r_161209.jpg"
+    },
+    "9": {
+      "name": "牛焼肉ラージ定食 単品",
+      "price": "540円",
+      "calorie": "486kcal",
+      "protein": "24.1g",
+      "lipid": "41.9g",
+      "carbohydrate": "3.7g",
+      "sodium": "675mg",
+      "SaltEquivalent": "1.7g",
+      "description": "おかずが大盛！1.5倍！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_large_r_161209.jpg"
+    }
+  },
+  "tei_karubi": {
+    "6": {
+      "name": "カルビ焼肉定食",
+      "price": "630円",
+      "calorie": "912kcal",
+      "protein": "30.5g",
+      "lipid": "41g",
+      "carbohydrate": "102.3g",
+      "sodium": "1370mg",
+      "SaltEquivalent": "3.5g",
+      "description": "大人気の定番メニュー！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubiyakiniku_r_161018.jpg"
+    },
+    "7": {
+      "name": "カルビ焼肉W定食",
+      "price": "930円",
+      "calorie": "1370kcal",
+      "protein": "52.2g",
+      "lipid": "79.7g",
+      "carbohydrate": "107.8g",
+      "sodium": "2079mg",
+      "SaltEquivalent": "5.3g",
+      "description": "大人気の定番メニュー！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubiyakiniku_r_161018.jpg"
+    },
+    "8": {
+      "name": "カルビ焼肉定食 ライスミニ",
+      "price": "600円",
+      "calorie": "912kcal",
+      "protein": "30.5g",
+      "lipid": "41g",
+      "carbohydrate": "102.3g",
+      "sodium": "1370mg",
+      "SaltEquivalent": "3.5g",
+      "description": "大人気の定番メニュー！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubiyakiniku_r_161018.jpg"
+    },
+    "9": {
+      "name": "カルビ焼肉定食 単品",
+      "price": "430円",
+      "calorie": "458kcal",
+      "protein": "21.7g",
+      "lipid": "38.8g",
+      "carbohydrate": "5.5g",
+      "sodium": "709mg",
+      "SaltEquivalent": "1.8g",
+      "description": "大人気の定番メニュー！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubiyakiniku_r_161018.jpg"
+    }
+  },
+  "tei_karubi_large": {
+    "6": {
+      "name": "カルビ焼肉ラージ定食",
+      "price": "780円",
+      "calorie": "1067kcal",
+      "protein": "37.8g",
+      "lipid": "53.9g",
+      "carbohydrate": "104.6g",
+      "sodium": "1609mg",
+      "SaltEquivalent": "4.1g",
+      "description": "おかずが大盛！1.3倍！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubi_large_r_161209.jpg"
+    },
+    "9": {
+      "name": "カルビ焼肉ラージ定食 単品",
+      "price": "580円",
+      "calorie": "613kcal",
+      "protein": "29g",
+      "lipid": "51.7g",
+      "carbohydrate": "7.9g",
+      "sodium": "947mg",
+      "SaltEquivalent": "2.4g",
+      "description": "おかずが大盛！1.3倍！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubi_large_r_161209.jpg"
+    }
+  },
+  "tei_bara_yakiniku": {
+    "6": {
+      "name": "豚バラ焼肉定食",
+      "price": "550円",
+      "calorie": "773kcal",
+      "protein": "25.9g",
+      "lipid": "29.2g",
+      "carbohydrate": "98.8g",
+      "sodium": "1121mg",
+      "SaltEquivalent": "2.8g",
+      "description": "ジューシーな豚バラを塩コショウでシンプルに！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_r_161018.jpg"
+    },
+    "7": {
+      "name": "豚バラ焼肉W定食",
+      "price": "850円",
+      "calorie": "1092kcal",
+      "protein": "43.1g",
+      "lipid": "56.1g",
+      "carbohydrate": "100.8g",
+      "sodium": "1580mg",
+      "SaltEquivalent": "4g",
+      "description": "ジューシーな豚バラを塩コショウでシンプルに！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_r_161018.jpg"
+    },
+    "8": {
+      "name": "豚バラ焼肉定食 ライスミニ",
+      "price": "550円",
+      "calorie": "773kcal",
+      "protein": "25.9g",
+      "lipid": "29.2g",
+      "carbohydrate": "98.8g",
+      "sodium": "1121mg",
+      "SaltEquivalent": "2.8g",
+      "description": "ジューシーな豚バラを塩コショウでシンプルに！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_r_161018.jpg"
+    },
+    "9": {
+      "name": "豚バラ焼肉定食 単品",
+      "price": "350円",
+      "calorie": "319kcal",
+      "protein": "17.2g",
+      "lipid": "27g",
+      "carbohydrate": "2.1g",
+      "sodium": "460mg",
+      "SaltEquivalent": "1.2g",
+      "description": "ジューシーな豚バラを塩コショウでシンプルに！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_r_161018.jpg"
+    }
+  },
+  "tei_bara_yaki_large": {
+    "6": {
+      "name": "豚バラ焼肉ラージ定食",
+      "price": "700円",
+      "calorie": "936kcal",
+      "protein": "34.6g",
+      "lipid": "42.7g",
+      "carbohydrate": "100.4g",
+      "sodium": "1352mg",
+      "SaltEquivalent": "3.4g",
+      "description": "おかずが大盛！1.5倍！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_large_r_161209.jpg"
+    },
+    "9": {
+      "name": "豚バラ焼肉ラージ定食 単品",
+      "price": "500円",
+      "calorie": "482kcal",
+      "protein": "25.9g",
+      "lipid": "40.5g",
+      "carbohydrate": "3.7g",
+      "sodium": "691mg",
+      "SaltEquivalent": "1.8g",
+      "description": "おかずが大盛！1.5倍！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_large_r_161209.jpg"
+    }
+  },
+  "tei_shouga": {
+    "6": {
+      "name": "豚バラ生姜焼定食",
+      "price": "590円",
+      "calorie": "835kcal",
+      "protein": "27.4g",
+      "lipid": "31.6g",
+      "carbohydrate": "106.6g",
+      "sodium": "1773mg",
+      "SaltEquivalent": "4.5g",
+      "description": "すりおろし生姜がたっぷり入った旨味タレ！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
+    },
+    "7": {
+      "name": "豚バラ生姜焼W定食",
+      "price": "890円",
+      "calorie": "1215kcal",
+      "protein": "46.1g",
+      "lipid": "61.1g",
+      "carbohydrate": "116.4g",
+      "sodium": "2885mg",
+      "SaltEquivalent": "7.3g",
+      "description": "すりおろし生姜がたっぷり入った旨味タレ！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
+    },
+    "8": {
+      "name": "豚バラ生姜焼定食 ライスミニ",
+      "price": "560円",
+      "calorie": "835kcal",
+      "protein": "27.4g",
+      "lipid": "31.6g",
+      "carbohydrate": "106.6g",
+      "sodium": "1773mg",
+      "SaltEquivalent": "4.5g",
+      "description": "すりおろし生姜がたっぷり入った旨味タレ！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
+    },
+    "9": {
+      "name": "豚バラ生姜焼定食 単品",
+      "price": "390円",
+      "calorie": "380kcal",
+      "protein": "18.7g",
+      "lipid": "29.5g",
+      "carbohydrate": "9.8g",
+      "sodium": "1112mg",
+      "SaltEquivalent": "2.8g",
+      "description": "すりおろし生姜がたっぷり入った旨味タレ！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
+    }
+  },
+  "tei_shouga_large": {
+    "6": {
+      "name": "豚バラ生姜焼ラージ定食",
+      "price": "740円",
+      "calorie": "1025kcal",
+      "protein": "36.8g",
+      "lipid": "46.4g",
+      "carbohydrate": "111.5g",
+      "sodium": "2329mg",
+      "SaltEquivalent": "5.9g",
+      "description": "おかずが大盛！1.5倍！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
+    },
+    "9": {
+      "name": "豚バラ生姜焼ラージ定食 単品",
+      "price": "540円",
+      "calorie": "570kcal",
+      "protein": "28g",
+      "lipid": "44.2g",
+      "carbohydrate": "44.2g",
+      "sodium": "1668mg",
+      "SaltEquivalent": "4.2g",
+      "description": "おかずが大盛！1.5倍！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
+    }
+  },
+  "tei_karamiso": {
+    "6": {
+      "name": "豚と茄子の辛味噌炒め定食",
+      "price": "590円",
+      "calorie": "949kcal",
+      "protein": "40.9g",
+      "lipid": "116.1g",
+      "carbohydrate": "116.1g",
+      "sodium": "2180mg",
+      "SaltEquivalent": "5.5g",
+      "description": "NEW! 秋の定番！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_r_171010.jpg"
+    },
+    "7": {
+      "name": "豚と茄子の辛味噌炒めW定食",
+      "price": "890円",
+      "calorie": "1444kcal",
+      "protein": "41.7g",
+      "lipid": "79.7g",
+      "carbohydrate": "135.4g",
+      "sodium": "3699mg",
+      "SaltEquivalent": "9.4g",
+      "description": "NEW! 秋の定番！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_r_171010.jpg"
+    },
+    "8": {
+      "name": "豚と茄子の辛味噌炒め定食 ライスミニ",
+      "price": "560円",
+      "calorie": "949kcal",
+      "protein": "40.9g",
+      "lipid": "116.1g",
+      "carbohydrate": "116.1g",
+      "sodium": "2180mg",
+      "SaltEquivalent": "5.5g",
+      "description": "NEW! 秋の定番！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_r_171010.jpg"
+    },
+    "9": {
+      "name": "豚と茄子の辛味噌炒め定食 単品",
+      "price": "390円",
+      "calorie": "495kcal",
+      "protein": "16.5g",
+      "lipid": "38.7g",
+      "carbohydrate": "19.3g",
+      "sodium": "1519mg",
+      "SaltEquivalent": "3.9g",
+      "description": "NEW! 秋の定番！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_r_171010.jpg"
+    }
+  },
+  "tei_karamiso_pote": {
+    "6": {
+      "name": "豚と茄子の辛味噌炒め定食ポテトサラダセット",
+      "price": "630円",
+      "calorie": "1041kcal",
+      "protein": "26.3g",
+      "lipid": "46.6g",
+      "carbohydrate": "125.3g",
+      "sodium": "2337mg",
+      "SaltEquivalent": "6.0g",
+      "description": "NEW! いつもの野菜が+40円でポテトサラダに！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_pote_r_171010.jpg"
+    },
+    "7": {
+      "name": "豚と茄子の辛味噌炒め定食ポテトサラダセット W定食",
+      "price": "930円",
+      "calorie": "1536kcal",
+      "protein": "42.7g",
+      "lipid": "85.3g",
+      "carbohydrate": "144.6g",
+      "sodium": "3896mg",
+      "SaltEquivalent": "9/9g",
+      "description": "NEW! いつもの野菜が+40円でポテトサラダに！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_pote_r_171010.jpg"
+    },
+    "8": {
+      "name": "豚と茄子の辛味噌炒め定食ポテトサラダセット",
+      "price": "600円",
+      "calorie": "1041kcal",
+      "protein": "26.3g",
+      "lipid": "46.6g",
+      "carbohydrate": "125.3g",
+      "sodium": "2337mg",
+      "SaltEquivalent": "6.0g",
+      "description": "NEW! いつもの野菜が+40円でポテトサラダに！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_pote_r_171010.jpg"
+    }
+  },
+  "tei_hb_brown": {
+    "6": {
+      "name": "ブラウンソースハンバーグ定食",
+      "price": "590円",
+      "calorie": "864kcal",
+      "protein": "30.8g",
+      "lipid": "27.9g",
+      "carbohydrate": "119g",
+      "sodium": "1950mg",
+      "SaltEquivalent": "5g",
+      "description": "フランス産マッシュルーム使用の欧風ソース",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_r_171018.jpg"
+    },
+    "8": {
+      "name": "ブラウンソースハンバーグ定食 ライスミニ",
+      "price": "560円",
+      "calorie": "864kcal",
+      "protein": "30.8g",
+      "lipid": "27.9g",
+      "carbohydrate": "119g",
+      "sodium": "1950mg",
+      "SaltEquivalent": "5g",
+      "description": "フランス産マッシュルーム使用の欧風ソース",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_r_171018.jpg"
+    },
+    "9": {
+      "name": "ブラウンソースハンバーグ定食 単品",
+      "price": "390円",
+      "calorie": "409kcal",
+      "protein": "22.1g",
+      "lipid": "25.7g",
+      "carbohydrate": "22.2g",
+      "sodium": "1289mg",
+      "SaltEquivalent": "3.3g",
+      "description": "フランス産マッシュルーム使用の欧風ソース",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_r_171018.jpg"
+    }
+  },
+  "tei_brown_egg": {
+    "6": {
+      "name": "ブラウンソースエッグハンバーグ定食",
+      "price": "650円",
+      "calorie": "952kcal",
+      "protein": "36.6g",
+      "lipid": "36.6g",
+      "carbohydrate": "119.1g",
+      "sodium": "2015mg",
+      "SaltEquivalent": "5.1g",
+      "description": "フランス産マッシュルーム使用の欧風ソース",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_egg_r_171018.jpg"
+    },
+    "8": {
+      "name": "ブラウンソースエッグハンバーグ定食 ライスミニ",
+      "price": "620円",
+      "calorie": "952kcal",
+      "protein": "36.6g",
+      "lipid": "36.6g",
+      "carbohydrate": "119.1g",
+      "sodium": "2015mg",
+      "SaltEquivalent": "5.1g",
+      "description": "フランス産マッシュルーム使用の欧風ソース",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_egg_r_171018.jpg"
+    },
+    "9": {
+      "name": "ブラウンソースエッグハンバーグ定食 単品",
+      "price": "450円",
+      "calorie": "497kcal",
+      "protein": "27.9g",
+      "lipid": "32.5g",
+      "carbohydrate": "22.4g",
+      "sodium": "1354mg",
+      "SaltEquivalent": "3.4g",
+      "description": "フランス産マッシュルーム使用の欧風ソース",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_egg_r_171018.jpg"
+    }
+  },
+  "tei_tsukimi": {
+    "6": {
+      "name": "テリヤキ月見ハンバーグ定食",
+      "price": "630円",
+      "calorie": "987kcal",
+      "protein": "38.9g",
+      "lipid": "34.7g",
+      "carbohydrate": "124.4g",
+      "sodium": "2551mg",
+      "SaltEquivalent": "6.5g",
+      "description": "肉汁とベーコンの旨味が甘辛テリヤキソースと相性抜群！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_tsukimi_r_170926.jpg"
+    },
+    "8": {
+      "name": "テリヤキ月見ハンバーグ定食 ライスミニ",
+      "price": "600円",
+      "calorie": "987kcal",
+      "protein": "38.9g",
+      "lipid": "34.7g",
+      "carbohydrate": "124.4g",
+      "sodium": "2551mg",
+      "SaltEquivalent": "6.5g",
+      "description": "肉汁とベーコンの旨味が甘辛テリヤキソースと相性抜群！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_tsukimi_r_170926.jpg"
+    },
+    "9": {
+      "name": "テリヤキ月見ハンバーグ定食 単品",
+      "price": "430円",
+      "calorie": "532kcal",
+      "protein": "30.2g",
+      "lipid": "32.5g",
+      "carbohydrate": "27.6g",
+      "sodium": "1890mg",
+      "SaltEquivalent": "4.8g",
+      "description": "肉汁とベーコンの旨味が甘辛テリヤキソースと相性抜群！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_tsukimi_r_170926.jpg"
+    }
+  },
+  "tei_tsukimi_pote": {
+    "6": {
+      "name": "テリヤキ月見ハンバーグ定食ポテトサラダセット",
+      "price": "670円",
+      "calorie": "1079kcal",
+      "protein": "40g",
+      "lipid": "40.4g",
+      "carbohydrate": "133.6g",
+      "sodium": "2748mg",
+      "SaltEquivalent": "7g",
+      "description": "いつもの野菜が+40円でポテトサラダに！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_tsukimi_r_pote_.jpg"
+    },
+    "8": {
+      "name": "テリヤキ月見ハンバーグ定食ポテトサラダセット",
+      "price": "640円",
+      "calorie": "1079kcal",
+      "protein": "40g",
+      "lipid": "40.4g",
+      "carbohydrate": "133.6g",
+      "sodium": "2748mg",
+      "SaltEquivalent": "7g",
+      "description": "いつもの野菜が+40円でポテトサラダに！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_tsukimi_r_pote_.jpg"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "don_negishiobuta": {
+    "2": {
+      "name": "ネギたっぷりネギ塩豚カルビ丼並盛",
+      "price": "450円",
+      "calorie": "722kcal",
+      "protein": "22.2g",
+      "lipid": "25.3g",
+      "carbohydrate": "97.8g",
+      "sodium": "2008mg",
+      "SaltEquivalent": "5.1g",
+      "description": "さっぱり塩ダレ！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_negishiobuta_150521.jpg"
+    },
+    "3": {
+      "name": "ネギたっぷりネギ塩豚カルビ丼大盛",
+      "price": "550円",
+      "calorie": "982kcal",
+      "protein": "29.2g",
+      "lipid": "33.4g",
+      "carbohydrate": "135.8g",
+      "sodium": "2390mg",
+      "SaltEquivalent": "6.1g",
+      "description": "さっぱり塩ダレ！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_negishiobuta_150521.jpg"
+    }
+  },
+  "don_kimukaru": {
+    "2": {
+      "name": "キムカル丼並盛",
+      "price": "490円",
+      "calorie": "816kcal",
+      "protein": "24.1g",
+      "lipid": "28.1g",
+      "carbohydrate": "112.1g",
+      "sodium": "2173mg",
+      "SaltEquivalent": "5.5g",
+      "description": "カルビとキムチが相性バツグン！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_kimukaru_140220.jpg"
+    },
+    "3": {
+      "name": "キムカル丼大盛",
+      "price": "590円",
+      "calorie": "1175kcal",
+      "protein": "34.8g",
+      "lipid": "41.6g",
+      "carbohydrate": "159g",
+      "sodium": "2990mg",
+      "SaltEquivalent": "7.6g",
+      "description": "カルビとキムチが相性バツグン！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_kimukaru_140220.jpg"
+    },
+    "4": {
+      "name": "キムカル丼特盛",
+      "price": "740円",
+      "calorie": "1496kcal",
+      "protein": "44.6g",
+      "lipid": "54.8g",
+      "carbohydrate": "197.8g",
+      "sodium": "3457mg",
+      "SaltEquivalent": "8.8g",
+      "description": "店舗限定！特盛！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_kimukaru_toku_170718.jpg"
+    }
+  }
+}

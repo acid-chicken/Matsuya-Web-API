@@ -1,0 +1,58 @@
+{
+  "dri_blend": {
+    "9": {
+      "name": "ブレンド茶",
+      "price": "150円",
+      "calorie": "0kcal",
+      "protein": "0g",
+      "lipid": "0g",
+      "carbohydrate": "0g",
+      "sodium": "15~65mg",
+      "SaltEquivalent": "0g~0.2g",
+      "description": "",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/dri_blend_140801.jpg"
+    }
+  },
+  "drink_beer": {
+    "9": {
+      "name": "アサヒスーパードライ",
+      "price": "430円",
+      "calorie": "210kcal",
+      "protein": "1.0g~2.0g",
+      "lipid": "0g",
+      "carbohydrate": "15g",
+      "sodium": "0~40mg",
+      "SaltEquivalent": "0~0.1g",
+      "description": "",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/drink_beer.jpg"
+    }
+  },
+  "dri_karada_w": {
+    "9": {
+      "name": "からだすこやか茶W",
+      "price": "160円",
+      "calorie": "0kcal",
+      "protein": "0g",
+      "lipid": "0g",
+      "carbohydrate": "5g",
+      "sodium": "39mg",
+      "SaltEquivalent": "0.1g",
+      "description": "",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/dri_karada_w_170606.jpg"
+    }
+  },
+  "dri_cola_plus": {
+    "9": {
+      "name": "コカ・コーラプラス",
+      "price": "160円",
+      "calorie": "0kcal",
+      "protein": "0g",
+      "lipid": "0g",
+      "carbohydrate": "5.2g",
+      "sodium": "31mg",
+      "SaltEquivalent": "0.1g",
+      "description": "",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/dri_cola_plus_170606.jpg"
+    }
+  }
+}

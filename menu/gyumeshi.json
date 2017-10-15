@@ -1,0 +1,164 @@
+{
+  "gyumeshi": {
+    "mini": {
+      "name": "牛めし ミニ盛",
+      "price": "240円",
+      "calorie": "507kcal",
+      "protein": "14g",
+      "lipid": "18.8g",
+      "carbohydrate": "67.8g",
+      "sodium": "998mg",
+      "SaltEquivalent": "2.5g",
+      "description": "松屋の定番！ぜひ一度お試しください！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_160823.jpg"
+    },
+    "nami": {
+      "name": "牛めし 並盛",
+      "price": "290円",
+      "calorie": "709kcal",
+      "protein": "18.8g",
+      "lipid": "23.8g",
+      "carbohydrate": "100.6g",
+      "sodium": "1208mg",
+      "SaltEquivalent": "3.1g",
+      "description": "松屋の定番！ぜひ一度お試しください！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_160823.jpg"
+    },
+    "dai": {
+      "name": "牛めし 大盛",
+      "price": "390円",
+      "calorie": "945kcal",
+      "protein": "24.1g",
+      "lipid": "29.6g",
+      "carbohydrate": "139.7g",
+      "sodium": "1364mg",
+      "SaltEquivalent": "3.5g",
+      "description": "松屋の定番！ぜひ一度お試しください！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_160823.jpg"
+    },
+    "toku": {
+      "name": "牛めし 特盛",
+      "price": "500円",
+      "calorie": "1299kcal",
+      "protein": "34.5g",
+      "lipid": "46.2g",
+      "carbohydrate": "178.8g",
+      "sodium": "1761mg",
+      "SaltEquivalent": "4.5g",
+      "description": "松屋の定番！ぜひ一度お試しください！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_160823.jpg"
+    },
+    "atama": {
+      "name": "牛めし あたま大盛",
+      "price": "350円",
+      "calorie": "778kcal",
+      "protein": "21.6g",
+      "lipid": "29.4g",
+      "carbohydrate": "102.6g",
+      "sodium": "1363mg",
+      "SaltEquivalent": "3.5g",
+      "description": "「あたま大盛」は牛めしのライスが並、牛肉、玉ねぎが大盛の商品です。店舗限定！",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_atama_160920.jpg"
+    }
+  },
+  "gyu_negitama": {
+    "mini": {
+      "name": "ネギたっぷり旨辛ネギたま牛めし ミニ盛",
+      "price": "350円",
+      "calorie": "614kcal",
+      "protein": "21g",
+      "lipid": "25g",
+      "carbohydrate": "73.3g",
+      "sodium": "1379mg",
+      "SaltEquivalent": "3.5g",
+      "description": "シャキシャキネギ、とろ～り半熟玉子",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_negitama_1.jpg"
+    },
+    "nami": {
+      "name": "ネギたっぷり旨辛ネギたま牛めし 並盛",
+      "price": "400円",
+      "calorie": "840kcal",
+      "protein": "26.3g",
+      "lipid": "31.2g",
+      "carbohydrate": "109.1g",
+      "sodium": "1905mg",
+      "SaltEquivalent": "4.8g",
+      "description": "シャキシャキネギ、とろ～り半熟玉子",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_negitama_1.jpg"
+    },
+    "dai": {
+      "name": "ネギたっぷり旨辛ネギたま牛めし 大盛",
+      "price": "500円",
+      "calorie": "1076kcal",
+      "protein": "31.6g",
+      "lipid": "36.9g",
+      "carbohydrate": "148.2g",
+      "sodium": "2061mg",
+      "SaltEquivalent": "5.2g",
+      "description": "シャキシャキネギ、とろ～り半熟玉子",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_negitama_1.jpg"
+    },
+    "toku": {
+      "name": "ネギたっぷり旨辛ネギたま牛めし 特盛",
+      "price": "610円",
+      "calorie": "1430kcal",
+      "protein": "42.1g",
+      "lipid": "53.6g",
+      "carbohydrate": "187.3g",
+      "sodium": "2458mg",
+      "SaltEquivalent": "6.2g",
+      "description": "シャキシャキネギ、とろ～り半熟玉子",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_negitama_1.jpg"
+    }
+  },
+  "gyu_oroshi": {
+    "mini": {
+      "name": "おろしポン酢牛めし ミニ盛",
+      "price": "340円",
+      "calorie": "535kcal",
+      "protein": "15.4g",
+      "lipid": "19g",
+      "carbohydrate": "73.1g",
+      "sodium": "1618mg",
+      "SaltEquivalent": "4.1g",
+      "description": "定番牛めしをおろしポン酢でさっぱりと",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_oroshi_160823.jpg"
+    },
+    "nami": {
+      "name": "おろしポン酢牛めし 並盛",
+      "price": "390円",
+      "calorie": "736kcal",
+      "protein": "20.2g",
+      "lipid": "24g",
+      "carbohydrate": "105.8g",
+      "sodium": "1828mg",
+      "SaltEquivalent": "4.6g",
+      "description": "定番牛めしをおろしポン酢でさっぱりと",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_oroshi_160823.jpg"
+    },
+    "dai": {
+      "name": "おろしポン酢牛めし 大盛",
+      "price": "490円",
+      "calorie": "973kcal",
+      "protein": "25.5g",
+      "lipid": "29.8g",
+      "carbohydrate": "144.9g",
+      "sodium": "1985mg",
+      "SaltEquivalent": "5g",
+      "description": "定番牛めしをおろしポン酢でさっぱりと",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_oroshi_160823.jpg"
+    },
+    "toku": {
+      "name": "おろしポン酢牛めし 特盛",
+      "price": "600円",
+      "calorie": "1327kcal",
+      "protein": "35.9g",
+      "lipid": "46.4g",
+      "carbohydrate": "184.1g",
+      "sodium": "2381mg",
+      "SaltEquivalent": "6g",
+      "description": "定番牛めしをおろしポン酢でさっぱりと",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_oroshi_160823.jpg"
+    }
+  }
+}
