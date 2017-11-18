@@ -10,11 +10,14 @@
 1. `localhost:3000/random` でランダムに松屋のAPIを返す
 
 ## Author
+
 mak0tia
 
 ## License
+
 MIT
 
 ## その他
+
 IssueやPull Request待ってます
 [Twitter](https://twitter.com/hs6a) やってます
