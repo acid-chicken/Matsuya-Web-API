@@ -1,6 +1,6 @@
 {
   "udon_karubo": {
-    "9": {
+    "Single": {
       "name": "和風カルボナーラうどん",
       "price": "430円",
       "calorie": "541kcal",
@@ -14,7 +14,7 @@
     }
   },
   "udon_kitsune": {
-    "9": {
+    "Single": {
       "name": "きつねうどん",
       "price": "390円",
       "calorie": "470kcal",
@@ -28,7 +28,7 @@
     }
   },
   "udon_tantan": {
-    "9": {
+    "Single": {
       "name": "ピリ辛担々うどん",
       "price": "450円",
       "calorie": "588kcal",
@@ -42,7 +42,7 @@
     }
   },
   "udon_curry_niku": {
-    "9": {
+    "Single": {
       "name": "肉カレーうどん",
       "price": "450円",
       "calorie": "586kcal",
@@ -56,7 +56,7 @@
     }
   },
   "udon_curry_niku_pre": {
-    "9": {
+    "Single": {
       "name": "肉カレーうどん（プレミアム牛肉使用）",
       "price": "450円",
       "calorie": "545kcal",
@@ -70,7 +70,7 @@
     }
   },
   "udon_mini": {
-    "9": {
+    "Single": {
       "name": "ミニうどん",
       "price": "180円",
       "calorie": "188kcal",
@@ -84,7 +84,7 @@
     }
   },
   "udon_curry_mini": {
-    "9": {
+    "Single": {
       "name": "ミニカレーうどん",
       "price": "200円",
       "calorie": "231kcal",

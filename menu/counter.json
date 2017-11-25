@@ -1,6 +1,6 @@
 {
   "Soy_Sauce": {
-    "9": {
+    "Single": {
       "name": "醤油",
       "price": "",
       "calorie": "4kcal",
@@ -14,7 +14,7 @@
     }
   },
   "Red_Ginger": {
-    "9": {
+    "Single": {
       "name": "紅生姜",
       "price": "",
       "calorie": "1kcal",
@@ -28,7 +28,7 @@
     }
   },
   "Seven_Spice_Blend": {
-    "9": {
+    "Single": {
       "name": "七味唐辛子",
       "price": "",
       "calorie": "1kcal",
@@ -42,7 +42,7 @@
     }
   },
   "Black_Sesame_Roasting_Seasoning": {
-    "9": {
+    "Single": {
       "name": "黒胡麻焙煎七味",
       "price": "",
       "calorie": "2kcal",
@@ -56,7 +56,7 @@
     }
   },
   "French_Dressing": {
-    "9": {
+    "Single": {
       "name": "フレンチドレッシング",
       "price": "",
       "calorie": "163kcal",
@@ -70,7 +70,7 @@
     }
   },
   "Sesame_Dressing": {
-    "9": {
+    "Single": {
       "name": "ごまドレッシング",
       "price": "",
       "calorie": "69kcal",
@@ -84,7 +84,7 @@
     }
   },
   "Ponzu_Sauce": {
-    "9": {
+    "Single": {
       "name": "ポン酢だれ",
       "price": "",
       "calorie": "14kcal",
@@ -98,7 +98,7 @@
     }
   },
   "Barbecue_Sauce": {
-    "9": {
+    "Single": {
       "name": "バーベキューだれ",
       "price": "",
       "calorie": "25kcal",
@@ -112,7 +112,7 @@
     }
   },
   "Calvi_Sauce": {
-    "9": {
+    "Single": {
       "name": "カルビだれ",
       "price": "",
       "calorie": "35kcal",

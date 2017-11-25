@@ -1,6 +1,6 @@
 {
   "top_negitama": {
-    "9": {
+    "Single": {
       "name": "プラスたっぷりネギたま",
       "price": "110円",
       "calorie": "131kcal",
@@ -14,7 +14,7 @@
     }
   },
   "top_sausage_egg": {
-    "9": {
+    "Single": {
       "name": "プラスソーセージエッグ",
       "price": "110円",
       "calorie": "164kcal",
@@ -28,7 +28,7 @@
     }
   },
   "top_sausage_hanjuku": {
-    "9": {
+    "Single": {
       "name": "プラスソーセージ半熟玉子",
       "price": "110円",
       "calorie": "147kcal",
@@ -42,7 +42,7 @@
     }
   },
   "set_yasai_r_n": {
-    "9": {
+    "Single": {
       "name": "生野菜玉子セット券",
       "price": "160円",
       "calorie": "88kcal",
@@ -56,7 +56,7 @@
     }
   },
   "set_yasai_r_h": {
-    "9": {
+    "Single": {
       "name": "生野菜玉子セット券",
       "price": "160円",
       "calorie": "88kcal",
@@ -70,7 +70,7 @@
     }
   },
   "set_tonjiru_n": {
-    "9": {
+    "Single": {
       "name": "豚汁生玉子セット券",
       "price": "230円",
       "calorie": "391kcal",
@@ -84,7 +84,7 @@
     }
   },
   "set_tonjiru_h": {
-    "9": {
+    "Single": {
       "name": "豚汁半熟玉子セット券",
       "price": "230円",
       "calorie": "391kcal",
@@ -98,7 +98,7 @@
     }
   },
   "set_oshinko_n": {
-    "9": {
+    "Single": {
       "name": "お新香生玉子セット券",
       "price": "130円",
       "calorie": "88kcal",
@@ -112,7 +112,7 @@
     }
   },
   "set_oshinko_h": {
-    "9": {
+    "Single": {
       "name": "お新香生半熟玉子セット券",
       "price": "130円",
       "calorie": "88kcal",
@@ -126,7 +126,7 @@
     }
   },
   "set_kimuchi_n": {
-    "9": {
+    "Single": {
       "name": "キムチ生玉子セット券",
       "price": "130円",
       "calorie": "115kcal",
@@ -140,7 +140,7 @@
     }
   },
   "set_kimuchi_h": {
-    "9": {
+    "Single": {
       "name": "キムチ半熟玉子セット券",
       "price": "130円",
       "calorie": "115kcal",
@@ -154,7 +154,7 @@
     }
   },
   "set_tororo_namatamago": {
-    "9": {
+    "Single": {
       "name": "とろろ生玉子セット券",
       "price": "150円",
       "calorie": "115kcal",
@@ -168,7 +168,7 @@
     }
   },
   "set_tororo_hanjyukutamago": {
-    "9": {
+    "Single": {
       "name": "とろろ半熟玉子セット券",
       "price": "150円",
       "calorie": "115kcal",
@@ -182,7 +182,7 @@
     }
   },
   "set_tororo_namayasai": {
-    "9": {
+    "Single": {
       "name": "とろろ生野菜セット券",
       "price": "200円",
       "calorie": "61kcal",

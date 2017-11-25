@@ -7,8 +7,11 @@ var bodyParser = require('body-parser');
 
 var index = require('./routes/index');
 
-//API読み込み
-var random = require('./api/v1/random');
+//APIv1読み込み
+var v1random = require('./api/v1/random');
+
+//APIv2読み込み
+var v2random = require('./api/v2/random');
 
 var app = express();
 
@@ -27,8 +30,12 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', index);
-app.use('/v1/random', random);
 
+//APIv1実装
+app.use('/v1/random', v1random);
+
+//APIv2実装
+app.use('/v2/random', v2random);
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {

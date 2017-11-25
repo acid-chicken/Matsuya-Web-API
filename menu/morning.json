@@ -1,6 +1,6 @@
 {
   "morning_teiban": {
-    "6": {
+    "Set": {
       "name": "定番朝定食",
       "price": "360円",
       "calorie": "519kcal",
@@ -14,7 +14,7 @@
     }
   },
   "morning_yakizakana": {
-    "6": {
+    "Set": {
       "name": "焼鮭定食",
       "price": "450円",
       "calorie": "542kcal",
@@ -28,7 +28,7 @@
     }
   },
   "morning_sausage_egg": {
-    "6": {
+    "Set": {
       "name": "ソーセージエッグ定食",
       "price": "400円",
       "calorie": "620kcal",

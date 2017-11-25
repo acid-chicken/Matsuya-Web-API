@@ -1,6 +1,6 @@
 {
   "tei_gyuuyaki": {
-    "6": {
+    "Set": {
       "name": "牛焼肉定食",
       "price": "590円",
       "calorie": "776kcal",
@@ -12,7 +12,7 @@
       "description": "大人気の定番メニュー！おろしと青ねぎでさらに美味しく！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_r_161018.jpg"
     },
-    "7": {
+    "WSet": {
       "name": "牛焼肉W定食",
       "price": "890円",
       "calorie": "1098kcal",
@@ -24,7 +24,7 @@
       "description": "大人気の定番メニュー！おろしと青ねぎでさらに美味しく！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_r_161018.jpg"
     },
-    "8": {
+    "rMini": {
       "name": "牛焼肉定食 ライスミニ",
       "price": "590円",
       "calorie": "776kcal",
@@ -36,7 +36,7 @@
       "description": "大人気の定番メニュー！おろしと青ねぎでさらに美味しく！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_r_161018.jpg"
     },
-    "9": {
+    "Single": {
       "name": "牛焼肉定食 単品",
       "price": "390円",
       "calorie": "322kcal",
@@ -50,7 +50,7 @@
     }
   },
   "tei_gyuuyaki_large": {
-    "6": {
+    "Set": {
       "name": "牛焼肉ラージ定食",
       "price": "740円",
       "calorie": "941kcal",
@@ -62,7 +62,7 @@
       "description": "おかずが大盛！1.5倍！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_large_r_161209.jpg"
     },
-    "9": {
+    "Single": {
       "name": "牛焼肉ラージ定食 単品",
       "price": "540円",
       "calorie": "486kcal",
@@ -76,7 +76,7 @@
     }
   },
   "tei_karubi": {
-    "6": {
+    "Set": {
       "name": "カルビ焼肉定食",
       "price": "630円",
       "calorie": "912kcal",
@@ -88,7 +88,7 @@
       "description": "大人気の定番メニュー！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubiyakiniku_r_161018.jpg"
     },
-    "7": {
+    "WSet": {
       "name": "カルビ焼肉W定食",
       "price": "930円",
       "calorie": "1370kcal",
@@ -100,7 +100,7 @@
       "description": "大人気の定番メニュー！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubiyakiniku_r_161018.jpg"
     },
-    "8": {
+    "rMini": {
       "name": "カルビ焼肉定食 ライスミニ",
       "price": "600円",
       "calorie": "912kcal",
@@ -112,7 +112,7 @@
       "description": "大人気の定番メニュー！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubiyakiniku_r_161018.jpg"
     },
-    "9": {
+    "Single": {
       "name": "カルビ焼肉定食 単品",
       "price": "430円",
       "calorie": "458kcal",
@@ -126,7 +126,7 @@
     }
   },
   "tei_karubi_large": {
-    "6": {
+    "Set": {
       "name": "カルビ焼肉ラージ定食",
       "price": "780円",
       "calorie": "1067kcal",
@@ -138,7 +138,7 @@
       "description": "おかずが大盛！1.3倍！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubi_large_r_161209.jpg"
     },
-    "9": {
+    "Single": {
       "name": "カルビ焼肉ラージ定食 単品",
       "price": "580円",
       "calorie": "613kcal",
@@ -152,7 +152,7 @@
     }
   },
   "tei_bara_yakiniku": {
-    "6": {
+    "Set": {
       "name": "豚バラ焼肉定食",
       "price": "550円",
       "calorie": "773kcal",
@@ -164,7 +164,7 @@
       "description": "ジューシーな豚バラを塩コショウでシンプルに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_r_161018.jpg"
     },
-    "7": {
+    "WSet": {
       "name": "豚バラ焼肉W定食",
       "price": "850円",
       "calorie": "1092kcal",
@@ -176,7 +176,7 @@
       "description": "ジューシーな豚バラを塩コショウでシンプルに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_r_161018.jpg"
     },
-    "8": {
+    "rMini": {
       "name": "豚バラ焼肉定食 ライスミニ",
       "price": "550円",
       "calorie": "773kcal",
@@ -188,7 +188,7 @@
       "description": "ジューシーな豚バラを塩コショウでシンプルに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_r_161018.jpg"
     },
-    "9": {
+    "Single": {
       "name": "豚バラ焼肉定食 単品",
       "price": "350円",
       "calorie": "319kcal",
@@ -202,7 +202,7 @@
     }
   },
   "tei_bara_yaki_large": {
-    "6": {
+    "Set": {
       "name": "豚バラ焼肉ラージ定食",
       "price": "700円",
       "calorie": "936kcal",
@@ -214,7 +214,7 @@
       "description": "おかずが大盛！1.5倍！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_large_r_161209.jpg"
     },
-    "9": {
+    "Single": {
       "name": "豚バラ焼肉ラージ定食 単品",
       "price": "500円",
       "calorie": "482kcal",
@@ -228,7 +228,7 @@
     }
   },
   "tei_shouga": {
-    "6": {
+    "Set": {
       "name": "豚バラ生姜焼定食",
       "price": "590円",
       "calorie": "835kcal",
@@ -240,7 +240,7 @@
       "description": "すりおろし生姜がたっぷり入った旨味タレ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
     },
-    "7": {
+    "WSet": {
       "name": "豚バラ生姜焼W定食",
       "price": "890円",
       "calorie": "1215kcal",
@@ -252,7 +252,7 @@
       "description": "すりおろし生姜がたっぷり入った旨味タレ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
     },
-    "8": {
+    "rMini": {
       "name": "豚バラ生姜焼定食 ライスミニ",
       "price": "560円",
       "calorie": "835kcal",
@@ -264,7 +264,7 @@
       "description": "すりおろし生姜がたっぷり入った旨味タレ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
     },
-    "9": {
+    "Single": {
       "name": "豚バラ生姜焼定食 単品",
       "price": "390円",
       "calorie": "380kcal",
@@ -278,7 +278,7 @@
     }
   },
   "tei_shouga_large": {
-    "6": {
+    "Set": {
       "name": "豚バラ生姜焼ラージ定食",
       "price": "740円",
       "calorie": "1025kcal",
@@ -290,7 +290,7 @@
       "description": "おかずが大盛！1.5倍！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
     },
-    "9": {
+    "Single": {
       "name": "豚バラ生姜焼ラージ定食 単品",
       "price": "540円",
       "calorie": "570kcal",
@@ -304,7 +304,7 @@
     }
   },
   "tei_karamiso": {
-    "6": {
+    "Set": {
       "name": "豚と茄子の辛味噌炒め定食",
       "price": "590円",
       "calorie": "949kcal",
@@ -316,7 +316,7 @@
       "description": "NEW! 秋の定番！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_r_171010.jpg"
     },
-    "7": {
+    "WSet": {
       "name": "豚と茄子の辛味噌炒めW定食",
       "price": "890円",
       "calorie": "1444kcal",
@@ -328,7 +328,7 @@
       "description": "NEW! 秋の定番！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_r_171010.jpg"
     },
-    "8": {
+    "rMini": {
       "name": "豚と茄子の辛味噌炒め定食 ライスミニ",
       "price": "560円",
       "calorie": "949kcal",
@@ -340,7 +340,7 @@
       "description": "NEW! 秋の定番！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_r_171010.jpg"
     },
-    "9": {
+    "Single": {
       "name": "豚と茄子の辛味噌炒め定食 単品",
       "price": "390円",
       "calorie": "495kcal",
@@ -354,7 +354,7 @@
     }
   },
   "tei_karamiso_pote": {
-    "6": {
+    "Set": {
       "name": "豚と茄子の辛味噌炒め定食ポテトサラダセット",
       "price": "630円",
       "calorie": "1041kcal",
@@ -366,7 +366,7 @@
       "description": "NEW! いつもの野菜が+40円でポテトサラダに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_pote_r_171010.jpg"
     },
-    "7": {
+    "WSet": {
       "name": "豚と茄子の辛味噌炒め定食ポテトサラダセット W定食",
       "price": "930円",
       "calorie": "1536kcal",
@@ -378,7 +378,7 @@
       "description": "NEW! いつもの野菜が+40円でポテトサラダに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_pote_r_171010.jpg"
     },
-    "8": {
+    "rMini": {
       "name": "豚と茄子の辛味噌炒め定食ポテトサラダセット",
       "price": "600円",
       "calorie": "1041kcal",
@@ -392,7 +392,7 @@
     }
   },
   "tei_hb_brown": {
-    "6": {
+    "Set": {
       "name": "ブラウンソースハンバーグ定食",
       "price": "590円",
       "calorie": "864kcal",
@@ -404,7 +404,7 @@
       "description": "フランス産マッシュルーム使用の欧風ソース",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_r_171018.jpg"
     },
-    "8": {
+    "rMini": {
       "name": "ブラウンソースハンバーグ定食 ライスミニ",
       "price": "560円",
       "calorie": "864kcal",
@@ -416,7 +416,7 @@
       "description": "フランス産マッシュルーム使用の欧風ソース",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_r_171018.jpg"
     },
-    "9": {
+    "Single": {
       "name": "ブラウンソースハンバーグ定食 単品",
       "price": "390円",
       "calorie": "409kcal",
@@ -430,7 +430,7 @@
     }
   },
   "tei_brown_egg": {
-    "6": {
+    "Set": {
       "name": "ブラウンソースエッグハンバーグ定食",
       "price": "650円",
       "calorie": "952kcal",
@@ -442,7 +442,7 @@
       "description": "フランス産マッシュルーム使用の欧風ソース",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_egg_r_171018.jpg"
     },
-    "8": {
+    "rMini": {
       "name": "ブラウンソースエッグハンバーグ定食 ライスミニ",
       "price": "620円",
       "calorie": "952kcal",
@@ -454,7 +454,7 @@
       "description": "フランス産マッシュルーム使用の欧風ソース",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_egg_r_171018.jpg"
     },
-    "9": {
+    "Single": {
       "name": "ブラウンソースエッグハンバーグ定食 単品",
       "price": "450円",
       "calorie": "497kcal",
@@ -468,7 +468,7 @@
     }
   },
   "tei_tsukimi": {
-    "6": {
+    "Set": {
       "name": "テリヤキ月見ハンバーグ定食",
       "price": "630円",
       "calorie": "987kcal",
@@ -480,7 +480,7 @@
       "description": "肉汁とベーコンの旨味が甘辛テリヤキソースと相性抜群！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_tsukimi_r_170926.jpg"
     },
-    "8": {
+    "rMini": {
       "name": "テリヤキ月見ハンバーグ定食 ライスミニ",
       "price": "600円",
       "calorie": "987kcal",
@@ -492,7 +492,7 @@
       "description": "肉汁とベーコンの旨味が甘辛テリヤキソースと相性抜群！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_tsukimi_r_170926.jpg"
     },
-    "9": {
+    "Single": {
       "name": "テリヤキ月見ハンバーグ定食 単品",
       "price": "430円",
       "calorie": "532kcal",
@@ -506,7 +506,7 @@
     }
   },
   "tei_tsukimi_pote": {
-    "6": {
+    "Set": {
       "name": "テリヤキ月見ハンバーグ定食ポテトサラダセット",
       "price": "670円",
       "calorie": "1079kcal",
@@ -518,7 +518,7 @@
       "description": "いつもの野菜が+40円でポテトサラダに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_tsukimi_r_pote_.jpg"
     },
-    "8": {
+    "rMini": {
       "name": "テリヤキ月見ハンバーグ定食ポテトサラダセット",
       "price": "640円",
       "calorie": "1079kcal",

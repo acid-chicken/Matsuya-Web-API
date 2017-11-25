@@ -1,6 +1,6 @@
 {
   "gyumeshi": {
-    "mini": {
+    "Mini": {
       "name": "牛めし ミニ盛",
       "price": "240円",
       "calorie": "507kcal",
@@ -12,7 +12,7 @@
       "description": "松屋の定番！ぜひ一度お試しください！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_160823.jpg"
     },
-    "nami": {
+    "Regular": {
       "name": "牛めし 並盛",
       "price": "290円",
       "calorie": "709kcal",
@@ -24,7 +24,7 @@
       "description": "松屋の定番！ぜひ一度お試しください！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_160823.jpg"
     },
-    "dai": {
+    "Large": {
       "name": "牛めし 大盛",
       "price": "390円",
       "calorie": "945kcal",
@@ -36,7 +36,7 @@
       "description": "松屋の定番！ぜひ一度お試しください！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_160823.jpg"
     },
-    "toku": {
+    "ExLarge": {
       "name": "牛めし 特盛",
       "price": "500円",
       "calorie": "1299kcal",
@@ -48,7 +48,7 @@
       "description": "松屋の定番！ぜひ一度お試しください！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_160823.jpg"
     },
-    "atama": {
+    "ALarge": {
       "name": "牛めし あたま大盛",
       "price": "350円",
       "calorie": "778kcal",
@@ -62,7 +62,7 @@
     }
   },
   "gyu_negitama": {
-    "mini": {
+    "Mini": {
       "name": "ネギたっぷり旨辛ネギたま牛めし ミニ盛",
       "price": "350円",
       "calorie": "614kcal",
@@ -74,7 +74,7 @@
       "description": "シャキシャキネギ、とろ～り半熟玉子",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_negitama_1.jpg"
     },
-    "nami": {
+    "Regular": {
       "name": "ネギたっぷり旨辛ネギたま牛めし 並盛",
       "price": "400円",
       "calorie": "840kcal",
@@ -86,7 +86,7 @@
       "description": "シャキシャキネギ、とろ～り半熟玉子",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_negitama_1.jpg"
     },
-    "dai": {
+    "Large": {
       "name": "ネギたっぷり旨辛ネギたま牛めし 大盛",
       "price": "500円",
       "calorie": "1076kcal",
@@ -98,7 +98,7 @@
       "description": "シャキシャキネギ、とろ～り半熟玉子",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_negitama_1.jpg"
     },
-    "toku": {
+    "ExLarge": {
       "name": "ネギたっぷり旨辛ネギたま牛めし 特盛",
       "price": "610円",
       "calorie": "1430kcal",
@@ -112,7 +112,7 @@
     }
   },
   "gyu_oroshi": {
-    "mini": {
+    "Mini": {
       "name": "おろしポン酢牛めし ミニ盛",
       "price": "340円",
       "calorie": "535kcal",
@@ -124,7 +124,7 @@
       "description": "定番牛めしをおろしポン酢でさっぱりと",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_oroshi_160823.jpg"
     },
-    "nami": {
+    "Regular": {
       "name": "おろしポン酢牛めし 並盛",
       "price": "390円",
       "calorie": "736kcal",
@@ -136,7 +136,7 @@
       "description": "定番牛めしをおろしポン酢でさっぱりと",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_oroshi_160823.jpg"
     },
-    "dai": {
+    "Large": {
       "name": "おろしポン酢牛めし 大盛",
       "price": "490円",
       "calorie": "973kcal",
@@ -148,7 +148,7 @@
       "description": "定番牛めしをおろしポン酢でさっぱりと",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_oroshi_160823.jpg"
     },
-    "toku": {
+    "ExLarge": {
       "name": "おろしポン酢牛めし 特盛",
       "price": "600円",
       "calorie": "1327kcal",

@@ -1,6 +1,6 @@
 {
   "okosama_pre_gyuu": {
-    "9": {
+    "Single": {
       "name": "牛焼肉定食",
       "price": "590円",
       "calorie": "776kcal",
@@ -14,7 +14,7 @@
     }
   },
   "okosama_gyuu": {
-    "9": {
+    "Single": {
       "name": "お子様牛めしプレート",
       "price": "380円",
       "calorie": "490kcal",
@@ -28,7 +28,7 @@
     }
   },
   "okosama_curry": {
-    "9": {
+    "Single": {
       "name": "お子様カレープレート",
       "price": "380円",
       "calorie": "453kcal",
@@ -42,7 +42,7 @@
     }
   },
   "omocha": {
-    "9": {
+    "Single": {
       "name": "おもちゃセット",
       "price": "150円",
       "calorie": "101kcal",

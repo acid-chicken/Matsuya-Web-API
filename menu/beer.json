@@ -1,6 +1,6 @@
 {
   "beer_s": {
-    "9": {
+    "Single": {
       "name": "生ビール小ジョッキ",
       "price": "150円",
       "calorie": "92kcal",
@@ -14,7 +14,7 @@
     }
   },
   "highball_s": {
-    "9": {
+    "Single": {
       "name": "ハイボール小ジョッキ",
       "price": "150円",
       "calorie": "94kcal",
@@ -28,7 +28,7 @@
     }
   },
   "beer_m": {
-    "9": {
+    "Single": {
       "name": "生ビール中ジョッキ",
       "price": "290円",
       "calorie": "134kcal",
@@ -42,7 +42,7 @@
     }
   },
   "highball_m": {
-    "9": {
+    "Single": {
       "name": "ハイボール中ジョッキ",
       "price": "290円",
       "calorie": "135kcal",

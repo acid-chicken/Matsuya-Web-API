@@ -1,6 +1,6 @@
-{
+  {
   "sidemenu_namatamago": {
-    "9": {
+    "Single": {
       "name": "生玉子",
       "price": "60円",
       "calorie": "71kcal",
@@ -14,7 +14,7 @@
     }
   },
   "sidemenu_hanjukutamago": {
-    "9": {
+    "Single": {
       "name": "半熟玉子",
       "price": "60円",
       "calorie": "71kcal",
@@ -28,7 +28,7 @@
     }
   },
   "namayasai": {
-    "9": {
+    "Single": {
       "name": "生野菜",
       "price": "110円",
       "calorie": "17kcal",
@@ -42,7 +42,7 @@
     }
   },
   "sidemenu_oshinko": {
-    "9": {
+    "Single": {
       "name": "お新香",
       "price": "80円",
       "calorie": "17kcal",
@@ -56,7 +56,7 @@
     }
   },
   "sidemenu_kimuchi": {
-    "9": {
+    "Single": {
       "name": "キムチ",
       "price": "80円",
       "calorie": "45kcal",
@@ -70,7 +70,7 @@
     }
   },
   "sidemenu_tororo": {
-    "9": {
+    "Single": {
       "name": "とろろ",
       "price": "100円",
       "calorie": "44kcal",
@@ -84,7 +84,7 @@
     }
   },
   "side_komatsuna": {
-    "9": {
+    "Single": {
       "name": "小松菜ナムル",
       "price": "80円",
       "calorie": "21kcal",
@@ -98,7 +98,7 @@
     }
   },
   "sidemenu_hiyayakko": {
-    "9": {
+    "Single": {
       "name": "冷奴",
       "price": "100円",
       "calorie": "92kcal",
@@ -112,7 +112,7 @@
     }
   },
   "side_potato": {
-    "9": {
+    "Single": {
       "name": "ポテト",
       "price": "50円",
       "calorie": "92kcal",
@@ -152,7 +152,7 @@
     }
   },
   "side_gyuu_kobachi_p": {
-    "9": {
+    "Single": {
       "name": "プラスプレミアム牛皿小鉢",
       "price": "100円",
       "calorie": "98kcal",
@@ -166,7 +166,7 @@
     }
   },
   "side_gyuu_kobach": {
-    "9": {
+    "Single": {
       "name": "プラス牛皿小鉢",
       "price": "100円",
       "calorie": "141kcal",
@@ -232,7 +232,7 @@
     }
   },
   "sidemenu_yakizakana": {
-    "9": {
+    "Single": {
       "name": "焼鮭",
       "price": "250円",
       "calorie": "95kcal",
@@ -296,7 +296,7 @@
     }
   },
   "side_yudoufu": {
-    "9": {
+    "Single": {
       "name": "湯豆腐",
       "price": "210円",
       "calorie": "109kcal",
@@ -310,7 +310,7 @@
     }
   },
   "sidemenu_misoshiru": {
-    "9": {
+    "Single": {
       "name": "みそ汁",
       "price": "60円",
       "calorie": "34kcal",
@@ -324,7 +324,7 @@
     }
   },
   "sidemenu_tonjiru": {
-    "9": {
+    "Single": {
       "name": "豚汁変更",
       "price": "180円",
       "calorie": "320kcal",
@@ -338,7 +338,7 @@
     }
   },
   "sidemenu_aonegi": {
-    "9": {
+    "Single": {
       "name": "青ネギ",
       "price": "60円",
       "calorie": "5kcal",
@@ -352,7 +352,7 @@
     }
   },
   "sidemenu_oroshi": {
-    "9": {
+    "Single": {
       "name": "大根おろし",
       "price": "80円",
       "calorie": "11kcal",
@@ -366,7 +366,7 @@
     }
   },
   "sidemenu_natto": {
-    "9": {
+    "Single": {
       "name": "納豆（ネギ付）",
       "price": "80円",
       "calorie": "85kcal",
@@ -380,7 +380,7 @@
     }
   },
   "sidemenu_nori": {
-    "9": {
+    "Single": {
       "name": "焼きのり",
       "price": "60円",
       "calorie": "3kcal",

@@ -1,6 +1,6 @@
 {
   "dri_blend": {
-    "9": {
+    "Single": {
       "name": "ブレンド茶",
       "price": "150円",
       "calorie": "0kcal",
@@ -14,7 +14,7 @@
     }
   },
   "drink_beer": {
-    "9": {
+    "Single": {
       "name": "アサヒスーパードライ",
       "price": "430円",
       "calorie": "210kcal",
@@ -28,7 +28,7 @@
     }
   },
   "dri_karada_w": {
-    "9": {
+    "Single": {
       "name": "からだすこやか茶W",
       "price": "160円",
       "calorie": "0kcal",
@@ -42,7 +42,7 @@
     }
   },
   "dri_cola_plus": {
-    "9": {
+    "Single": {
       "name": "コカ・コーラプラス",
       "price": "160円",
       "calorie": "0kcal",

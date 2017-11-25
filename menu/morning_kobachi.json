@@ -1,6 +1,6 @@
 {
   "morning_kobachi_natto": {
-    "9": {
+    "Single": {
       "name": "納豆（ネギ付）＜選べる小鉢＞",
       "price": "",
       "calorie": "85kcal",
@@ -14,7 +14,7 @@
     }
   },
   "morning_kobachi_tororo": {
-    "9": {
+    "Single": {
       "name": "とろろ＜選べる小鉢＞",
       "price": "",
       "calorie": "44kcal",
@@ -28,7 +28,7 @@
     }
   },
   "kobachi_pre_gyuu": {
-    "9": {
+    "Single": {
       "name": "プレミアムミニ牛皿＜選べる小鉢＞",
       "price": "",
       "calorie": "98kcal",
@@ -42,7 +42,7 @@
     }
   },
   "kobachi_gyuu": {
-    "9": {
+    "Single": {
       "name": "ミニ牛皿＜選べる小鉢＞",
       "price": "",
       "calorie": "141kcal",
@@ -56,7 +56,7 @@
     }
   },
   "morning_kobachi_hiyayakko": {
-    "9": {
+    "Single": {
       "name": "冷やっこ＜選べる小鉢＞",
       "price": "",
       "calorie": "92kcal",
@@ -70,7 +70,7 @@
     }
   },
   "kobachi_komatsuna": {
-    "9": {
+    "Single": {
       "name": "小松菜ナムル＜選べる小鉢＞",
       "price": "",
       "calorie": "21kcal",
