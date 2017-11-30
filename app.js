@@ -39,9 +39,7 @@ app.use('/v2/random', v2random);
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
-  var err = new Error('Not Found');
-  err.status = 404;
-  next(err);
+  res.sendStatus(404);
 });
 
 // error handler
