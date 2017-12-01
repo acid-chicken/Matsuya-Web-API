@@ -21,11 +21,15 @@
 
 mak0tia
 
+## Status
+
+[![Build Status](https://travis-ci.org/mak0tia/Matsuya-Web-API.svg?branch=master)](https://travis-ci.org/mak0tia/Matsuya-Web-API)
+
 ## License
 
 MIT
 
 ## その他
 
-IssueやPull Request待ってます  
+IssueやPull Request待ってます
 [Twitter](https://twitter.com/hs6a) やってます
