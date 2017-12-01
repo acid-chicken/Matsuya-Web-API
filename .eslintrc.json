@@ -1,0 +1,11 @@
+{
+"extends": ["eslint:recommended"],
+"plugins": [],
+"parserOptions": {},
+"env": {"node": true},
+"globals": {},
+     "rules": {
+         "semi": "error",
+         "no-console": 0
+     }
+}
