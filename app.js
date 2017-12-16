@@ -1,20 +1,29 @@
-var express = require('express');
-var path = require('path');
-// never used
-// var favicon = require('serve-favicon');
-var logger = require('morgan');
-var cookieParser = require('cookie-parser');
-var bodyParser = require('body-parser');
+import express from 'express';
+import path from 'path';
+import logger from 'morgan';
+import cookieParser from 'cookie-parser';
+import bodyParser from 'body-parser';
 
-var index = require('./routes/index');
+import index from './routes/index';
 
 //APIv1読み込み
-var v1random = require('./api/v1/random');
+import v1random from './api/v1/random';
 
 //APIv2読み込み
-var v2random = require('./api/v2/random');
+import v2random from './api/v2/random';
 
-var app = express();
+const app = express();
+
+// GraphQL
+import graphqlHTTP from 'express-graphql';
+import schema from './api/graphql/schema';
+
+app.use('/graphql', graphqlHTTP({
+  schema: schema.Schema,
+  rootValue: schema.Root,
+  graphiql: true, // プロダクション用だと消したほうがいいかも
+}));
+
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
