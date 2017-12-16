@@ -1,11 +1,16 @@
 {
 "extends": ["eslint:recommended"],
 "plugins": [],
-"parserOptions": {},
-"env": {"node": true},
+"env": {
+    "node": true
+},
 "globals": {},
      "rules": {
          "semi": "error",
          "no-console": 0
-     }
+     },
+     "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
+      }     
 }
