@@ -14,17 +14,6 @@ import v2random from './api/v2/random';
 
 const app = express();
 
-// GraphQL
-import graphqlHTTP from 'express-graphql';
-import schema from './api/graphql/schema';
-
-app.use('/graphql', graphqlHTTP({
-  schema: schema.Schema,
-  rootValue: schema.Root,
-  graphiql: true, // プロダクション用だと消したほうがいいかも
-}));
-
-
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
