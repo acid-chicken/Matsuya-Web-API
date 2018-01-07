@@ -1,8 +1,11 @@
 {
 "extends": ["eslint:recommended"],
-"plugins": [],
+"plugins": [
+    "jasmine"
+],
 "env": {
-    "node": true
+    "node": true,
+    "jasmine": true
 },
 "globals": {},
      "rules": {
