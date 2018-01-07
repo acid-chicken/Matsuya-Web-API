@@ -1,12 +1,19 @@
 import express from 'express';
 var router = express.Router();
-import fs from 'fs';
-const all = JSON.parse(fs.readFileSync('menu/all.json', 'utf8'));
+import {JsonUtil} from '../../helper/json';
 
 router.get('/', function (req, res) {
-  const random = Math.floor(Math.random() * (44 + 1 - 0)) + 0;
+  const jsonUtil = new JsonUtil();
+  const menu = jsonUtil.getAllMenu();
+  const keys = Object.keys(menu);
+
+  const random = Math.floor(Math.random() * (keys.length - 0)) + 0;
+  const innerKeys = Object.keys(menu[keys[random]]);
+  const innerRandom = Math.floor(Math.random() * (innerKeys.length - 0)) + 0;
+  console.log(menu[keys[random]][innerKeys[innerRandom]]);
+  const name = menu[keys[random]][innerKeys[innerRandom]]['name'];
   res.header("Content-Type", "application/json; charset=utf-8");
-  res.send("{\"menu\":\"" + all[random] + "\"}");
+  res.send("{\"menu\":\"" + name + "\"}");
 });
 
 module.exports = router;

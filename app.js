@@ -12,18 +12,10 @@ import v1random from './api/v1/random';
 //APIv2読み込み
 import v2random from './api/v2/random';
 
+//APIv3読み込み
+import v3random from './api/v3/random';
+
 const app = express();
-
-// GraphQL
-import graphqlHTTP from 'express-graphql';
-import schema from './api/graphql/schema';
-
-app.use('/graphql', graphqlHTTP({
-  schema: schema.Schema,
-  rootValue: schema.Root,
-  graphiql: true, // プロダクション用だと消したほうがいいかも
-}));
-
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -47,8 +39,11 @@ app.use('/v1/random', v1random);
 //APIv2実装
 app.use('/v2/random', v2random);
 
+// APIv3実装
+app.use('/v3/random', v3random);
+
 // catch 404 and forward to error handler
-app.use(function (req, res, next) {
+app.use(function (req, res) {
   res.sendStatus(404);
 });
 

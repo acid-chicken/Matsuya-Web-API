@@ -47,3 +47,6 @@ bower_components/
 
 # macOS
 .DS_Store
+
+# Enforce use yarn
+package-lock.json
