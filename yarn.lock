@@ -1372,15 +1372,6 @@ expand-range@^1.8.1:
   dependencies:
     fill-range "^2.1.0"
 
-express-graphql@^0.6.11:
-  version "0.6.11"
-  resolved "https://registry.yarnpkg.com/express-graphql/-/express-graphql-0.6.11.tgz#3dce78d0643e78e7e3606646ce162025ba0585ab"
-  dependencies:
-    accepts "^1.3.0"
-    content-type "^1.0.2"
-    http-errors "^1.3.0"
-    raw-body "^2.1.0"
-
 express@~4.15.5:
   version "4.15.5"
   resolved "https://registry.yarnpkg.com/express/-/express-4.15.5.tgz#670235ca9598890a5ae8170b83db722b842ed927"
@@ -1656,12 +1647,6 @@ graceful-fs@^4.1.2, graceful-fs@^4.1.4:
 "graceful-readlink@>= 1.0.0":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/graceful-readlink/-/graceful-readlink-1.0.1.tgz#4cafad76bc62f02fa039b2f94e9a3dd3a391a725"
-
-graphql@^0.12.0:
-  version "0.12.0"
-  resolved "https://registry.yarnpkg.com/graphql/-/graphql-0.12.0.tgz#a62576995f67f7a94a02f3e57e91d752bae70055"
-  dependencies:
-    iterall "1.1.3"
 
 har-schema@^1.0.5:
   version "1.0.5"
