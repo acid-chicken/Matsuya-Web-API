@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "main": "app.js",
   "scripts": {
-    "start": "babel-node ./bin/www --exec babel-node --presets es2015,stage-2",
+    "start": "babel-node ./bin/www --exec babel-node",
     "test": "babel-node spec/run.js",
     "lint": "eslint . --ext .js"
   },
@@ -23,8 +23,7 @@
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-stage-2": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
     "babel-register": "^6.26.0",
     "ejs": "^2.5.7",
     "eslint": "^4.12.1",
