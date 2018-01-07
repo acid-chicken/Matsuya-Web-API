@@ -35,7 +35,6 @@ class RandomMenu {
         const innerKeys = Object.keys(menu[keys[random]]);
         const innerRandom = Math.floor(Math.random() * (innerKeys.length - 0)) + 0;
         this.selected = menu[keys[random]][innerKeys[innerRandom]];
-        console.log(this.selected);
     }
 
     name() {
