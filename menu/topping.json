@@ -2,13 +2,13 @@
   "top_negitama": {
     "Single": {
       "name": "プラスたっぷりネギたま",
-      "price": "110円",
-      "calorie": "131kcal",
-      "protein": "7.5g",
-      "lipid": "7.3g",
-      "carbohydrate": "8.5g",
-      "sodium": "697mg",
-      "SaltEquivalent": "1.8g",
+      "price": 110,
+      "calorie": 131,
+      "protein": 7.5,
+      "lipid": 7.3,
+      "carbohydrate": 8.5,
+      "sodium": 697,
+      "SaltEquivalent": 1.8,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/top_negitama_161118.jpg"
     }
@@ -16,13 +16,13 @@
   "top_sausage_egg": {
     "Single": {
       "name": "プラスソーセージエッグ",
-      "price": "110円",
-      "calorie": "164kcal",
-      "protein": "9.7g",
-      "lipid": "12.6g",
-      "carbohydrate": "1g",
-      "sodium": "284mg",
-      "SaltEquivalent": "0.7g",
+      "price": 110,
+      "calorie": 164,
+      "protein": 9.7,
+      "lipid": 12.6,
+      "carbohydrate": 1,
+      "sodium": 284,
+      "SaltEquivalent": 0.7,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/top_sausage_egg_131031.jpg"
     }
@@ -30,13 +30,13 @@
   "top_sausage_hanjuku": {
     "Single": {
       "name": "プラスソーセージ半熟玉子",
-      "price": "110円",
-      "calorie": "147kcal",
-      "protein": "9.7g",
-      "lipid": "10.7g",
-      "carbohydrate": "1g",
-      "sodium": "284mg",
-      "SaltEquivalent": "0.7g",
+      "price": 110,
+      "calorie": 147,
+      "protein": 9.7,
+      "lipid": 10.7,
+      "carbohydrate": 1,
+      "sodium": 284,
+      "SaltEquivalent": 0.7,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/top_sausage_hanjuku_131031.jpg"
     }
@@ -44,13 +44,13 @@
   "set_yasai_r_n": {
     "Single": {
       "name": "生野菜玉子セット券",
-      "price": "160円",
-      "calorie": "88kcal",
-      "protein": "6.7g",
-      "lipid": "5g",
-      "carbohydrate": "4.1g",
-      "sodium": "70mg",
-      "SaltEquivalent": "0.2g",
+      "price": 160,
+      "calorie": 88,
+      "protein": 6.7,
+      "lipid": 5,
+      "carbohydrate": 4.1,
+      "sodium": 70,
+      "SaltEquivalent": 0.2,
       "description": "生野菜と生玉子がセットでお得！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/set_yasai_r_n_170222.jpg"
     }
@@ -58,13 +58,13 @@
   "set_yasai_r_h": {
     "Single": {
       "name": "生野菜玉子セット券",
-      "price": "160円",
-      "calorie": "88kcal",
-      "protein": "6.7g",
-      "lipid": "5g",
-      "carbohydrate": "4.1g",
-      "sodium": "70mg",
-      "SaltEquivalent": "0.2g",
+      "price": 160,
+      "calorie": 88,
+      "protein": 6.7,
+      "lipid": 5,
+      "carbohydrate": 4.1,
+      "sodium": 70,
+      "SaltEquivalent": 0.2,
       "description": "生野菜と生玉子がセットでお得！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/set_yasai_r_h_170222.jpg"
     }
@@ -72,13 +72,13 @@
   "set_tonjiru_n": {
     "Single": {
       "name": "豚汁生玉子セット券",
-      "price": "230円",
-      "calorie": "391kcal",
-      "protein": "15.6g",
-      "lipid": "26.6g",
-      "carbohydrate": "16.4g",
-      "sodium": "1645mg",
-      "SaltEquivalent": "4.2g",
+      "price": 230,
+      "calorie": 391,
+      "protein": 15.6,
+      "lipid": 26.6,
+      "carbohydrate": 16.4,
+      "sodium": 1645,
+      "SaltEquivalent": 4.2,
       "description": "あつあつ豚汁と生玉子がセットでお得！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/set_tonjiru_n_160212.jpg"
     }
@@ -86,13 +86,13 @@
   "set_tonjiru_h": {
     "Single": {
       "name": "豚汁半熟玉子セット券",
-      "price": "230円",
-      "calorie": "391kcal",
-      "protein": "15.6g",
-      "lipid": "26.6g",
-      "carbohydrate": "16.4g",
-      "sodium": "1645mg",
-      "SaltEquivalent": "4.2g",
+      "price": 230,
+      "calorie": 391,
+      "protein": 15.6,
+      "lipid": 26.6,
+      "carbohydrate": 16.4,
+      "sodium": 1645,
+      "SaltEquivalent": 4.2,
       "description": "あつあつ豚汁と半熟玉子がセットでお得！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/set_tonjiru_h_160212.jpg"
     }
@@ -100,13 +100,13 @@
   "set_oshinko_n": {
     "Single": {
       "name": "お新香生玉子セット券",
-      "price": "130円",
-      "calorie": "88kcal",
-      "protein": "6.8g",
-      "lipid": "4.9g",
-      "carbohydrate": "3.1g",
-      "sodium": "432mg",
-      "SaltEquivalent": "1.1g",
+      "price": 130,
+      "calorie": 88,
+      "protein": 6.8,
+      "lipid": 4.9,
+      "carbohydrate": 3.1,
+      "sodium": 432,
+      "SaltEquivalent": 1.1,
       "description": "サッパリお新香と生玉子がセットでお得！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/set_oshinko_n_160212.jpg"
     }
@@ -114,13 +114,13 @@
   "set_oshinko_h": {
     "Single": {
       "name": "お新香生半熟玉子セット券",
-      "price": "130円",
-      "calorie": "88kcal",
-      "protein": "6.8g",
-      "lipid": "4.9g",
-      "carbohydrate": "3.1g",
-      "sodium": "432mg",
-      "SaltEquivalent": "1.1g",
+      "price": 130,
+      "calorie": 88,
+      "protein": 6.8,
+      "lipid": 4.9,
+      "carbohydrate": 3.1,
+      "sodium": 432,
+      "SaltEquivalent": 1.1,
       "description": "サッパリお新香と生玉子がセットでお得！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/set_oshinko_h_160212.jpg"
     }
@@ -128,13 +128,13 @@
   "set_kimuchi_n": {
     "Single": {
       "name": "キムチ生玉子セット券",
-      "price": "130円",
-      "calorie": "115kcal",
-      "protein": "7.2g",
-      "lipid": "5.3g",
-      "carbohydrate": "8.7g",
-      "sodium": "766mg",
-      "SaltEquivalent": "1.9g",
+      "price": 130,
+      "calorie": 115,
+      "protein": 7.2,
+      "lipid": 5.3,
+      "carbohydrate": 8.7,
+      "sodium": 766,
+      "SaltEquivalent": 1.9,
       "description": "本格キムチと生玉子がセットでお得！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/set_kimuchi_n_160212.jpg"
     }
@@ -142,13 +142,13 @@
   "set_kimuchi_h": {
     "Single": {
       "name": "キムチ半熟玉子セット券",
-      "price": "130円",
-      "calorie": "115kcal",
-      "protein": "7.2g",
-      "lipid": "5.3g",
-      "carbohydrate": "8.7g",
-      "sodium": "766mg",
-      "SaltEquivalent": "1.9g",
+      "price": 130,
+      "calorie": 115,
+      "protein": 7.2,
+      "lipid": 5.3,
+      "carbohydrate": 8.7,
+      "sodium": 766,
+      "SaltEquivalent": 1.9,
       "description": "本格キムチと半熟玉子がセットでお得！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/set_kimuchi_h_160212.jpg"
     }
@@ -156,13 +156,13 @@
   "set_tororo_namatamago": {
     "Single": {
       "name": "とろろ生玉子セット券",
-      "price": "150円",
-      "calorie": "115kcal",
-      "protein": "7.3g",
-      "lipid": "5g",
-      "carbohydrate": "9.7g",
-      "sodium": "69mg",
-      "SaltEquivalent": "0.2g",
+      "price": 150,
+      "calorie": 115,
+      "protein": 7.3,
+      "lipid": 5,
+      "carbohydrate": 9.7,
+      "sodium": 69,
+      "SaltEquivalent": 0.2,
       "description": "本格キムチと半熟玉子がセットでお得！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/set_tororo_namatamago_160620.jpg"
     }
@@ -170,13 +170,13 @@
   "set_tororo_hanjyukutamago": {
     "Single": {
       "name": "とろろ半熟玉子セット券",
-      "price": "150円",
-      "calorie": "115kcal",
-      "protein": "7.3g",
-      "lipid": "5g",
-      "carbohydrate": "9.7g",
-      "sodium": "69mg",
-      "SaltEquivalent": "0.2g",
+      "price": 150,
+      "calorie": 115,
+      "protein": 7.3,
+      "lipid": 5,
+      "carbohydrate": 9.7,
+      "sodium": 69,
+      "SaltEquivalent": 0.2,
       "description": "本格キムチと半熟玉子がセットでお得！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/set_tororo_hanjyukutamago_160620.jpg"
     }
@@ -184,13 +184,13 @@
   "set_tororo_namayasai": {
     "Single": {
       "name": "とろろ生野菜セット券",
-      "price": "200円",
-      "calorie": "61kcal",
-      "protein": "2.5g",
-      "lipid": "0.3g",
-      "carbohydrate": "13.5g",
-      "sodium": "7mg",
-      "SaltEquivalent": "0g",
+      "price": 200,
+      "calorie": 61,
+      "protein": 2.5,
+      "lipid": 0.3,
+      "carbohydrate": 13.5,
+      "sodium": 7,
+      "SaltEquivalent": 0,
       "description": "※地域により、コーンをのせた「生野菜」を提供いたします。栄養成分は一部異なります。",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/set_tororo_yasai_r_170222.jpg"
     }

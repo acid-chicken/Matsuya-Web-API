@@ -2,13 +2,13 @@
   "udon_karubo": {
     "Single": {
       "name": "和風カルボナーラうどん",
-      "price": "430円",
-      "calorie": "541kcal",
-      "protein": "16.6g",
-      "lipid": "20g",
-      "carbohydrate": "71.1g",
-      "sodium": "1523mg",
-      "SaltEquivalent": "3.9g",
+      "price": 430,
+      "calorie": 541,
+      "protein": 16.6,
+      "lipid": 20,
+      "carbohydrate": 71.1,
+      "sodium": 1523,
+      "SaltEquivalent": 3.9,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/udon_karubo_3.jpg"
     }
@@ -16,13 +16,13 @@
   "udon_kitsune": {
     "Single": {
       "name": "きつねうどん",
-      "price": "390円",
-      "calorie": "470kcal",
-      "protein": "14g",
-      "lipid": "7.8g",
-      "carbohydrate": "82.7g",
-      "sodium": "2483mg",
-      "SaltEquivalent": "6.3g",
+      "price": 390,
+      "calorie": 470,
+      "protein": 14,
+      "lipid": 7.8,
+      "carbohydrate": 82.7,
+      "sodium": 2483,
+      "SaltEquivalent": 6.3,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/udon_kitsune_151008.jpg"
     }
@@ -30,13 +30,13 @@
   "udon_tantan": {
     "Single": {
       "name": "ピリ辛担々うどん",
-      "price": "450円",
-      "calorie": "588kcal",
-      "protein": "16g",
-      "lipid": "22.9g",
-      "carbohydrate": "77.9g",
-      "sodium": "2091mg",
-      "SaltEquivalent": "5.3g",
+      "price": 450,
+      "calorie": 588,
+      "protein": 16,
+      "lipid": 22.9,
+      "carbohydrate": 77.9,
+      "sodium": 2091,
+      "SaltEquivalent": 5.3,
       "description": "やや辛い、あったかうどん",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/udoon/udon_tantan.html"
     }
@@ -44,13 +44,13 @@
   "udon_curry_niku": {
     "Single": {
       "name": "肉カレーうどん",
-      "price": "450円",
-      "calorie": "586kcal",
-      "protein": "15.2g",
-      "lipid": "15.9g",
-      "carbohydrate": "93g",
-      "sodium": "3060mg",
-      "SaltEquivalent": "7.8g",
+      "price": 450,
+      "calorie": 586,
+      "protein": 15.2,
+      "lipid": 15.9,
+      "carbohydrate": 93,
+      "sodium": 3060,
+      "SaltEquivalent": 7.8,
       "description": "お肉が入ってボリュームアップ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/udon_curry_niku_151008.jpg"
     }
@@ -58,13 +58,13 @@
   "udon_curry_niku_pre": {
     "Single": {
       "name": "肉カレーうどん（プレミアム牛肉使用）",
-      "price": "450円",
-      "calorie": "545kcal",
-      "protein": "13.7g",
-      "lipid": "12.5g",
-      "carbohydrate": "92.1g",
-      "sodium": "3013mg",
-      "SaltEquivalent": "7.7g",
+      "price": 450,
+      "calorie": 545,
+      "protein": 13.7,
+      "lipid": 12.5,
+      "carbohydrate": 92.1,
+      "sodium": 3013,
+      "SaltEquivalent": 7.7,
       "description": "お肉が入ってボリュームアップ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/udon_curry_niku_pre_151008.jpg"
     }
@@ -72,13 +72,13 @@
   "udon_mini": {
     "Single": {
       "name": "ミニうどん",
-      "price": "180円",
-      "calorie": "188kcal",
-      "protein": "5.5g",
-      "lipid": "0.7g",
-      "carbohydrate": "38.3g",
-      "sodium": "1365mg",
-      "SaltEquivalent": "3.5g",
+      "price": 180,
+      "calorie": 188,
+      "protein": 5.5,
+      "lipid": 0.7,
+      "carbohydrate": 38.3,
+      "sodium": 1365,
+      "SaltEquivalent": 3.5,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/udon_mini_151008.jpg"
     }
@@ -86,13 +86,13 @@
   "udon_curry_mini": {
     "Single": {
       "name": "ミニカレーうどん",
-      "price": "200円",
-      "calorie": "231kcal",
-      "protein": "5.2g",
-      "lipid": "1.8g",
-      "carbohydrate": "46.9g",
-      "sodium": "1725mg",
-      "SaltEquivalent": "4.4g",
+      "price": 200,
+      "calorie": 231,
+      "protein": 5.2,
+      "lipid": 1.8,
+      "carbohydrate": 46.9,
+      "sodium": 1725,
+      "SaltEquivalent": 4.4,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/udon_mini_curry_141002.jpg"
     }

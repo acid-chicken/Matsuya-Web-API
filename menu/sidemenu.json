@@ -2,13 +2,13 @@
   "sidemenu_namatamago": {
     "Single": {
       "name": "生玉子",
-      "price": "60円",
-      "calorie": "71kcal",
-      "protein": "5.8g",
-      "lipid": "4.8g",
-      "carbohydrate": "0.1g",
-      "sodium": "66mg",
-      "SaltEquivalent": "0.2g",
+      "price": 60,
+      "calorie": 71,
+      "protein": 5.8,
+      "lipid": 4.8,
+      "carbohydrate": 0.1,
+      "sodium": 66,
+      "SaltEquivalent": 0.2,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_namatamago_160406.jpg"
     }
@@ -16,13 +16,13 @@
   "sidemenu_hanjukutamago": {
     "Single": {
       "name": "半熟玉子",
-      "price": "60円",
-      "calorie": "71kcal",
-      "protein": "5.8g",
-      "lipid": "4.8g",
-      "carbohydrate": "0.1g",
-      "sodium": "66mg",
-      "SaltEquivalent": "0.2g",
+      "price": 60,
+      "calorie": 71,
+      "protein": 5.8,
+      "lipid": 4.8,
+      "carbohydrate": 0.1,
+      "sodium": 66,
+      "SaltEquivalent": 0.2,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_hanjyukutamago_160406.jpg"
     }
@@ -30,13 +30,13 @@
   "namayasai": {
     "Single": {
       "name": "生野菜",
-      "price": "110円",
-      "calorie": "17kcal",
-      "protein": "0.9g",
-      "lipid": "0.2g",
-      "carbohydrate": "4g",
-      "sodium": "4mg",
-      "SaltEquivalent": "0g",
+      "price": 110,
+      "calorie": 17,
+      "protein": 0.9,
+      "lipid": 0.2,
+      "carbohydrate": 4,
+      "sodium": 4,
+      "SaltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_namayasai_r_170222.jpg"
     }
@@ -44,13 +44,13 @@
   "sidemenu_oshinko": {
     "Single": {
       "name": "お新香",
-      "price": "80円",
-      "calorie": "17kcal",
-      "protein": "1.0g",
-      "lipid": "0.1g",
-      "carbohydrate": "3g",
-      "sodium": "366mg",
-      "SaltEquivalent": "0.9g",
+      "price": 80,
+      "calorie": 17,
+      "protein": 1.0,
+      "lipid": 0.1,
+      "carbohydrate": 3,
+      "sodium": 366,
+      "SaltEquivalent": 0.9,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_oshinko_160406.jpg"
     }
@@ -58,13 +58,13 @@
   "sidemenu_kimuchi": {
     "Single": {
       "name": "キムチ",
-      "price": "80円",
-      "calorie": "45kcal",
-      "protein": "1.4g",
-      "lipid": "0.5g",
-      "carbohydrate": "8.6g",
-      "sodium": "700mg",
-      "SaltEquivalent": "1.8g",
+      "price": 80,
+      "calorie": 45,
+      "protein": 1.4,
+      "lipid": 0.5,
+      "carbohydrate": 8.6,
+      "sodium": 700,
+      "SaltEquivalent": 1.8,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_kimuchi_160406.jpg"
     }
@@ -72,13 +72,13 @@
   "sidemenu_tororo": {
     "Single": {
       "name": "とろろ",
-      "price": "100円",
-      "calorie": "44kcal",
-      "protein": "1.5g",
-      "lipid": "0.2g",
-      "carbohydrate": "9.5g",
-      "sodium": "3mg",
-      "SaltEquivalent": "0g",
+      "price": 100,
+      "calorie": 44,
+      "protein": 1.5,
+      "lipid": 0.2,
+      "carbohydrate": 9.5,
+      "sodium": 3,
+      "SaltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_tororo_150507.jpg"
     }
@@ -86,13 +86,13 @@
   "side_komatsuna": {
     "Single": {
       "name": "小松菜ナムル",
-      "price": "80円",
-      "calorie": "21kcal",
-      "protein": "0.7g",
-      "lipid": "0.9g",
-      "carbohydrate": "2.8g",
-      "sodium": "605mg",
-      "SaltEquivalent": "1.5g",
+      "price": 80,
+      "calorie": 21,
+      "protein": 0.7,
+      "lipid": 0.9,
+      "carbohydrate": 2.8,
+      "sodium": 605,
+      "SaltEquivalent": 1.5,
       "description": "※順次、販売終了予定",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_komatsuna_170831.jpg"
     }
@@ -100,13 +100,13 @@
   "sidemenu_hiyayakko": {
     "Single": {
       "name": "冷奴",
-      "price": "100円",
-      "calorie": "92kcal",
-      "protein": "7.9g",
-      "lipid": "4.7g",
-      "carbohydrate": "4.2g",
-      "sodium": "20mg",
-      "SaltEquivalent": "0.1g",
+      "price": 100,
+      "calorie": 92,
+      "protein": 7.9,
+      "lipid": 4.7,
+      "carbohydrate": 4.2,
+      "sodium": 20,
+      "SaltEquivalent": 0.1,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_hiyayakko_160411.jpg"
     }
@@ -114,13 +114,13 @@
   "side_potato": {
     "Single": {
       "name": "ポテト",
-      "price": "50円",
-      "calorie": "92kcal",
-      "protein": "1g",
-      "lipid": "5.6g",
-      "carbohydrate": "9.2g",
-      "sodium": "197mg",
-      "SaltEquivalent": "0.5g",
+      "price": 50,
+      "calorie": 92,
+      "protein": 1,
+      "lipid": 5.6,
+      "carbohydrate": 9.2,
+      "sodium": 197,
+      "SaltEquivalent": 0.5,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_potato_salad_130819.jpg"
     }
@@ -128,25 +128,25 @@
   "side_pre_gyuu": {
     "2": {
       "name": "プレミアム牛皿 並盛",
-      "price": "300円",
-      "calorie": "265kcal",
-      "protein": "10.3g",
-      "lipid": "22g",
-      "carbohydrate": "6.3g",
-      "sodium": "381mg",
-      "SaltEquivalent": "1g",
+      "price": 300,
+      "calorie": 265,
+      "protein": 10.3,
+      "lipid": 22,
+      "carbohydrate": 6.3,
+      "sodium": 381,
+      "SaltEquivalent": 1,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_pre_gyuuzara_170118.jpg"
     },
     "3": {
       "name": "プレミアム牛皿 大盛",
-      "price": "410円",
-      "calorie": "333kcal",
-      "protein": "13.1g",
-      "lipid": "27.5g",
-      "carbohydrate": "8.3g",
-      "sodium": "537mg",
-      "SaltEquivalent": "1.4g",
+      "price": 410,
+      "calorie": 333,
+      "protein": 13.1,
+      "lipid": 27.5,
+      "carbohydrate": 8.3,
+      "sodium": 537,
+      "SaltEquivalent": 1.4,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_pre_gyuuzara_170118.jpg"
     }
@@ -154,13 +154,13 @@
   "side_gyuu_kobachi_p": {
     "Single": {
       "name": "プラスプレミアム牛皿小鉢",
-      "price": "100円",
-      "calorie": "98kcal",
-      "protein": "3.9g",
-      "lipid": "8.2g",
-      "carbohydrate": "2.2g",
-      "sodium": "148mg",
-      "SaltEquivalent": "0.4g",
+      "price": 100,
+      "calorie": 98,
+      "protein": 3.9,
+      "lipid": 8.2,
+      "carbohydrate": 2.2,
+      "sodium": 148,
+      "SaltEquivalent": 0.4,
       "description": "※メインメニューご購入の方のみを対象としたメニューです",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_gyuu_kobachi_p_170130.jpg"
     }
@@ -168,13 +168,13 @@
   "side_gyuu_kobach": {
     "Single": {
       "name": "プラス牛皿小鉢",
-      "price": "100円",
-      "calorie": "141kcal",
-      "protein": "5.6g",
-      "lipid": "11.6g",
-      "carbohydrate": "3.5g",
-      "sodium": "218mg",
-      "SaltEquivalent": "0.6g",
+      "price": 100,
+      "calorie": 141,
+      "protein": 5.6,
+      "lipid": 11.6,
+      "carbohydrate": 3.5,
+      "sodium": 218,
+      "SaltEquivalent": 0.6,
       "description": "※メインメニューご購入の方のみを対象としたメニューです",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_gyuu_kobachi_170130.jpg"
     }
@@ -182,25 +182,25 @@
   "cry_original_sauce": {
     "2": {
       "name": "オリジナルカレーソース 並盛",
-      "price": "260円",
-      "calorie": "216kcal",
-      "protein": "4.6g",
-      "lipid": "13g",
-      "carbohydrate": "20.7g",
-      "sodium": "1337mg",
-      "SaltEquivalent": "3.4g",
+      "price": 260,
+      "calorie": 216,
+      "protein": 4.6,
+      "lipid": 13,
+      "carbohydrate": 20.7,
+      "sodium": 1337,
+      "SaltEquivalent": 3.4,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_original_sauce_161101.jpg"
     },
     "3": {
       "name": "オリジナルカレーソース大盛",
-      "price": "300円",
-      "calorie": "265kcal",
-      "protein": "5.7g",
-      "lipid": "15.9g",
-      "carbohydrate": "25.3g",
-      "sodium": "1634mg",
-      "SaltEquivalent": "4.2g",
+      "price": 300,
+      "calorie": 265,
+      "protein": 5.7,
+      "lipid": 15.9,
+      "carbohydrate": 25.3,
+      "sodium": 1634,
+      "SaltEquivalent": 4.2,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_original_sauce_161101.jpg"
     }
@@ -208,25 +208,25 @@
   "cry_ori_sauce_hb": {
     "2": {
       "name": "ハンバーグカレー（単品） 並盛",
-      "price": "470円",
-      "calorie": "522kcal",
-      "protein": "25g",
-      "lipid": "31.5g",
-      "carbohydrate": "35g",
-      "sodium": "2013mg",
-      "SaltEquivalent": "5.1g",
+      "price": 470,
+      "calorie": 522,
+      "protein": 25,
+      "lipid": 31.5,
+      "carbohydrate": 35,
+      "sodium": 2013,
+      "SaltEquivalent": 5.1,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_original_sauce_161101.jpg"
     },
     "3": {
       "name": "ハンバーグカレー（単品） 大盛",
-      "price": "510円",
-      "calorie": "570kcal",
-      "protein": "26g",
-      "lipid": "34.4g",
-      "carbohydrate": "39.6g",
-      "sodium": "2310mg",
-      "SaltEquivalent": "5.9g",
+      "price": 510,
+      "calorie": 570,
+      "protein": 26,
+      "lipid": 34.4,
+      "carbohydrate": 39.6,
+      "sodium": 2310,
+      "SaltEquivalent": 5.9,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_sauce_hb_160517.jpg"
     }
@@ -234,13 +234,13 @@
   "sidemenu_yakizakana": {
     "Single": {
       "name": "焼鮭",
-      "price": "250円",
-      "calorie": "95kcal",
-      "protein": "10.1g",
-      "lipid": "6g",
-      "carbohydrate": "0.2g",
-      "sodium": "600mg",
-      "SaltEquivalent": "1.5g",
+      "price": 250,
+      "calorie": 95,
+      "protein": 10.1,
+      "lipid": 6,
+      "carbohydrate": 0.2,
+      "sodium": 600,
+      "SaltEquivalent": 1.5,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/sidemenu_yakizakana.jpg"
     }
@@ -248,49 +248,49 @@
   "sidemenu_rice": {
     "1": {
       "name": "ライス ミニ盛",
-      "price": "130円",
-      "calorie": "269kcal",
-      "protein": "4g",
-      "lipid": "0.5g",
-      "carbohydrate": "59.4g",
-      "sodium": "2mg",
-      "SaltEquivalent": "0g",
+      "price": 130,
+      "calorie": 269,
+      "protein": 4,
+      "lipid": 0.5,
+      "carbohydrate": 59.4,
+      "sodium": 2,
+      "SaltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_rice_170127.jpg"
     },
     "2": {
       "name": "ライス 並盛",
-      "price": "160円",
-      "calorie": "403kcal",
-      "protein": "6g",
-      "lipid": "0.7g",
-      "carbohydrate": "89g",
-      "sodium": "2mg",
-      "SaltEquivalent": "0g",
+      "price": 160,
+      "calorie": 403,
+      "protein": 6,
+      "lipid": 0.7,
+      "carbohydrate": 89,
+      "sodium": 2,
+      "SaltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_rice_170127.jpg"
     },
     "3": {
       "name": "ライス 大盛",
-      "price": "220円",
-      "calorie": "571kcal",
-      "protein": "8.5g",
-      "lipid": "1g",
-      "carbohydrate": "126.1g",
-      "sodium": "3mg",
-      "SaltEquivalent": "0g",
+      "price": 220,
+      "calorie": 571,
+      "protein": 8.5,
+      "lipid": 1,
+      "carbohydrate": 126.1,
+      "sodium": 3,
+      "SaltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_rice_170127.jpg"
     },
     "4": {
       "name": "ライス 特盛",
-      "price": "260円",
-      "calorie": "722kcal",
-      "protein": "10.8g",
-      "lipid": "1.3g",
-      "carbohydrate": "159.5g",
-      "sodium": "4mg",
-      "SaltEquivalent": "0g",
+      "price": 260,
+      "calorie": 722,
+      "protein": 10.8,
+      "lipid": 1.3,
+      "carbohydrate": 159.5,
+      "sodium": 4,
+      "SaltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_rice_170127.jpg"
     }
@@ -298,13 +298,13 @@
   "side_yudoufu": {
     "Single": {
       "name": "湯豆腐",
-      "price": "210円",
-      "calorie": "109kcal",
-      "protein": "8g",
-      "lipid": "5.8g",
-      "carbohydrate": "5.8g",
-      "sodium": "383mg",
-      "SaltEquivalent": "1g",
+      "price": 210,
+      "calorie": 109,
+      "protein": 8,
+      "lipid": 5.8,
+      "carbohydrate": 5.8,
+      "sodium": 383,
+      "SaltEquivalent": 1,
       "description": "さっぱり塩ダレおろし",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_yudoufu_170301.jpg"
     }
@@ -312,13 +312,13 @@
   "sidemenu_misoshiru": {
     "Single": {
       "name": "みそ汁",
-      "price": "60円",
-      "calorie": "34kcal",
-      "protein": "1.8g",
-      "lipid": "1.3g",
-      "carbohydrate": "3.7g",
-      "sodium": "655mg",
-      "SaltEquivalent": "1.7g",
+      "price": 60,
+      "calorie": 34,
+      "protein": 1.8,
+      "lipid": 1.3,
+      "carbohydrate": 3.7,
+      "sodium": 655,
+      "SaltEquivalent": 1.7,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_misoshiru_170127.jpg"
     }
@@ -326,13 +326,13 @@
   "sidemenu_tonjiru": {
     "Single": {
       "name": "豚汁変更",
-      "price": "180円",
-      "calorie": "320kcal",
-      "protein": "9.8g",
-      "lipid": "21.7g",
-      "carbohydrate": "16.3g",
-      "sodium": "1579mg",
-      "SaltEquivalent": "4g",
+      "price": 180,
+      "calorie": 320,
+      "protein": 9.8,
+      "lipid": 21.7,
+      "carbohydrate": 16.3,
+      "sodium": 1579,
+      "SaltEquivalent": 4,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_tonjiru_170127.jpg"
     }
@@ -340,13 +340,13 @@
   "sidemenu_aonegi": {
     "Single": {
       "name": "青ネギ",
-      "price": "60円",
-      "calorie": "5kcal",
-      "protein": "0.3g",
-      "lipid": "0.1g",
-      "carbohydrate": "1.2g",
-      "sodium": "0mg",
-      "SaltEquivalent": "0g",
+      "price": 60,
+      "calorie": 5,
+      "protein": 0.3,
+      "lipid": 0.1,
+      "carbohydrate": 1.2,
+      "sodium": 0,
+      "SaltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/sidemenu_aonegi.jpg"
     }
@@ -354,13 +354,13 @@
   "sidemenu_oroshi": {
     "Single": {
       "name": "大根おろし",
-      "price": "80円",
-      "calorie": "11kcal",
-      "protein": "0.2g",
-      "lipid": "0.1g",
-      "carbohydrate": "2.5g",
-      "sodium": "10mg",
-      "SaltEquivalent": "0g",
+      "price": 80,
+      "calorie": 11,
+      "protein": 0.2,
+      "lipid": 0.1,
+      "carbohydrate": 2.5,
+      "sodium": 10,
+      "SaltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_oroshi_170118.jpg"
     }
@@ -368,13 +368,13 @@
   "sidemenu_natto": {
     "Single": {
       "name": "納豆（ネギ付）",
-      "price": "80円",
-      "calorie": "85kcal",
-      "protein": "7.6g",
-      "lipid": "3.9g",
-      "carbohydrate": "5g",
-      "sodium": "116mg",
-      "SaltEquivalent": "0.3g",
+      "price": 80,
+      "calorie": 85,
+      "protein": 7.6,
+      "lipid": 3.9,
+      "carbohydrate": 5,
+      "sodium": 116,
+      "SaltEquivalent": 0.3,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_natto_160411.jpg"
     }
@@ -382,13 +382,13 @@
   "sidemenu_nori": {
     "Single": {
       "name": "焼きのり",
-      "price": "60円",
-      "calorie": "3kcal",
-      "protein": "0.6g",
-      "lipid": "0.1g",
-      "carbohydrate": "0.7g",
-      "sodium": "8mg",
-      "SaltEquivalent": "0g",
+      "price": 60,
+      "calorie": 3,
+      "protein": 0.6,
+      "lipid": 0.1,
+      "carbohydrate": 0.7,
+      "sodium": 8,
+      "SaltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/sidemenu_nori.jpg"
     }
