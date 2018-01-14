@@ -3,12 +3,12 @@
     "Single": {
       "name": "醤油",
       "price": "",
-      "calorie": "4kcal",
-      "protein": "0.4g",
-      "lipid": "0g",
-      "carbohydrate": "0.5g",
-      "sodium": "275mg",
-      "SaltEquivalent": "0.7g",
+      "calorie": 4,
+      "protein": 0.4,
+      "lipid": 0,
+      "carbohydrate": 0.5,
+      "sodium": 275,
+      "SaltEquivalent": 0.7,
       "description": "",
       "imageURL": ""
     }
@@ -17,12 +17,12 @@
     "Single": {
       "name": "紅生姜",
       "price": "",
-      "calorie": "1kcal",
-      "protein": "0g",
-      "lipid": "0g",
-      "carbohydrate": "0.2g",
-      "sodium": "45mg",
-      "SaltEquivalent": "0.1g",
+      "calorie": 1,
+      "protein": 0,
+      "lipid": 0,
+      "carbohydrate": 0.2,
+      "sodium": 45,
+      "SaltEquivalent": 0.1,
       "description": "",
       "imageURL": ""
     }
@@ -31,12 +31,12 @@
     "Single": {
       "name": "七味唐辛子",
       "price": "",
-      "calorie": "1kcal",
-      "protein": "0g",
-      "lipid": "0g",
-      "carbohydrate": "0.2g",
-      "sodium": "0mg",
-      "SaltEquivalent": "0g",
+      "calorie": 1,
+      "protein": 0,
+      "lipid": 0,
+      "carbohydrate": 0.2,
+      "sodium": 0,
+      "SaltEquivalent": 0,
       "description": "",
       "imageURL": ""
     }
@@ -45,12 +45,12 @@
     "Single": {
       "name": "黒胡麻焙煎七味",
       "price": "",
-      "calorie": "2kcal",
-      "protein": "0g",
-      "lipid": "0.1g",
-      "carbohydrate": "0.2g",
-      "sodium": "1mg",
-      "SaltEquivalent": "0g",
+      "calorie": 2,
+      "protein": 0,
+      "lipid": 0.1,
+      "carbohydrate": 0.2,
+      "sodium": 1,
+      "SaltEquivalent": 0,
       "description": "",
       "imageURL": ""
     }
@@ -59,12 +59,12 @@
     "Single": {
       "name": "フレンチドレッシング",
       "price": "",
-      "calorie": "163kcal",
-      "protein": "0.1g",
-      "lipid": "16.3g",
-      "carbohydrate": "2.9g",
-      "sodium": "235mg",
-      "SaltEquivalent": "0.6g",
+      "calorie": 163,
+      "protein": 0.1,
+      "lipid": 16.3,
+      "carbohydrate": 2.9,
+      "sodium": 235,
+      "SaltEquivalent": 0.6,
       "description": "",
       "imageURL": ""
     }
@@ -73,12 +73,12 @@
     "Single": {
       "name": "ごまドレッシング",
       "price": "",
-      "calorie": "69kcal",
-      "protein": "0.8g",
-      "lipid": "5g",
-      "carbohydrate": "5.2g",
-      "sodium": "364mg",
-      "SaltEquivalent": "0.9g",
+      "calorie": 69,
+      "protein": 0.8,
+      "lipid": 5,
+      "carbohydrate": 5.2,
+      "sodium": 364,
+      "SaltEquivalent": 0.9,
       "description": "",
       "imageURL": ""
     }
@@ -87,12 +87,12 @@
     "Single": {
       "name": "ポン酢だれ",
       "price": "",
-      "calorie": "14kcal",
-      "protein": "1g",
-      "lipid": "0g",
-      "carbohydrate": "2.4g",
-      "sodium": "610mg",
-      "SaltEquivalent": "1.5g",
+      "calorie": 14,
+      "protein": 1,
+      "lipid": 0,
+      "carbohydrate": 2.4,
+      "sodium": 610,
+      "SaltEquivalent": 1.5,
       "description": "",
       "imageURL": ""
     }
@@ -101,12 +101,12 @@
     "Single": {
       "name": "バーベキューだれ",
       "price": "",
-      "calorie": "25kcal",
-      "protein": "1g",
-      "lipid": "0.1g",
-      "carbohydrate": "5.3g",
-      "sodium": "620mg",
-      "SaltEquivalent": "1.6g",
+      "calorie": 25,
+      "protein": 1,
+      "lipid": 0.1,
+      "carbohydrate": 5.3,
+      "sodium": 620,
+      "SaltEquivalent": 1.6,
       "description": "",
       "imageURL": ""
     }
@@ -115,12 +115,12 @@
     "Single": {
       "name": "カルビだれ",
       "price": "",
-      "calorie": "35kcal",
-      "protein": "0.6g",
-      "lipid": "0g",
-      "carbohydrate": "7.8g",
-      "sodium": "462mg",
-      "SaltEquivalent": "1.2g",
+      "calorie": 35,
+      "protein": 0.6,
+      "lipid": 0,
+      "carbohydrate": 7.8,
+      "sodium": 462,
+      "SaltEquivalent": 1.2,
       "description": "",
       "imageURL": ""
     }

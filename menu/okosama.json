@@ -2,13 +2,13 @@
   "okosama_pre_gyuu": {
     "Single": {
       "name": "牛焼肉定食",
-      "price": "590円",
-      "calorie": "776kcal",
-      "protein": "24.8g",
-      "lipid": "30.1g",
-      "carbohydrate": "98.8g",
-      "sodium": "1110mg",
-      "SaltEquivalent": "2.8g",
+      "price": 590,
+      "calorie": 776,
+      "protein": 24.8,
+      "lipid": 30.1,
+      "carbohydrate": 98.8,
+      "sodium": 1110,
+      "SaltEquivalent": 2.8,
       "description": "大人気の定番メニュー！おろしと青ねぎでさらに美味しく！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_r_161018.jpg"
     }
@@ -16,13 +16,13 @@
   "okosama_gyuu": {
     "Single": {
       "name": "お子様牛めしプレート",
-      "price": "380円",
-      "calorie": "490kcal",
-      "protein": "12g",
-      "lipid": "18g",
-      "carbohydrate": "68g",
-      "sodium": "68mg",
-      "SaltEquivalent": "1.3g",
+      "price": 380,
+      "calorie": 490,
+      "protein": 12,
+      "lipid": 18,
+      "carbohydrate": 68,
+      "sodium": 68,
+      "SaltEquivalent": 1.3,
       "description": "■選べるおもちゃ付き\n※ご注文は、小学生以下のお子様に限らせていただきます。",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/okosama_gyuu_151029.jpg"
     }
@@ -30,13 +30,13 @@
   "okosama_curry": {
     "Single": {
       "name": "お子様カレープレート",
-      "price": "380円",
-      "calorie": "453kcal",
-      "protein": "9.4g",
-      "lipid": "12.6g",
-      "carbohydrate": "73.3g",
-      "sodium": "856mg",
-      "SaltEquivalent": "2.2g",
+      "price": 380,
+      "calorie": 453,
+      "protein": 9.4,
+      "lipid": 12.6,
+      "carbohydrate": 73.3,
+      "sodium": 856,
+      "SaltEquivalent": 2.2,
       "description": "■選べるおもちゃ付き\n※ご注文は、小学生以下のお子様に限らせていただきます。\n※お子様メニューのカレーには、はちみつを使用しております。乳児ボツリヌス症の予防のため、1歳未満の乳児には与えないで下さい。",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/okosama_curry_151029.jpg"
     }
@@ -44,13 +44,13 @@
   "omocha": {
     "Single": {
       "name": "おもちゃセット",
-      "price": "150円",
-      "calorie": "101kcal",
-      "protein": "0.2g",
-      "lipid": "0.2g",
-      "carbohydrate": "25.1g",
-      "sodium": "20mg",
-      "SaltEquivalent": "2.2g",
+      "price": 150,
+      "calorie": 101,
+      "protein": 0.2,
+      "lipid": 0.2,
+      "carbohydrate": 25.1,
+      "sodium": 20,
+      "SaltEquivalent": 2.2,
       "description": "■選べるおもちゃ付き\n※ご注文は、小学生以下のお子様に限らせていただきます。\n※お子様メニューのカレーには、はちみつを使用しております。乳児ボツリヌス症の予防のため、1歳未満の乳児には与えないで下さい。",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/okosama_curry_151029.jpg"
     }
