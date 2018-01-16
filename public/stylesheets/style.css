@@ -89,10 +89,6 @@ main .slogan {
   line-height: 1.25rem;
 }
 
-main .slogan h2 {
-  text-align: center;
-}
-
 main .slogan h2 .only-you {
   font-size: 2rem;
 }
@@ -122,6 +118,10 @@ footer {
   left: 0;
   text-align: center;
   height: 48px;
+  color: #868e96;
+}
+footer a {
+  color: #868e96;
 }
 
 a {
@@ -153,10 +153,11 @@ a {
   .description {
     width: 90%;
   }
-  main .slogan h2 {
-    text-align: left;
-  }
   main .slogan h2 .only-you {
     font-size: 2.5rem;
+  }
+
+  main .appimg {
+    height: 80%;
   }
 }
