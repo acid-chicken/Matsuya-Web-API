@@ -1,0 +1,152 @@
+{
+  "pre_gyu": {
+    "Mini": {
+      "name": "プレミアム牛めし ミニ盛",
+      "price": 330,
+      "calorie": 510,
+      "protein": 14.1,
+      "lipid": 19,
+      "carbohydrate": 67.9,
+      "sodium": 998,
+      "saltEquivalent": 2.5,
+      "description": "これまでの旨さから、別次元の旨さへ",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/pre_gyu_140718.jpg"
+    },
+    "Regular": {
+      "name": "プレミアム牛めし 並盛",
+      "price": 380,
+      "calorie": 711,
+      "protein": 18.9,
+      "lipid": 24.1,
+      "carbohydrate": 100.7,
+      "sodium": 1208,
+      "saltEquivalent": 3.1,
+      "description": "これまでの旨さから、別次元の旨さへ",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/pre_gyu_140718.jpg"
+    },
+    "Large": {
+      "name": "プレミアム牛めし 大盛",
+      "price": 520,
+      "calorie": 948,
+      "protein": 24.2,
+      "lipid": 29.8,
+      "carbohydrate": 139.8,
+      "sodium": 1365,
+      "saltEquivalent": 3.5,
+      "description": "これまでの旨さから、別次元の旨さへ",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/pre_gyu_140718.jpg"
+    },
+    "ExLarge": {
+      "name": "プレミアム牛めし 特盛",
+      "price": 630,
+      "calorie": 1302,
+      "protein": 34.6,
+      "lipid": 46.5,
+      "carbohydrate": 179,
+      "sodium": 1761,
+      "saltEquivalent": 4.5,
+      "description": "これまでの旨さから、別次元の旨さへ",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/pre_gyu_140718.jpg"
+    }
+  },
+  "pre_gyu_negitama": {
+    "Mini": {
+      "name": "ネギたっぷりプレミアム旨辛ネギたま牛めし ミニ盛",
+      "price": 440,
+      "calorie": 617,
+      "protein": 21.1,
+      "lipid": 25.2,
+      "carbohydrate": 73.4,
+      "sodium": 1379,
+      "saltEquivalent": 3.5,
+      "description": "シャキシャキネギ、とろ～り半熟玉子",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/pre_gyu_negitama_160531.jpg"
+    },
+    "Regular": {
+      "name": "ネギたっぷりプレミアム旨辛ネギたま牛めし 並盛",
+      "price": 490,
+      "calorie": 842,
+      "protein": 26.4,
+      "lipid": 31.4,
+      "carbohydrate": 109.2,
+      "sodium": 1905,
+      "saltEquivalent": 4.8,
+      "description": "シャキシャキネギ、とろ～り半熟玉子",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/pre_gyu_negitama_160531.jpg"
+    },
+    "Large": {
+      "name": "ネギたっぷりプレミアム旨辛ネギたま牛めし 大盛",
+      "price": 630,
+      "calorie": 1079,
+      "protein": 31.7,
+      "lipid": 37.2,
+      "carbohydrate": 148.3,
+      "sodium": 2061,
+      "saltEquivalent": 5.2,
+      "description": "シャキシャキネギ、とろ～り半熟玉子",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/pre_gyu_negitama_160531.jpg"
+    },
+    "ExLarge": {
+      "name": "ネギたっぷりプレミアム旨辛ネギたま牛めし 特盛",
+      "price": 740,
+      "calorie": 1433,
+      "protein": 42.1,
+      "lipid": 53.8,
+      "carbohydrate": 187.5,
+      "sodium": 2458,
+      "saltEquivalent": 6.2,
+      "description": "シャキシャキネギ、とろ～り半熟玉子",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/pre_gyu_negitama_160531.jpg"
+    }
+  },
+  "pre_gyuu_oroshi": {
+    "Mini": {
+      "name": "プレミアムおろしポン酢牛めし ミニ盛",
+      "price": 430,
+      "calorie": 538,
+      "protein": 15.4,
+      "lipid": 19.2,
+      "carbohydrate": 73.2,
+      "sodium": 1618,
+      "saltEquivalent": 4.1,
+      "description": "プレミアム牛めしをおろしポン酢でさっぱりと",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/pre_gyu_oroshi_140718.jpg"
+    },
+    "Regular": {
+      "name": "プレミアムおろしポン酢牛めし 並盛",
+      "price": 480,
+      "calorie": 739,
+      "protein": 20.3,
+      "lipid": 24.3,
+      "carbohydrate": 106,
+      "sodium": 1829,
+      "saltEquivalent": 4.6,
+      "description": "プレミアム牛めしをおろしポン酢でさっぱりと",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/pre_gyu_oroshi_140718.jpg"
+    },
+    "Large": {
+      "name": "プレミアムおろしポン酢牛めし 大盛",
+      "price": 620,
+      "calorie": 976,
+      "protein": 25.6,
+      "lipid": 30,
+      "carbohydrate": 145.1,
+      "sodium": 1985,
+      "saltEquivalent": 5,
+      "description": "プレミアム牛めしをおろしポン酢でさっぱりと",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/pre_gyu_oroshi_140718.jpg"
+    },
+    "ExLarge": {
+      "name": "プレミアムおろしポン酢牛めし 特盛",
+      "price": 730,
+      "calorie": 1330,
+      "protein": 36,
+      "lipid": 46.7,
+      "carbohydrate": 184.3,
+      "sodium": 2382,
+      "saltEquivalent": 6,
+      "description": "プレミアム牛めしをおろしポン酢でさっぱりと",
+      "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/pre_gyu_oroshi_140718.jpg"
+    }
+  }
+}
