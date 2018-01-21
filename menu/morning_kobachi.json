@@ -8,7 +8,7 @@
       "lipid": 3.9,
       "carbohydrate": 5,
       "sodium": 116,
-      "SaltEquivalent": 0.3,
+      "saltEquivalent": 0.3,
       "description": "納豆に含まれる納豆菌が作る独自の酵素「ナットウキナーゼ」は、血管にできる血栓を溶かす働きが知られております。",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/9dc6627e0416bc04c4d991cbb3eb08fe.jpg"
     }
@@ -22,7 +22,7 @@
       "lipid": 0.2,
       "carbohydrate": 9.5,
       "sodium": 3,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "とろろに使われる長芋にはアミラーゼが含まれており、消化吸収を助けるといわれております。",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/kobachi_tororo_150507.jpg"
     }
@@ -36,7 +36,7 @@
       "lipid": 8.2,
       "carbohydrate": 2.2,
       "sodium": 148,
-      "SaltEquivalent": 0.4,
+      "saltEquivalent": 0.4,
       "description": "牛肉にはたんぱく質、脂質の他にミネラルとしてビタミンＢ群が多く、体の老廃物の排出を促したり、ストレスや疲労の回復にも良いといわれております。",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/70a25c6aa9f9dab2d2bb2cd07251cd6d.jpg"
     }
@@ -50,7 +50,7 @@
       "lipid": 11.6,
       "carbohydrate": 3.5,
       "sodium": 238,
-      "SaltEquivalent": 0.6,
+      "saltEquivalent": 0.6,
       "description": "牛肉にはたんぱく質、脂質の他にミネラルとしてビタミンＢ群が多く、体の老廃物の排出を促したり、ストレスや疲労の回復にも良いといわれております。",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/2943e3c0505d5ab7a0bae1b3b6a75d58.jpg"
     }
@@ -64,7 +64,7 @@
       "lipid": 4.7,
       "carbohydrate": 4.2,
       "sodium": 20,
-      "SaltEquivalent": 0.1,
+      "saltEquivalent": 0.1,
       "description": "豆腐にはたんぱく質の他にも栄養成分を含んでおり、その中で大豆サポニンには抗酸化作用があり、活性酸素を抑制するはたらきがあるといわれております。",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/8da5baa0f909f120a0221f3f1ad7b4f7.jpg"
     }
@@ -78,7 +78,7 @@
       "lipid": 0.9,
       "carbohydrate": 2.8,
       "sodium": 605,
-      "SaltEquivalent": 1.5,
+      "saltEquivalent": 1.5,
       "description": "順次、販売終了予定",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/kobachi_komatsuna_170831.jpg"
     }

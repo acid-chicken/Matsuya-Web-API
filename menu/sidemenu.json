@@ -8,7 +8,7 @@
       "lipid": 4.8,
       "carbohydrate": 0.1,
       "sodium": 66,
-      "SaltEquivalent": 0.2,
+      "saltEquivalent": 0.2,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_namatamago_160406.jpg"
     }
@@ -22,7 +22,7 @@
       "lipid": 4.8,
       "carbohydrate": 0.1,
       "sodium": 66,
-      "SaltEquivalent": 0.2,
+      "saltEquivalent": 0.2,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_hanjyukutamago_160406.jpg"
     }
@@ -36,7 +36,7 @@
       "lipid": 0.2,
       "carbohydrate": 4,
       "sodium": 4,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_namayasai_r_170222.jpg"
     }
@@ -50,7 +50,7 @@
       "lipid": 0.1,
       "carbohydrate": 3,
       "sodium": 366,
-      "SaltEquivalent": 0.9,
+      "saltEquivalent": 0.9,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_oshinko_160406.jpg"
     }
@@ -64,7 +64,7 @@
       "lipid": 0.5,
       "carbohydrate": 8.6,
       "sodium": 700,
-      "SaltEquivalent": 1.8,
+      "saltEquivalent": 1.8,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_kimuchi_160406.jpg"
     }
@@ -78,7 +78,7 @@
       "lipid": 0.2,
       "carbohydrate": 9.5,
       "sodium": 3,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_tororo_150507.jpg"
     }
@@ -92,7 +92,7 @@
       "lipid": 0.9,
       "carbohydrate": 2.8,
       "sodium": 605,
-      "SaltEquivalent": 1.5,
+      "saltEquivalent": 1.5,
       "description": "※順次、販売終了予定",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_komatsuna_170831.jpg"
     }
@@ -106,7 +106,7 @@
       "lipid": 4.7,
       "carbohydrate": 4.2,
       "sodium": 20,
-      "SaltEquivalent": 0.1,
+      "saltEquivalent": 0.1,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_hiyayakko_160411.jpg"
     }
@@ -120,7 +120,7 @@
       "lipid": 5.6,
       "carbohydrate": 9.2,
       "sodium": 197,
-      "SaltEquivalent": 0.5,
+      "saltEquivalent": 0.5,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_potato_salad_130819.jpg"
     }
@@ -134,7 +134,7 @@
       "lipid": 22,
       "carbohydrate": 6.3,
       "sodium": 381,
-      "SaltEquivalent": 1,
+      "saltEquivalent": 1,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_pre_gyuuzara_170118.jpg"
     },
@@ -146,7 +146,7 @@
       "lipid": 27.5,
       "carbohydrate": 8.3,
       "sodium": 537,
-      "SaltEquivalent": 1.4,
+      "saltEquivalent": 1.4,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_pre_gyuuzara_170118.jpg"
     }
@@ -160,7 +160,7 @@
       "lipid": 8.2,
       "carbohydrate": 2.2,
       "sodium": 148,
-      "SaltEquivalent": 0.4,
+      "saltEquivalent": 0.4,
       "description": "※メインメニューご購入の方のみを対象としたメニューです",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_gyuu_kobachi_p_170130.jpg"
     }
@@ -174,7 +174,7 @@
       "lipid": 11.6,
       "carbohydrate": 3.5,
       "sodium": 218,
-      "SaltEquivalent": 0.6,
+      "saltEquivalent": 0.6,
       "description": "※メインメニューご購入の方のみを対象としたメニューです",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_gyuu_kobachi_170130.jpg"
     }
@@ -188,7 +188,7 @@
       "lipid": 13,
       "carbohydrate": 20.7,
       "sodium": 1337,
-      "SaltEquivalent": 3.4,
+      "saltEquivalent": 3.4,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_original_sauce_161101.jpg"
     },
@@ -200,7 +200,7 @@
       "lipid": 15.9,
       "carbohydrate": 25.3,
       "sodium": 1634,
-      "SaltEquivalent": 4.2,
+      "saltEquivalent": 4.2,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_original_sauce_161101.jpg"
     }
@@ -214,7 +214,7 @@
       "lipid": 31.5,
       "carbohydrate": 35,
       "sodium": 2013,
-      "SaltEquivalent": 5.1,
+      "saltEquivalent": 5.1,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_original_sauce_161101.jpg"
     },
@@ -226,7 +226,7 @@
       "lipid": 34.4,
       "carbohydrate": 39.6,
       "sodium": 2310,
-      "SaltEquivalent": 5.9,
+      "saltEquivalent": 5.9,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_sauce_hb_160517.jpg"
     }
@@ -240,7 +240,7 @@
       "lipid": 6,
       "carbohydrate": 0.2,
       "sodium": 600,
-      "SaltEquivalent": 1.5,
+      "saltEquivalent": 1.5,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/sidemenu_yakizakana.jpg"
     }
@@ -254,7 +254,7 @@
       "lipid": 0.5,
       "carbohydrate": 59.4,
       "sodium": 2,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_rice_170127.jpg"
     },
@@ -266,7 +266,7 @@
       "lipid": 0.7,
       "carbohydrate": 89,
       "sodium": 2,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_rice_170127.jpg"
     },
@@ -278,7 +278,7 @@
       "lipid": 1,
       "carbohydrate": 126.1,
       "sodium": 3,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_rice_170127.jpg"
     },
@@ -290,7 +290,7 @@
       "lipid": 1.3,
       "carbohydrate": 159.5,
       "sodium": 4,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_rice_170127.jpg"
     }
@@ -304,7 +304,7 @@
       "lipid": 5.8,
       "carbohydrate": 5.8,
       "sodium": 383,
-      "SaltEquivalent": 1,
+      "saltEquivalent": 1,
       "description": "さっぱり塩ダレおろし",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_yudoufu_170301.jpg"
     }
@@ -318,7 +318,7 @@
       "lipid": 1.3,
       "carbohydrate": 3.7,
       "sodium": 655,
-      "SaltEquivalent": 1.7,
+      "saltEquivalent": 1.7,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_misoshiru_170127.jpg"
     }
@@ -332,7 +332,7 @@
       "lipid": 21.7,
       "carbohydrate": 16.3,
       "sodium": 1579,
-      "SaltEquivalent": 4,
+      "saltEquivalent": 4,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_tonjiru_170127.jpg"
     }
@@ -346,7 +346,7 @@
       "lipid": 0.1,
       "carbohydrate": 1.2,
       "sodium": 0,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/sidemenu_aonegi.jpg"
     }
@@ -360,7 +360,7 @@
       "lipid": 0.1,
       "carbohydrate": 2.5,
       "sodium": 10,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_oroshi_170118.jpg"
     }
@@ -374,7 +374,7 @@
       "lipid": 3.9,
       "carbohydrate": 5,
       "sodium": 116,
-      "SaltEquivalent": 0.3,
+      "saltEquivalent": 0.3,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/side_natto_160411.jpg"
     }
@@ -388,7 +388,7 @@
       "lipid": 0.1,
       "carbohydrate": 0.7,
       "sodium": 8,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/sidemenu_nori.jpg"
     }

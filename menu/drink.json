@@ -7,8 +7,8 @@
       "protein": 0,
       "lipid": 0,
       "carbohydrate": 0,
-      "sodium": "15~65mg",
-      "SaltEquivalent": "0g~0.2g",
+      "sodium": 40,
+      "saltEquivalent": 0.1,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/dri_blend_140801.jpg"
     }
@@ -18,11 +18,11 @@
       "name": "アサヒスーパードライ",
       "price": 430,
       "calorie": 210,
-      "protein": "1.0g~2.0g",
+      "protein": 1.5,
       "lipid": 0,
       "carbohydrate": 15,
-      "sodium": "0~40mg",
-      "SaltEquivalent": "0~0.1g",
+      "sodium": 20,
+      "saltEquivalent": 0.05,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/drink_beer.jpg"
     }
@@ -36,7 +36,7 @@
       "lipid": 0,
       "carbohydrate": 5,
       "sodium": 39,
-      "SaltEquivalent": 0.1,
+      "saltEquivalent": 0.1,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/dri_karada_w_170606.jpg"
     }
@@ -50,7 +50,7 @@
       "lipid": 0,
       "carbohydrate": 5.2,
       "sodium": 31,
-      "SaltEquivalent": 0.1,
+      "saltEquivalent": 0.1,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/dri_cola_plus_170606.jpg"
     }
