@@ -1,25 +1,30 @@
 FORMAT: 1A
-HOST: https://matsuya-api.herokuapp.com/
+HOST: https://matsuya.makotia.me/
 
 # Matsuya Web API
 
-松屋のメニューをランダムに返すAPIと松屋のメニューから栄養素等を返すAPIです(後者は現在開発中)  
-ランダムに返すAPIになっているため、APIを叩くたびに提供されるものが異なります  
-テストする際は`Production`モードにして実際のAPIを叩いてください  
-そうするときちんとした結果が得られて楽しいです
+- 松屋のメニューに関するAPIです
+- ランダムに返すAPIになっているため、APIを叩くたびに提供されるものが異なります  
+- テストする際は `Production` モードにして実際のAPIを叩いてください  
+- 近々メニュー名から詳細データを取れるようにするつもりです
+- Apiaryの機能で各言語のサンプルが乗ってるのでそれコピペすれば多分動きます
+- 追加してほしい機能やバグ報告、PullRequestsは[GitHub](https://github.com/mak0tia/Matsuya-Web-API)上でお願いします
 
-## ランダムに返すAPI [/v1/random]
+## ランダムに返すAPI [/v3/random]
 
-### メインメニューのみをランダムに返してくるAPI [GET]
-
-+ Response 200 (application/json)
-
-        ["メニュー名"]
-
-## すべてのメニューをランダムに返すAPI [/v1/random/all]
-
-### すべてのメニュー(サイドメニューやドリンク含む)を返してくるAPI [GET]
+### すべてのメニューのデータをランダムに返してくるAPI [GET]
 
 + Response 200 (application/json)
 
-        ["メニュー名(ドリンク等含む)"]
+        {
+          "name":"豚バラ焼肉定食",
+          "price":550,
+          "calorie":773,
+          "protein":25.9,
+          "lipid":29.2,
+          "carbohydrate":98.8,
+          "sodium":1121,
+          "saltEquivalent":2.8,
+          "description":"ジューシーな豚バラを塩コショウでシンプルに！",
+          "imageURL":"https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_r_161018.jpg"
+        }
