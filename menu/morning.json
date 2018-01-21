@@ -8,7 +8,7 @@
       "lipid": 7,
       "carbohydrate": 95.1,
       "sodium": 914,
-      "SaltEquivalent": 2.3,
+      "saltEquivalent": 2.3,
       "description": "ライス、みそ汁、焼きのり、ミニお新香、生玉子のシンプルな組み合わせに「選べる小鉢」を付けた朝定食の定番商品",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/morning_teiban_160411.jpg"
     }
@@ -22,7 +22,7 @@
       "lipid": 8,
       "carbohydrate": 95.4,
       "sodium": 1498,
-      "SaltEquivalent": 3.8,
+      "saltEquivalent": 3.8,
       "description": "ライス、みそ汁、焼きのり、ミニお新香、生玉子のシンプルな組み合わせに「選べる小鉢」を付けた朝定食の定番商品",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/morning_yakizakana_160411.jpg"
     }
@@ -36,7 +36,7 @@
       "lipid": 14.8,
       "carbohydrate": 97.9,
       "sodium": 1134,
-      "SaltEquivalent": 2.9,
+      "saltEquivalent": 2.9,
       "description": "良質なたんぱく質を含むと言われている玉子を目玉焼きにして、パリっとしたソーセージとミニ野菜を添えた松屋の朝定食でも人気の商品。「選べる小鉢」付き。",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/morning_sausage_egg_160411.jpg"
     },
@@ -48,7 +48,7 @@
       "lipid": 21.5,
       "carbohydrate": 98,
       "sodium": 1200,
-      "SaltEquivalent": 3,
+      "saltEquivalent": 3,
       "description": "玉子を2個使用したW定食は、身体を作る上でも必要なたんぱく質がしっかり摂れてお得な商品。「選べる小鉢」付き。",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/morning_sausage_egg_w_160411.jpg"
     }

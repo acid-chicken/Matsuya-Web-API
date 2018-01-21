@@ -8,7 +8,7 @@
       "lipid": 18.8,
       "carbohydrate": 67.8,
       "sodium": 998,
-      "SaltEquivalent": 2.5,
+      "saltEquivalent": 2.5,
       "description": "松屋の定番！ぜひ一度お試しください！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_160823.jpg"
     },
@@ -20,7 +20,7 @@
       "lipid": 23.8,
       "carbohydrate": 100.6,
       "sodium": 1208,
-      "SaltEquivalent": 3.1,
+      "saltEquivalent": 3.1,
       "description": "松屋の定番！ぜひ一度お試しください！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_160823.jpg"
     },
@@ -32,7 +32,7 @@
       "lipid": 29.6,
       "carbohydrate": 139.7,
       "sodium": 1364,
-      "SaltEquivalent": 3.5,
+      "saltEquivalent": 3.5,
       "description": "松屋の定番！ぜひ一度お試しください！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_160823.jpg"
     },
@@ -44,7 +44,7 @@
       "lipid": 46.2,
       "carbohydrate": 178.8,
       "sodium": 1761,
-      "SaltEquivalent": 4.5,
+      "saltEquivalent": 4.5,
       "description": "松屋の定番！ぜひ一度お試しください！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_160823.jpg"
     },
@@ -56,7 +56,7 @@
       "lipid": 29.4,
       "carbohydrate": 102.6,
       "sodium": 1363,
-      "SaltEquivalent": 3.5,
+      "saltEquivalent": 3.5,
       "description": "「あたま大盛」は牛めしのライスが並、牛肉、玉ねぎが大盛の商品です。店舗限定！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_atama_160920.jpg"
     }
@@ -70,7 +70,7 @@
       "lipid": 25,
       "carbohydrate": 73.3,
       "sodium": 1379,
-      "SaltEquivalent": 3.5,
+      "saltEquivalent": 3.5,
       "description": "シャキシャキネギ、とろ～り半熟玉子",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_negitama_1.jpg"
     },
@@ -82,7 +82,7 @@
       "lipid": 31.2,
       "carbohydrate": 109.1,
       "sodium": 1905,
-      "SaltEquivalent": 4.8,
+      "saltEquivalent": 4.8,
       "description": "シャキシャキネギ、とろ～り半熟玉子",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_negitama_1.jpg"
     },
@@ -94,7 +94,7 @@
       "lipid": 36.9,
       "carbohydrate": 148.2,
       "sodium": 2061,
-      "SaltEquivalent": 5.2,
+      "saltEquivalent": 5.2,
       "description": "シャキシャキネギ、とろ～り半熟玉子",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_negitama_1.jpg"
     },
@@ -106,7 +106,7 @@
       "lipid": 53.6,
       "carbohydrate": 187.3,
       "sodium": 2458,
-      "SaltEquivalent": 6.2,
+      "saltEquivalent": 6.2,
       "description": "シャキシャキネギ、とろ～り半熟玉子",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_negitama_1.jpg"
     }
@@ -120,7 +120,7 @@
       "lipid": 19,
       "carbohydrate": 73.1,
       "sodium": 1618,
-      "SaltEquivalent": 4.1,
+      "saltEquivalent": 4.1,
       "description": "定番牛めしをおろしポン酢でさっぱりと",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_oroshi_160823.jpg"
     },
@@ -132,7 +132,7 @@
       "lipid": 24,
       "carbohydrate": 105.8,
       "sodium": 1828,
-      "SaltEquivalent": 4.6,
+      "saltEquivalent": 4.6,
       "description": "定番牛めしをおろしポン酢でさっぱりと",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_oroshi_160823.jpg"
     },
@@ -144,7 +144,7 @@
       "lipid": 29.8,
       "carbohydrate": 144.9,
       "sodium": 1985,
-      "SaltEquivalent": 5,
+      "saltEquivalent": 5,
       "description": "定番牛めしをおろしポン酢でさっぱりと",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_oroshi_160823.jpg"
     },
@@ -156,7 +156,7 @@
       "lipid": 46.4,
       "carbohydrate": 184.1,
       "sodium": 2381,
-      "SaltEquivalent": 6,
+      "saltEquivalent": 6,
       "description": "定番牛めしをおろしポン酢でさっぱりと",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/gyu_oroshi_160823.jpg"
     }
