@@ -8,7 +8,7 @@
       "lipid": 30.1,
       "carbohydrate": 98.8,
       "sodium": 1110,
-      "SaltEquivalent": 2.8,
+      "saltEquivalent": 2.8,
       "description": "大人気の定番メニュー！おろしと青ねぎでさらに美味しく！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_r_161018.jpg"
     },
@@ -20,7 +20,7 @@
       "lipid": 57.9,
       "carbohydrate": 100.8,
       "sodium": 1559,
-      "SaltEquivalent": 4,
+      "saltEquivalent": 4,
       "description": "大人気の定番メニュー！おろしと青ねぎでさらに美味しく！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_r_161018.jpg"
     },
@@ -32,7 +32,7 @@
       "lipid": 30.1,
       "carbohydrate": 98.8,
       "sodium": 1110,
-      "SaltEquivalent": 2.8,
+      "saltEquivalent": 2.8,
       "description": "大人気の定番メニュー！おろしと青ねぎでさらに美味しく！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_r_161018.jpg"
     },
@@ -44,7 +44,7 @@
       "lipid": 27.9,
       "carbohydrate": 2.1,
       "sodium": 449,
-      "SaltEquivalent": 1.1,
+      "saltEquivalent": 1.1,
       "description": "大人気の定番メニュー！おろしと青ねぎでさらに美味しく！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_r_161018.jpg"
     }
@@ -58,7 +58,7 @@
       "lipid": 44.1,
       "carbohydrate": 100.4,
       "sodium": 1337,
-      "SaltEquivalent": 3.4,
+      "saltEquivalent": 3.4,
       "description": "おかずが大盛！1.5倍！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_large_r_161209.jpg"
     },
@@ -70,7 +70,7 @@
       "lipid": 41.9,
       "carbohydrate": 3.7,
       "sodium": 675,
-      "SaltEquivalent": 1.7,
+      "saltEquivalent": 1.7,
       "description": "おかずが大盛！1.5倍！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_gyuuyaki_large_r_161209.jpg"
     }
@@ -84,7 +84,7 @@
       "lipid": 41,
       "carbohydrate": 102.3,
       "sodium": 1370,
-      "SaltEquivalent": 3.5,
+      "saltEquivalent": 3.5,
       "description": "大人気の定番メニュー！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubiyakiniku_r_161018.jpg"
     },
@@ -96,7 +96,7 @@
       "lipid": 79.7,
       "carbohydrate": 107.8,
       "sodium": 2079,
-      "SaltEquivalent": 5.3,
+      "saltEquivalent": 5.3,
       "description": "大人気の定番メニュー！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubiyakiniku_r_161018.jpg"
     },
@@ -108,7 +108,7 @@
       "lipid": 41,
       "carbohydrate": 102.3,
       "sodium": 1370,
-      "SaltEquivalent": 3.5,
+      "saltEquivalent": 3.5,
       "description": "大人気の定番メニュー！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubiyakiniku_r_161018.jpg"
     },
@@ -120,7 +120,7 @@
       "lipid": 38.8,
       "carbohydrate": 5.5,
       "sodium": 709,
-      "SaltEquivalent": 1.8,
+      "saltEquivalent": 1.8,
       "description": "大人気の定番メニュー！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubiyakiniku_r_161018.jpg"
     }
@@ -134,7 +134,7 @@
       "lipid": 53.9,
       "carbohydrate": 104.6,
       "sodium": 1609,
-      "SaltEquivalent": 4.1,
+      "saltEquivalent": 4.1,
       "description": "おかずが大盛！1.3倍！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubi_large_r_161209.jpg"
     },
@@ -146,7 +146,7 @@
       "lipid": 51.7,
       "carbohydrate": 7.9,
       "sodium": 947,
-      "SaltEquivalent": 2.4,
+      "saltEquivalent": 2.4,
       "description": "おかずが大盛！1.3倍！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karubi_large_r_161209.jpg"
     }
@@ -160,7 +160,7 @@
       "lipid": 29.2,
       "carbohydrate": 98.8,
       "sodium": 1121,
-      "SaltEquivalent": 2.8,
+      "saltEquivalent": 2.8,
       "description": "ジューシーな豚バラを塩コショウでシンプルに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_r_161018.jpg"
     },
@@ -172,7 +172,7 @@
       "lipid": 56.1,
       "carbohydrate": 100.8,
       "sodium": 1580,
-      "SaltEquivalent": 4,
+      "saltEquivalent": 4,
       "description": "ジューシーな豚バラを塩コショウでシンプルに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_r_161018.jpg"
     },
@@ -184,7 +184,7 @@
       "lipid": 29.2,
       "carbohydrate": 98.8,
       "sodium": 1121,
-      "SaltEquivalent": 2.8,
+      "saltEquivalent": 2.8,
       "description": "ジューシーな豚バラを塩コショウでシンプルに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_r_161018.jpg"
     },
@@ -196,7 +196,7 @@
       "lipid": 27,
       "carbohydrate": 2.1,
       "sodium": 460,
-      "SaltEquivalent": 1.2,
+      "saltEquivalent": 1.2,
       "description": "ジューシーな豚バラを塩コショウでシンプルに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_r_161018.jpg"
     }
@@ -210,7 +210,7 @@
       "lipid": 42.7,
       "carbohydrate": 100.4,
       "sodium": 1352,
-      "SaltEquivalent": 3.4,
+      "saltEquivalent": 3.4,
       "description": "おかずが大盛！1.5倍！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_large_r_161209.jpg"
     },
@@ -222,7 +222,7 @@
       "lipid": 40.5,
       "carbohydrate": 3.7,
       "sodium": 691,
-      "SaltEquivalent": 1.8,
+      "saltEquivalent": 1.8,
       "description": "おかずが大盛！1.5倍！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_large_r_161209.jpg"
     }
@@ -236,7 +236,7 @@
       "lipid": 31.6,
       "carbohydrate": 106.6,
       "sodium": 1773,
-      "SaltEquivalent": 4.5,
+      "saltEquivalent": 4.5,
       "description": "すりおろし生姜がたっぷり入った旨味タレ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
     },
@@ -248,7 +248,7 @@
       "lipid": 61.1,
       "carbohydrate": 116.4,
       "sodium": 2885,
-      "SaltEquivalent": 7.3,
+      "saltEquivalent": 7.3,
       "description": "すりおろし生姜がたっぷり入った旨味タレ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
     },
@@ -260,7 +260,7 @@
       "lipid": 31.6,
       "carbohydrate": 106.6,
       "sodium": 1773,
-      "SaltEquivalent": 4.5,
+      "saltEquivalent": 4.5,
       "description": "すりおろし生姜がたっぷり入った旨味タレ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
     },
@@ -272,7 +272,7 @@
       "lipid": 29.5,
       "carbohydrate": 9.8,
       "sodium": 1112,
-      "SaltEquivalent": 2.8,
+      "saltEquivalent": 2.8,
       "description": "すりおろし生姜がたっぷり入った旨味タレ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
     }
@@ -286,7 +286,7 @@
       "lipid": 46.4,
       "carbohydrate": 111.5,
       "sodium": 2329,
-      "SaltEquivalent": 5.9,
+      "saltEquivalent": 5.9,
       "description": "おかずが大盛！1.5倍！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
     },
@@ -298,7 +298,7 @@
       "lipid": 44.2,
       "carbohydrate": 44.2,
       "sodium": 1668,
-      "SaltEquivalent": 4.2,
+      "saltEquivalent": 4.2,
       "description": "おかずが大盛！1.5倍！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_shouga_r_170207.jpg"
     }
@@ -312,7 +312,7 @@
       "lipid": 116.1,
       "carbohydrate": 116.1,
       "sodium": 2180,
-      "SaltEquivalent": 5.5,
+      "saltEquivalent": 5.5,
       "description": "NEW! 秋の定番！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_r_171010.jpg"
     },
@@ -324,7 +324,7 @@
       "lipid": 79.7,
       "carbohydrate": 135.4,
       "sodium": 3699,
-      "SaltEquivalent": 9.4,
+      "saltEquivalent": 9.4,
       "description": "NEW! 秋の定番！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_r_171010.jpg"
     },
@@ -336,7 +336,7 @@
       "lipid": 116.1,
       "carbohydrate": 116.1,
       "sodium": 2180,
-      "SaltEquivalent": 5.5,
+      "saltEquivalent": 5.5,
       "description": "NEW! 秋の定番！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_r_171010.jpg"
     },
@@ -348,7 +348,7 @@
       "lipid": 38.7,
       "carbohydrate": 19.3,
       "sodium": 1519,
-      "SaltEquivalent": 3.9,
+      "saltEquivalent": 3.9,
       "description": "NEW! 秋の定番！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_r_171010.jpg"
     }
@@ -362,7 +362,7 @@
       "lipid": 46.6,
       "carbohydrate": 125.3,
       "sodium": 2337,
-      "SaltEquivalent": 6.0,
+      "saltEquivalent": 6.0,
       "description": "NEW! いつもの野菜が+40円でポテトサラダに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_pote_r_171010.jpg"
     },
@@ -374,7 +374,7 @@
       "lipid": 85.3,
       "carbohydrate": 144.6,
       "sodium": 3896,
-      "SaltEquivalent": "9/9g",
+      "saltEquivalent": "9/9g",
       "description": "NEW! いつもの野菜が+40円でポテトサラダに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_pote_r_171010.jpg"
     },
@@ -386,7 +386,7 @@
       "lipid": 46.6,
       "carbohydrate": 125.3,
       "sodium": 2337,
-      "SaltEquivalent": 6.0,
+      "saltEquivalent": 6.0,
       "description": "NEW! いつもの野菜が+40円でポテトサラダに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_pote_r_171010.jpg"
     }
@@ -400,7 +400,7 @@
       "lipid": 27.9,
       "carbohydrate": 119,
       "sodium": 1950,
-      "SaltEquivalent": 5,
+      "saltEquivalent": 5,
       "description": "フランス産マッシュルーム使用の欧風ソース",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_r_171018.jpg"
     },
@@ -412,7 +412,7 @@
       "lipid": 27.9,
       "carbohydrate": 119,
       "sodium": 1950,
-      "SaltEquivalent": 5,
+      "saltEquivalent": 5,
       "description": "フランス産マッシュルーム使用の欧風ソース",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_r_171018.jpg"
     },
@@ -424,7 +424,7 @@
       "lipid": 25.7,
       "carbohydrate": 22.2,
       "sodium": 1289,
-      "SaltEquivalent": 3.3,
+      "saltEquivalent": 3.3,
       "description": "フランス産マッシュルーム使用の欧風ソース",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_r_171018.jpg"
     }
@@ -438,7 +438,7 @@
       "lipid": 36.6,
       "carbohydrate": 119.1,
       "sodium": 2015,
-      "SaltEquivalent": 5.1,
+      "saltEquivalent": 5.1,
       "description": "フランス産マッシュルーム使用の欧風ソース",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_egg_r_171018.jpg"
     },
@@ -450,7 +450,7 @@
       "lipid": 36.6,
       "carbohydrate": 119.1,
       "sodium": 2015,
-      "SaltEquivalent": 5.1,
+      "saltEquivalent": 5.1,
       "description": "フランス産マッシュルーム使用の欧風ソース",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_egg_r_171018.jpg"
     },
@@ -462,7 +462,7 @@
       "lipid": 32.5,
       "carbohydrate": 22.4,
       "sodium": 1354,
-      "SaltEquivalent": 3.4,
+      "saltEquivalent": 3.4,
       "description": "フランス産マッシュルーム使用の欧風ソース",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_hb_brown_egg_r_171018.jpg"
     }
@@ -476,7 +476,7 @@
       "lipid": 34.7,
       "carbohydrate": 124.4,
       "sodium": 2551,
-      "SaltEquivalent": 6.5,
+      "saltEquivalent": 6.5,
       "description": "肉汁とベーコンの旨味が甘辛テリヤキソースと相性抜群！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_tsukimi_r_170926.jpg"
     },
@@ -488,7 +488,7 @@
       "lipid": 34.7,
       "carbohydrate": 124.4,
       "sodium": 2551,
-      "SaltEquivalent": 6.5,
+      "saltEquivalent": 6.5,
       "description": "肉汁とベーコンの旨味が甘辛テリヤキソースと相性抜群！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_tsukimi_r_170926.jpg"
     },
@@ -500,7 +500,7 @@
       "lipid": 32.5,
       "carbohydrate": 27.6,
       "sodium": 1890,
-      "SaltEquivalent": 4.8,
+      "saltEquivalent": 4.8,
       "description": "肉汁とベーコンの旨味が甘辛テリヤキソースと相性抜群！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_tsukimi_r_170926.jpg"
     }
@@ -514,7 +514,7 @@
       "lipid": 40.4,
       "carbohydrate": 133.6,
       "sodium": 2748,
-      "SaltEquivalent": 7,
+      "saltEquivalent": 7,
       "description": "いつもの野菜が+40円でポテトサラダに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_tsukimi_r_pote_.jpg"
     },
@@ -526,7 +526,7 @@
       "lipid": 40.4,
       "carbohydrate": 133.6,
       "sodium": 2748,
-      "SaltEquivalent": 7,
+      "saltEquivalent": 7,
       "description": "いつもの野菜が+40円でポテトサラダに！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_tsukimi_r_pote_.jpg"
     }

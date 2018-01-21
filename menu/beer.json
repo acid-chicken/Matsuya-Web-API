@@ -8,7 +8,7 @@
       "lipid": 0,
       "carbohydrate": 6.6,
       "sodium": 18,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/beer_s_160620.jpg"
     }
@@ -22,7 +22,7 @@
       "lipid": 0,
       "carbohydrate": 0,
       "sodium": 0,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/highball_s_160620.jpg"
     }
@@ -36,7 +36,7 @@
       "lipid": 0,
       "carbohydrate": 9.6,
       "sodium": 26,
-      "SaltEquivalent": 0.1,
+      "saltEquivalent": 0.1,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/beer_m_160620.jpg"
     }
@@ -50,7 +50,7 @@
       "lipid": 0,
       "carbohydrate": 0,
       "sodium": 0,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/highball_m_160620.jpg"
     }

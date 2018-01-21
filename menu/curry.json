@@ -8,7 +8,7 @@
       "lipid": 15,
       "carbohydrate": 113.6,
       "sodium": 2132,
-      "SaltEquivalent": 5.4,
+      "saltEquivalent": 5.4,
       "description": "14種類のスパイスを使用した、コクと深み！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_161101.jpg"
     },
@@ -20,7 +20,7 @@
       "lipid": 18.2,
       "carbohydrate": 155.3,
       "sodium": 2431,
-      "SaltEquivalent": 6.2,
+      "saltEquivalent": 6.2,
       "description": "14種類のスパイスを使用した、コクと深み！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_161101.jpg"
     }
@@ -34,7 +34,7 @@
       "lipid": 20.8,
       "carbohydrate": 126.8,
       "sodium": 2333,
-      "SaltEquivalent": 5.9,
+      "saltEquivalent": 5.9,
       "description": "それぞれ単品で購入するより40円お得！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_pote_170307.jpg"
     },
@@ -46,7 +46,7 @@
       "lipid": 24,
       "carbohydrate": 168.5,
       "sodium": 2631,
-      "SaltEquivalent": 6.7,
+      "saltEquivalent": 6.7,
       "description": "それぞれ単品で購入するより40円お得！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_pote_170307.jpg"
     }
@@ -60,7 +60,7 @@
       "lipid": 37.1,
       "carbohydrate": 123.5,
       "sodium": 2514,
-      "SaltEquivalent": 6.4,
+      "saltEquivalent": 6.4,
       "description": "プレミアム牛めしとオリジナルカレーが一皿で楽しめる！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_gyuu_p_160802.jpg"
     },
@@ -72,7 +72,7 @@
       "lipid": 40.2,
       "carbohydrate": 165.2,
       "sodium": 2813,
-      "SaltEquivalent": 7.1,
+      "saltEquivalent": 7.1,
       "description": "プレミアム牛めしとオリジナルカレーが一皿で楽しめる！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_gyuu_p_160802.jpg"
     }
@@ -86,7 +86,7 @@
       "lipid": 36.8,
       "carbohydrate": 123.3,
       "sodium": 2514,
-      "SaltEquivalent": 6.4,
+      "saltEquivalent": 6.4,
       "description": "牛めしとオリジナルカレーが一皿で楽しめる！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_gyuu_160802.jpg"
     },
@@ -98,7 +98,7 @@
       "lipid": 40.2,
       "carbohydrate": 165,
       "sodium": 2812,
-      "SaltEquivalent": 7.1,
+      "saltEquivalent": 7.1,
       "description": "牛めしとオリジナルカレーが一皿で楽しめる！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_gyuu_160802.jpg"
     }
@@ -112,7 +112,7 @@
       "lipid": 33.5,
       "carbohydrate": 128,
       "sodium": 2808,
-      "SaltEquivalent": 7.1,
+      "saltEquivalent": 7.1,
       "description": "ハンバーグでボリュームアップ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_hb_160517.jpg"
     },
@@ -124,7 +124,7 @@
       "lipid": 36.7,
       "carbohydrate": 169.7,
       "sodium": 3106,
-      "SaltEquivalent": 7.9,
+      "saltEquivalent": 7.9,
       "description": "ハンバーグでボリュームアップ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_hb_160517.jpg"
     }

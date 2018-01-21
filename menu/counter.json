@@ -8,7 +8,7 @@
       "lipid": 0,
       "carbohydrate": 0.5,
       "sodium": 275,
-      "SaltEquivalent": 0.7,
+      "saltEquivalent": 0.7,
       "description": "",
       "imageURL": ""
     }
@@ -22,7 +22,7 @@
       "lipid": 0,
       "carbohydrate": 0.2,
       "sodium": 45,
-      "SaltEquivalent": 0.1,
+      "saltEquivalent": 0.1,
       "description": "",
       "imageURL": ""
     }
@@ -36,7 +36,7 @@
       "lipid": 0,
       "carbohydrate": 0.2,
       "sodium": 0,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "",
       "imageURL": ""
     }
@@ -50,7 +50,7 @@
       "lipid": 0.1,
       "carbohydrate": 0.2,
       "sodium": 1,
-      "SaltEquivalent": 0,
+      "saltEquivalent": 0,
       "description": "",
       "imageURL": ""
     }
@@ -64,7 +64,7 @@
       "lipid": 16.3,
       "carbohydrate": 2.9,
       "sodium": 235,
-      "SaltEquivalent": 0.6,
+      "saltEquivalent": 0.6,
       "description": "",
       "imageURL": ""
     }
@@ -78,7 +78,7 @@
       "lipid": 5,
       "carbohydrate": 5.2,
       "sodium": 364,
-      "SaltEquivalent": 0.9,
+      "saltEquivalent": 0.9,
       "description": "",
       "imageURL": ""
     }
@@ -92,7 +92,7 @@
       "lipid": 0,
       "carbohydrate": 2.4,
       "sodium": 610,
-      "SaltEquivalent": 1.5,
+      "saltEquivalent": 1.5,
       "description": "",
       "imageURL": ""
     }
@@ -106,7 +106,7 @@
       "lipid": 0.1,
       "carbohydrate": 5.3,
       "sodium": 620,
-      "SaltEquivalent": 1.6,
+      "saltEquivalent": 1.6,
       "description": "",
       "imageURL": ""
     }
@@ -120,7 +120,7 @@
       "lipid": 0,
       "carbohydrate": 7.8,
       "sodium": 462,
-      "SaltEquivalent": 1.2,
+      "saltEquivalent": 1.2,
       "description": "",
       "imageURL": ""
     }

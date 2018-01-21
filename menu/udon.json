@@ -8,7 +8,7 @@
       "lipid": 20,
       "carbohydrate": 71.1,
       "sodium": 1523,
-      "SaltEquivalent": 3.9,
+      "saltEquivalent": 3.9,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/udon_karubo_3.jpg"
     }
@@ -22,7 +22,7 @@
       "lipid": 7.8,
       "carbohydrate": 82.7,
       "sodium": 2483,
-      "SaltEquivalent": 6.3,
+      "saltEquivalent": 6.3,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/udon_kitsune_151008.jpg"
     }
@@ -36,7 +36,7 @@
       "lipid": 22.9,
       "carbohydrate": 77.9,
       "sodium": 2091,
-      "SaltEquivalent": 5.3,
+      "saltEquivalent": 5.3,
       "description": "やや辛い、あったかうどん",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/udoon/udon_tantan.html"
     }
@@ -50,7 +50,7 @@
       "lipid": 15.9,
       "carbohydrate": 93,
       "sodium": 3060,
-      "SaltEquivalent": 7.8,
+      "saltEquivalent": 7.8,
       "description": "お肉が入ってボリュームアップ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/udon_curry_niku_151008.jpg"
     }
@@ -64,7 +64,7 @@
       "lipid": 12.5,
       "carbohydrate": 92.1,
       "sodium": 3013,
-      "SaltEquivalent": 7.7,
+      "saltEquivalent": 7.7,
       "description": "お肉が入ってボリュームアップ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/udon_curry_niku_pre_151008.jpg"
     }
@@ -78,7 +78,7 @@
       "lipid": 0.7,
       "carbohydrate": 38.3,
       "sodium": 1365,
-      "SaltEquivalent": 3.5,
+      "saltEquivalent": 3.5,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/udon_mini_151008.jpg"
     }
@@ -92,7 +92,7 @@
       "lipid": 1.8,
       "carbohydrate": 46.9,
       "sodium": 1725,
-      "SaltEquivalent": 4.4,
+      "saltEquivalent": 4.4,
       "description": "",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/udon_mini_curry_141002.jpg"
     }

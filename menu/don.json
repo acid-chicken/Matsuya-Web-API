@@ -8,7 +8,7 @@
       "lipid": 25.3,
       "carbohydrate": 97.8,
       "sodium": 2008,
-      "SaltEquivalent": 5.1,
+      "saltEquivalent": 5.1,
       "description": "さっぱり塩ダレ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_negishiobuta_150521.jpg"
     },
@@ -20,7 +20,7 @@
       "lipid": 33.4,
       "carbohydrate": 135.8,
       "sodium": 2390,
-      "SaltEquivalent": 6.1,
+      "saltEquivalent": 6.1,
       "description": "さっぱり塩ダレ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_negishiobuta_150521.jpg"
     }
@@ -34,7 +34,7 @@
       "lipid": 28.1,
       "carbohydrate": 112.1,
       "sodium": 2173,
-      "SaltEquivalent": 5.5,
+      "saltEquivalent": 5.5,
       "description": "カルビとキムチが相性バツグン！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_kimukaru_140220.jpg"
     },
@@ -46,7 +46,7 @@
       "lipid": 41.6,
       "carbohydrate": 159,
       "sodium": 2990,
-      "SaltEquivalent": 7.6,
+      "saltEquivalent": 7.6,
       "description": "カルビとキムチが相性バツグン！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_kimukaru_140220.jpg"
     },
@@ -58,7 +58,7 @@
       "lipid": 54.8,
       "carbohydrate": 197.8,
       "sodium": 3457,
-      "SaltEquivalent": 8.8,
+      "saltEquivalent": 8.8,
       "description": "店舗限定！特盛！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_kimukaru_toku_170718.jpg"
     }
