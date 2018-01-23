@@ -1,6 +1,6 @@
 {
   "cri_ori": {
-    "2": {
+    "Regular": {
       "name": "オリジナルカレー 並盛",
       "price": 380,
       "calorie": 655,
@@ -12,7 +12,7 @@
       "description": "14種類のスパイスを使用した、コクと深み！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_161101.jpg"
     },
-    "3": {
+    "Large": {
       "name": "オリジナルカレー 大盛",
       "price": 480,
       "calorie": 871,
@@ -26,7 +26,7 @@
     }
   },
   "cry_ori_pote": {
-    "2": {
+    "Regular": {
       "name": "オリジナルカレーポテトサラダセット 並盛",
       "price": 500,
       "calorie": 764,
@@ -38,7 +38,7 @@
       "description": "それぞれ単品で購入するより40円お得！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_pote_170307.jpg"
     },
-    "3": {
+    "Large": {
       "name": "オリジナルカレーポテトサラダセット 大盛",
       "price": 600,
       "calorie": 980,
@@ -52,7 +52,7 @@
     }
   },
   "cry_ori_gyu_p": {
-    "2": {
+    "Regular": {
       "name": "カレギュウ（プレミアム牛肉使用） 並盛",
       "price": 590,
       "calorie": 934,
@@ -64,7 +64,7 @@
       "description": "プレミアム牛めしとオリジナルカレーが一皿で楽しめる！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_gyuu_p_160802.jpg"
     },
-    "3": {
+    "Large": {
       "name": "カレギュウ（プレミアム牛肉使用） 大盛",
       "price": 690,
       "calorie": 1151,
@@ -78,7 +78,7 @@
     }
   },
   "cry_ori_gyu": {
-    "2": {
+    "Regular": {
       "name": "カレギュウ 並盛",
       "price": 500,
       "calorie": 931,
@@ -90,7 +90,7 @@
       "description": "牛めしとオリジナルカレーが一皿で楽しめる！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_gyuu_160802.jpg"
     },
-    "3": {
+    "Large": {
       "name": "カレギュウ 大盛",
       "price": 600,
       "calorie": 1148,
@@ -104,7 +104,7 @@
     }
   },
   "cry_ori_hb": {
-    "2": {
+    "Regular": {
       "name": "ハンバーグカレー 並盛",
       "price": 590,
       "calorie": 960,
@@ -116,7 +116,7 @@
       "description": "ハンバーグでボリュームアップ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/cry_ori_hb_160517.jpg"
     },
-    "3": {
+    "Large": {
       "name": "ハンバーグカレー 大盛",
       "price": 690,
       "calorie": 1176,

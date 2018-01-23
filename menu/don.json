@@ -1,6 +1,6 @@
 {
   "don_negishiobuta": {
-    "2": {
+    "Regular": {
       "name": "ネギたっぷりネギ塩豚カルビ丼並盛",
       "price": 450,
       "calorie": 722,
@@ -12,7 +12,7 @@
       "description": "さっぱり塩ダレ！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_negishiobuta_150521.jpg"
     },
-    "3": {
+    "Large": {
       "name": "ネギたっぷりネギ塩豚カルビ丼大盛",
       "price": 550,
       "calorie": 982,
@@ -26,7 +26,7 @@
     }
   },
   "don_kimukaru": {
-    "2": {
+    "Regular": {
       "name": "キムカル丼並盛",
       "price": 490,
       "calorie": 816,
@@ -38,7 +38,7 @@
       "description": "カルビとキムチが相性バツグン！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_kimukaru_140220.jpg"
     },
-    "3": {
+    "Large": {
       "name": "キムカル丼大盛",
       "price": 590,
       "calorie": 1175,
@@ -50,7 +50,7 @@
       "description": "カルビとキムチが相性バツグン！",
       "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_kimukaru_140220.jpg"
     },
-    "4": {
+    "ExLarge": {
       "name": "キムカル丼特盛",
       "price": 740,
       "calorie": 1496,
