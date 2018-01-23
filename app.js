@@ -16,6 +16,10 @@ import v2random from './api/v2/random';
 //APIv3読み込み
 import v3random from './api/v3/random';
 
+//APIv4読み込み
+import v4search from './api/v4/search';
+import v4random from './api/v4/random';
+
 const app = express();
 
 app.disable('x-powered-by');
@@ -43,6 +47,10 @@ app.use('/v2/random', v2random);
 
 // APIv3実装
 app.use('/v3/random', v3random);
+
+//APIv4じっそう
+app.use('/v4/search', v4search);
+app.use('/v4/random', v4random);
 
 // catch 404 and forward to error handler
 app.use(function (req, res) {
