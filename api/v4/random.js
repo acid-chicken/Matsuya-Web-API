@@ -5,7 +5,16 @@ const router = express.Router();
 router.get('/', function (req, res) {
   dbcontroller.menu.find({  }, function (e, docs) {
     const length = docs.length;
-    const random = Math.floor(Math.random() * (length + 1 - 0)) + 0;
+    const random = Math.floor(Math.random() * length);
+    res.send(docs[random]);
+  });
+});
+
+router.get('/type', function (req, res) {
+  const type = req.query.type.split(',');
+  dbcontroller.menu.find({ type: type }, function (e, docs) {
+    const length = docs.length;
+    const random = Math.floor(Math.random() * length);
     res.send(docs[random]);
   });
 });
