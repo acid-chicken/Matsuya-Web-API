@@ -17,6 +17,6 @@ services:
       - MONGO_INITDB_ROOT_USERNAME=matsuya
       - MONGO_INITDB_ROOT_PASSWORD=matsuya
       - MONGO_INITDB_DATABASE=matsuya
-    voluems:
+    volumes:
       - './db:/data/db'
 
