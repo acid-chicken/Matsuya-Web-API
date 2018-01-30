@@ -16,8 +16,6 @@ services:
     build: ./mongo
     restart: always
     environment:
-      - MONGO_INITDB_ROOT_USERNAME=matsuya
-      - MONGO_INITDB_ROOT_PASSWORD=matsuya
       - MONGO_INITDB_DATABASE=matsuya
     volumes:
       - './db:/data/db'
