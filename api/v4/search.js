@@ -17,8 +17,9 @@ router.get('/', function (req, res) {
     });
   }
   else {
-    res.status(404);
-    res.send("Docs not found");
+    dbcontroller.menu.find({  }, function (e, docs) {
+      res.send(docs);
+    });
   }
 });
 
