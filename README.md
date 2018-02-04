@@ -10,16 +10,6 @@
 
 ## How to use
 
-### 自分でサーバを用意する
-
-1. `git clone https://github.com/mak0tia/Matsuya-Web-API.git` でクローンする
-1. `cd Matsuya-Web-API && npm install` をする
-1. `npm start` で起動する
-1. `http://localhost:3000/v1/random` でランダムに松屋のAPIを返す
-1. 詳しくは[ドキュメント](https://matsuya.docs.apiary.io/)の`https://matsuya-api.herokuapp.com`を`http://localhost:3000`に置き換えて読んで下さい
-
-### すでにあるサーバを使用する
-
 1. 以下のサーバー群でホストされています
 
 |                      Region | Status                      | URL                                 |
@@ -45,4 +35,5 @@ MIT
 ## その他
 
 IssueやPull Request待ってます
+
 [Twitter](https://twitter.com/hs6a) やってます
