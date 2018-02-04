@@ -20,6 +20,8 @@
 
 1. [ドキュメント](https://matsuya.docs.apiary.io/)に詳細が書いてあります
 
+1. 自分でホストしたい人は[これ](https://github.com/mak0tia/Matsuya-Web-API/pull/52#issuecomment-361572917)みてください
+
 ## Author
 
 mak0tia
