@@ -4,7 +4,7 @@
 [GITHUB-MAK0TIA]: https://github.com/mak0tia
 [SHIELDS-WEBSITE-MAK0TIA]: https://img.shields.io/website-online-offline-green-red/https/matsuya.makotia.me.svg?label=status
 [SHIELDS-WEBSITE-HEROKU]: https://img.shields.io/website-online-offline-green-red/https/matsuya-api.herokuapp.com.svg?label=status
-[SHIELDS-WEBSITE-RIKU6460]: https://img.shields.io/website-online-offline-green-red/https/mty.riku6460.space.svg?label=status
+[SHIELDS-WEBSITE-RIKU6460]: https://img.shields.io/website-online-offline-green-red/https/mty.riku.pw.svg?label=status
 
 松屋のメニューをランダムで返すAPIとメニューのデータ(栄養値)を返すAPI
 
