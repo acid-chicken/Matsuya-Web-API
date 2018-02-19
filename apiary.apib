@@ -10,9 +10,14 @@ HOST: https://matsuya.makotia.me/
 - Apiaryの機能で各言語のサンプルが乗ってるのでそれコピペすれば多分動きます
 - 追加してほしい機能やバグ報告、PullRequestsは[GitHub](https://github.com/mak0tia/Matsuya-Web-API)上でお願いします
 
-## ランダムに返すAPI [/v4/random]
+## メニューのデータをランダムに返してくるAPI [/v4/random]
+APIの機能が少なすぎる
 
-### すべてのメニューのデータをランダムに返してくるAPI [GET]
+### メニューのデータをランダムに返してくるAPI [GET]
++ Attributes
+    + none: `` (string, optional) - パラメーターなし(全部のなかからランダムに)
+    + name: `牛めし 特盛,プレミアム牛めし 並盛` (string, optional) - メニュー名
+    + type: `don,drink` (string, optional) - タイプ名
 
 + Response 200 (application/json)
 
@@ -29,3 +34,68 @@ HOST: https://matsuya.makotia.me/
             "description":"ジューシーな豚バラを塩コショウでシンプルに！",
             "imageURL":"https://www.matsuyafoods.co.jp/menu/upload_images/tei_bara_yaki_r_161018.jpg"
         }
+
+## メニューのデータを検索するAPI [/v4/search]
+
+### メニューのデータを検索するるAPI [GET]
++ Attributes
+    + none: `` (string, optional) - パラメーターなし(全部のなかから検索)
+    + name: `牛めし 特盛,プレミアム牛めし 並盛` (string, optional) - メニュー名
+    + type: `don,drink` (string, optional) - タイプ名
+
++ Response 200 (application/json)
+
+        [
+            {
+                "name": "ネギたっぷりネギ塩豚カルビ丼並盛",
+                "type": "don",
+                "price": 450,
+                "calorie": 722,
+                "protein": 22.2,
+                "lipid": 25.3,
+                "carbohydrate": 97.8,
+                "sodium": 2008,
+                "saltEquivalent": 5.1,
+                "description": "さっぱり塩ダレ！",
+                "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_negishiobuta_150521.jpg"
+            },
+            {
+                "name": "ネギたっぷりネギ塩豚カルビ丼大盛",
+                "type": "don",
+                "price": 550,
+                "calorie": 982,
+                "protein": 29.2,
+                "lipid": 33.4,
+                "carbohydrate": 135.8,
+                "sodium": 2390,
+                "saltEquivalent": 6.1,
+                "description": "さっぱり塩ダレ！",
+                "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_negishiobuta_150521.jpg"
+            },
+            {
+                "name": "キムカル丼並盛",
+                "type": "don",
+                "price": 490,
+                "calorie": 816,
+                "protein": 24.1,
+                "lipid": 28.1,
+                "carbohydrate": 112.1,
+                "sodium": 2173,
+                "saltEquivalent": 5.5,
+                "description": "カルビとキムチが相性バツグン！",
+                "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_kimukaru_140220.jpg"
+            },
+            {
+                "name": "キムカル丼大盛",
+                "type": "don",
+                "price": 590,
+                "calorie": 1175,
+                "protein": 34.8,
+                "lipid": 41.6,
+                "carbohydrate": 159,
+                "sodium": 2990,
+                "saltEquivalent": 7.6,
+                "description": "カルビとキムチが相性バツグン！",
+                "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/don_kimukaru_140220.jpg"
+            }
+        ]
