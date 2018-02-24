@@ -15,7 +15,7 @@
 |                      Region | Status                      | URL                                 |
 |----------------------------:|:----------------------------|:------------------------------------|
 |  [mak0tia][GITHUB-MAK0TIA]  | ![SHIELDS-WEBSITE-MAK0TIA]  | <https://matsuya.makotia.me>        |
-|  [makotia][GITHUB-MAK0TIA]  | ![SHIELDS-WEBSITE-HEROKU]  | <https://matsuya-api.herokuapp.com> |
+|  [mak0tia][GITHUB-MAK0TIA]  | ![SHIELDS-WEBSITE-HEROKU]   | <https://matsuya-api.herokuapp.com> |
 | [riku6460][GITHUB-RIKU6460] | ![SHIELDS-WEBSITE-RIKU6460] | <https://mty.riku.pw>               |
 
 1. [ドキュメント](https://matsuya.docs.apiary.io/)に詳細が書いてあります
