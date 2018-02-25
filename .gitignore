@@ -50,3 +50,6 @@ bower_components/
 
 # Enforce use yarn
 package-lock.json
+
+# dockerのmongoのファイルをコミット対象外に
+db
