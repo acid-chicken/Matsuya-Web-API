@@ -5,7 +5,8 @@
 ],
 "env": {
     "node": true,
-    "jasmine": true
+    "jasmine": true,
+    "es6": true
 },
 "globals": {},
      "rules": {
@@ -13,7 +14,7 @@
          "no-console": 0
      },
      "parserOptions": {
-        "ecmaVersion": 6,
+        "ecmaVersion": 2017,
         "sourceType": "module"
       }     
 }

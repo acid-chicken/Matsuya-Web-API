@@ -1,31 +1,33 @@
 import express from "express";
-import dbcontroller from "../../modules/dbcontroller";
+import findRandom from "../../helper/findRandom";  
 const router = express.Router();
 
-router.get('/', function (req, res) {
+router.get('/', async function (req, res) {
   const query = req.query;
   if (query.type) {
     const type = query.type.split(',');
-    dbcontroller.menu.find({ type: type }, function (e, docs) {
-      const length = docs.length;
-      const random = Math.floor(Math.random() * length);
-      res.send(docs[random]);
-    });
+    const q = { type: type };
+    try {
+      res.send(await findRandom(q));
+    } catch(ex) {
+      res.send(ex);
+    }
   }
   else if (query.name) {
     const name = query.name.split(',');
-    dbcontroller.menu.find({ name: name }, function (e, docs) {
-      const length = docs.length;
-      const random = Math.floor(Math.random() * length);
-      res.send(docs[random]);
-    });
+    const q = { name: name };
+    try {
+      res.send(await findRandom(q));
+    } catch(ex) {
+      res.send(ex);
+    }
   }
   else {
-    dbcontroller.menu.find({  }, function (e, docs) {
-      const length = docs.length;
-      const random = Math.floor(Math.random() * length);
-      res.send(docs[random]);
-    });
+    try {
+      res.send(await findRandom({}));
+    } catch(ex) {
+      res.send(ex);
+    }
   }
 });
 
