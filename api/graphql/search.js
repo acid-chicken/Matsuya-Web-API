@@ -1,11 +1,11 @@
-import findRandom from "../../helper/findRandom";  
+import dbSearch from "../../helper/dbSearch";  
 
-const randomResolver = async (root, args) => {
+const searchResolver = async (root, args) => {
     if (args.type) {
         const type = args.type.split(',');
         const q = { type: type };
         try {
-            return await findRandom(q);
+            return await dbSearch(q);
         } catch(ex) {
             return ex;
         }
@@ -14,18 +14,18 @@ const randomResolver = async (root, args) => {
         const name = args.name.split(',');
         const q = { name: name };
         try {
-          return await findRandom(q);
+          return await dbSearch(q);
         } catch(ex) {
             return ex;
         }
       }
       else {
           try {
-            return await findRandom({});
+            return await dbSearch({});
           } catch(ex) {
               return ex;
           }
       }
 };
 
-export default randomResolver;
+export default searchResolver;

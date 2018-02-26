@@ -7,15 +7,27 @@ router.get('/', async function (req, res) {
   if (query.type) {
     const type = query.type.split(',');
     const q = { type: type };
-    res.send(await dbSearch(q));
+    try {
+      res.send(await dbSearch(q));
+    } catch(ex) {
+      res.send(ex);
+    }
   }
   else if (query.name) {
     const name = query.name.split(',');
     const q = { name: name };
-    res.send(await dbSearch(q));
+    try {
+      res.send(await dbSearch(q));
+    } catch(ex) {
+      res.send(ex);
+    }
   }
   else {
-    res.send(await dbSearch({}));
+    try {
+      res.send(await dbSearch({}));
+    } catch(ex) {
+      res.send(ex);
+    }
   }
 });
 

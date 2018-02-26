@@ -4,8 +4,10 @@ import {
     GraphQLString,
     GraphQLInt,
     GraphQLFloat,
+    GraphQLList,
   } from 'graphql';
 import randomResolver from './random';
+import searchResolver from './search';
 
 const MenuType = new GraphQLObjectType({
     name: 'Menu',
@@ -51,18 +53,30 @@ const schema = new GraphQLSchema({
       name: 'RootQueryType',
       fields: {
         random: {
-          type: MenuType,
-          args: {
-            type: {
-                type: GraphQLString,
+            type: MenuType,
+            args: {
+              type: {
+                  type: GraphQLString,
+              },
+              name: {
+                  type: GraphQLString,
+              },
             },
-            name: {
-                type: GraphQLString,
-            },
+            resolve: randomResolver,
           },
-          resolve: randomResolver,
+          search: {
+            type: GraphQLList(MenuType),
+            args: {
+              type: {
+                  type: GraphQLString,
+              },
+              name: {
+                  type: GraphQLString,
+              },
+            },
+            resolve: searchResolver,
+          },
         },
-      },
     }),
   });
 
