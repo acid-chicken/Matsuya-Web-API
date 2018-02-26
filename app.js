@@ -5,6 +5,9 @@ import cookieParser from 'cookie-parser';
 import bodyParser from 'body-parser';
 // import favicon from 'serve-favicon';
 
+import { graphqlExpress, graphiqlExpress } from 'apollo-server-express';
+import schema from './api/graphql/schema';
+
 import index from './routes/index';
 
 //APIv1読み込み
@@ -48,9 +51,13 @@ app.use('/v2/random', v2random);
 // APIv3実装
 app.use('/v3/random', v3random);
 
-//APIv4じっそう
+//APIv4実装
 app.use('/v4/search', v4search);
 app.use('/v4/random', v4random);
+
+// GraphQL実装
+app.use('/graphql', bodyParser.json(), graphqlExpress({ schema: schema }));
+app.get('/graphiql', graphiqlExpress({ endpointURL: '/graphql' })); // if you want GraphiQL enabled
 
 // catch 404 and forward to error handler
 app.use(function (req, res) {
