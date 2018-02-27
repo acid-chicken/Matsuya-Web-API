@@ -1611,19 +1611,6 @@
     "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_r_171010.jpg"
   },
   {
-    "name": "豚と茄子の辛味噌炒め定食ポテトサラダセット",
-    "type": "teishuoku",
-    "price": 630,
-    "calorie": 1041,
-    "protein": 26.3,
-    "lipid": 46.6,
-    "carbohydrate": 125.3,
-    "sodium": 2337,
-    "saltEquivalent": 6,
-    "description": "NEW! いつもの野菜が+40円でポテトサラダに！",
-    "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/tei_karamiso_pote_r_171010.jpg"
-  },
-  {
     "name": "豚と茄子の辛味噌炒め定食ポテトサラダセット W定食",
     "type": "teishuoku",
     "price": 930,
@@ -1842,19 +1829,6 @@
     "saltEquivalent": 0.2,
     "description": "生野菜と生玉子がセットでお得！",
     "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/set_yasai_r_n_170222.jpg"
-  },
-  {
-    "name": "生野菜玉子セット券",
-    "type": "topping",
-    "price": 160,
-    "calorie": 88,
-    "protein": 6.7,
-    "lipid": 5,
-    "carbohydrate": 4.1,
-    "sodium": 70,
-    "saltEquivalent": 0.2,
-    "description": "生野菜と生玉子がセットでお得！",
-    "imageURL": "https://www.matsuyafoods.co.jp/menu/upload_images/set_yasai_r_h_170222.jpg"
   },
   {
     "name": "豚汁生玉子セット券",
