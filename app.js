@@ -48,7 +48,7 @@ app.use('/v2/random', v2random);
 // APIv3実装
 app.use('/v3/random', v3random);
 
-//APIv4じっそう
+//APIv4実装
 app.use('/v4/search', v4search);
 app.use('/v4/random', v4random);
 

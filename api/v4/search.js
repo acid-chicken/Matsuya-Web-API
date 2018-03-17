@@ -1,25 +1,27 @@
 import express from "express";
-import dbcontroller from "../../modules/dbcontroller";
+import dbSearch from "../../helper/dbSearch";  
 const router = express.Router();
 
-router.get('/', function (req, res) {
+router.get('/', async function (req, res) {
   const query = req.query;
   if (query.type) {
     const type = query.type.split(',');
-    dbcontroller.menu.find({ type: type }, function (e, docs) {
-      res.send(docs);
-    });
+    const q = { type: type };
+    await dbSearch(q)
+      .then(menu =>res.send(menu))
+      .catch(ex => res.send(ex));
   }
   else if (query.name) {
     const name = query.name.split(',');
-    dbcontroller.menu.find({ name: name }, function (e, docs) {
-      res.send(docs);
-    });
+    const q = { name: name };
+    await dbSearch(q)
+      .then(menu =>res.send(menu))
+      .catch(ex => res.send(ex));
   }
   else {
-    dbcontroller.menu.find({  }, function (e, docs) {
-      res.send(docs);
-    });
+    await dbSearch({})
+      .then(menu =>res.send(menu))
+      .catch(ex => res.send(ex));
   }
 });
 
