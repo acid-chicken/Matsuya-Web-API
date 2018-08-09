@@ -3,7 +3,6 @@
 [GITHUB-RIKU6460]: https://github.com/riku6460
 [GITHUB-MAK0TIA]: https://github.com/mak0tia
 [SHIELDS-WEBSITE-MAK0TIA]: https://img.shields.io/website-online-offline-green-red/https/matsuya.makotia.me.svg?label=status
-[SHIELDS-WEBSITE-HEROKU]: https://img.shields.io/website-online-offline-green-red/https/matsuya-api.herokuapp.com.svg?label=status
 [SHIELDS-WEBSITE-RIKU6460]: https://img.shields.io/website-online-offline-green-red/https/mty.riku.pw.svg?label=status
 
 松屋のメニューをランダムで返すAPIとメニューのデータ(栄養値)を返すAPI
@@ -15,7 +14,6 @@
 |                      Region | Status                      | URL                                 |
 |----------------------------:|:----------------------------|:------------------------------------|
 |  [mak0tia][GITHUB-MAK0TIA]  | ![SHIELDS-WEBSITE-MAK0TIA]  | <https://matsuya.makotia.me>        |
-|  [mak0tia][GITHUB-MAK0TIA]  | ![SHIELDS-WEBSITE-HEROKU]   | <https://matsuya-api.herokuapp.com> |
 | [riku6460][GITHUB-RIKU6460] | ![SHIELDS-WEBSITE-RIKU6460] | <https://mty.riku.pw>               |
 
 1. [ドキュメント](https://matsuya.docs.apiary.io/)に詳細が書いてあります
