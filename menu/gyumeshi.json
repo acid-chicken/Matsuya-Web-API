@@ -2,7 +2,7 @@
   "gyumeshi": {
     "Mini": {
       "name": "牛めし ミニ盛",
-      "price": 240,
+      "price": 280,
       "calorie": 507,
       "protein": 14,
       "lipid": 18.8,
@@ -14,7 +14,7 @@
     },
     "Regular": {
       "name": "牛めし 並盛",
-      "price": 290,
+      "price": 320,
       "calorie": 709,
       "protein": 18.8,
       "lipid": 23.8,
@@ -26,7 +26,7 @@
     },
     "Large": {
       "name": "牛めし 大盛",
-      "price": 390,
+      "price": 430,
       "calorie": 945,
       "protein": 24.1,
       "lipid": 29.6,
@@ -38,7 +38,7 @@
     },
     "ExLarge": {
       "name": "牛めし 特盛",
-      "price": 500,
+      "price": 550,
       "calorie": 1299,
       "protein": 34.5,
       "lipid": 46.2,
@@ -50,7 +50,7 @@
     },
     "ALarge": {
       "name": "牛めし あたま大盛",
-      "price": 350,
+      "price": 390,
       "calorie": 778,
       "protein": 21.6,
       "lipid": 29.4,
@@ -64,7 +64,7 @@
   "gyu_negitama": {
     "Mini": {
       "name": "ネギたっぷり旨辛ネギたま牛めし ミニ盛",
-      "price": 350,
+      "price": 390,
       "calorie": 614,
       "protein": 21,
       "lipid": 25,
@@ -76,7 +76,7 @@
     },
     "Regular": {
       "name": "ネギたっぷり旨辛ネギたま牛めし 並盛",
-      "price": 400,
+      "price": 430,
       "calorie": 840,
       "protein": 26.3,
       "lipid": 31.2,
@@ -88,7 +88,7 @@
     },
     "Large": {
       "name": "ネギたっぷり旨辛ネギたま牛めし 大盛",
-      "price": 500,
+      "price": 540,
       "calorie": 1076,
       "protein": 31.6,
       "lipid": 36.9,
@@ -100,7 +100,7 @@
     },
     "ExLarge": {
       "name": "ネギたっぷり旨辛ネギたま牛めし 特盛",
-      "price": 610,
+      "price": 660,
       "calorie": 1430,
       "protein": 42.1,
       "lipid": 53.6,
@@ -114,7 +114,7 @@
   "gyu_oroshi": {
     "Mini": {
       "name": "おろしポン酢牛めし ミニ盛",
-      "price": 340,
+      "price": 380,
       "calorie": 535,
       "protein": 15.4,
       "lipid": 19,
@@ -126,7 +126,7 @@
     },
     "Regular": {
       "name": "おろしポン酢牛めし 並盛",
-      "price": 390,
+      "price": 420,
       "calorie": 736,
       "protein": 20.2,
       "lipid": 24,
@@ -138,7 +138,7 @@
     },
     "Large": {
       "name": "おろしポン酢牛めし 大盛",
-      "price": 490,
+      "price": 530,
       "calorie": 973,
       "protein": 25.5,
       "lipid": 29.8,
@@ -150,7 +150,7 @@
     },
     "ExLarge": {
       "name": "おろしポン酢牛めし 特盛",
-      "price": 600,
+      "price": 650,
       "calorie": 1327,
       "protein": 35.9,
       "lipid": 46.4,
