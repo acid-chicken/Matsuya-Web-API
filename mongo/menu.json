@@ -1,5 +1,4 @@
-[
-  {
+[{
     "name": "醤油",
     "type": "counter",
     "price": null,
@@ -118,7 +117,7 @@
   },
   {
     "name": "焼鮭定食",
-    "type": "moaning",
+    "type": "morning",
     "price": 450,
     "calorie": 542,
     "protein": 18.8,
@@ -131,7 +130,7 @@
   },
   {
     "name": "ソーセージエッグW定食",
-    "type": "moaning",
+    "type": "morning",
     "price": 450,
     "calorie": 709,
     "protein": 24.9,
@@ -171,7 +170,7 @@
   {
     "name": "プレミアム牛めし 大盛",
     "type": "premium",
-    "price": 520,
+    "price": 530,
     "calorie": 948,
     "protein": 24.2,
     "lipid": 29.8,
@@ -184,7 +183,7 @@
   {
     "name": "プレミアム牛めし 特盛",
     "type": "premium",
-    "price": 630,
+    "price": 650,
     "calorie": 1302,
     "protein": 34.6,
     "lipid": 46.5,
@@ -223,7 +222,7 @@
   {
     "name": "ネギたっぷりプレミアム旨辛ネギたま牛めし 大盛",
     "type": "premium",
-    "price": 630,
+    "price": 640,
     "calorie": 1079,
     "protein": 31.7,
     "lipid": 37.2,
@@ -236,7 +235,7 @@
   {
     "name": "ネギたっぷりプレミアム旨辛ネギたま牛めし 特盛",
     "type": "premium",
-    "price": 740,
+    "price": 760,
     "calorie": 1433,
     "protein": 42.1,
     "lipid": 53.8,
@@ -379,7 +378,7 @@
   {
     "name": "カレギュウ 並盛",
     "type": "curry",
-    "price": 500,
+    "price": 550,
     "calorie": 931,
     "protein": 23.2,
     "lipid": 36.8,
@@ -392,7 +391,7 @@
   {
     "name": "カレギュウ 大盛",
     "type": "curry",
-    "price": 600,
+    "price": 650,
     "calorie": 1148,
     "protein": 26.7,
     "lipid": 40.2,
@@ -457,7 +456,7 @@
   {
     "name": "キムカル丼並盛",
     "type": "don",
-    "price": 490,
+    "price": 500,
     "calorie": 816,
     "protein": 24.1,
     "lipid": 28.1,
@@ -470,7 +469,7 @@
   {
     "name": "キムカル丼大盛",
     "type": "don",
-    "price": 590,
+    "price": 600,
     "calorie": 1175,
     "protein": 34.8,
     "lipid": 41.6,
@@ -482,7 +481,7 @@
   },
   {
     "name": "キムカル丼特盛",
-    "price": 740,
+    "price": 750,
     "calorie": 1496,
     "protein": 44.6,
     "lipid": 54.8,
@@ -547,7 +546,7 @@
   {
     "name": "牛めし ミニ盛",
     "type": "gyuumeshi",
-    "price": 240,
+    "price": 280,
     "calorie": 507,
     "protein": 14,
     "lipid": 18.8,
@@ -560,7 +559,7 @@
   {
     "name": "牛めし 並盛",
     "type": "gyuumeshi",
-    "price": 290,
+    "price": 320,
     "calorie": 709,
     "protein": 18.8,
     "lipid": 23.8,
@@ -573,7 +572,7 @@
   {
     "name": "牛めし 大盛",
     "type": "gyuumeshi",
-    "price": 390,
+    "price": 430,
     "calorie": 945,
     "protein": 24.1,
     "lipid": 29.6,
@@ -586,7 +585,7 @@
   {
     "name": "牛めし 特盛",
     "type": "gyuumeshi",
-    "price": 500,
+    "price": 550,
     "calorie": 1299,
     "protein": 34.5,
     "lipid": 46.2,
@@ -599,7 +598,7 @@
   {
     "name": "牛めし あたま大盛",
     "type": "gyuumeshi",
-    "price": 350,
+    "price": 390,
     "calorie": 778,
     "protein": 21.6,
     "lipid": 29.4,
@@ -612,7 +611,7 @@
   {
     "name": "ネギたっぷり旨辛ネギたま牛めし ミニ盛",
     "type": "gyuumeshi",
-    "price": 350,
+    "price": 390,
     "calorie": 614,
     "protein": 21,
     "lipid": 25,
@@ -625,7 +624,7 @@
   {
     "name": "ネギたっぷり旨辛ネギたま牛めし 並盛",
     "type": "gyuumeshi",
-    "price": 400,
+    "price": 430,
     "calorie": 840,
     "protein": 26.3,
     "lipid": 31.2,
@@ -638,7 +637,7 @@
   {
     "name": "ネギたっぷり旨辛ネギたま牛めし 大盛",
     "type": "gyuumeshi",
-    "price": 500,
+    "price": 540,
     "calorie": 1076,
     "protein": 31.6,
     "lipid": 36.9,
@@ -651,7 +650,7 @@
   {
     "name": "ネギたっぷり旨辛ネギたま牛めし 特盛",
     "type": "gyuumeshi",
-    "price": 610,
+    "price": 660,
     "calorie": 1430,
     "protein": 42.1,
     "lipid": 53.6,
@@ -664,7 +663,7 @@
   {
     "name": "おろしポン酢牛めし ミニ盛",
     "type": "gyuumeshi",
-    "price": 340,
+    "price": 380,
     "calorie": 535,
     "protein": 15.4,
     "lipid": 19,
@@ -677,7 +676,7 @@
   {
     "name": "おろしポン酢牛めし 並盛",
     "type": "gyuumeshi",
-    "price": 390,
+    "price": 420,
     "calorie": 736,
     "protein": 20.2,
     "lipid": 24,
@@ -690,7 +689,7 @@
   {
     "name": "おろしポン酢牛めし 大盛",
     "type": "gyuumeshi",
-    "price": 490,
+    "price": 530,
     "calorie": 973,
     "protein": 25.5,
     "lipid": 29.8,
@@ -703,7 +702,7 @@
   {
     "name": "おろしポン酢牛めし 特盛",
     "type": "gyuumeshi",
-    "price": 600,
+    "price": 650,
     "calorie": 1327,
     "protein": 35.9,
     "lipid": 46.4,
@@ -715,7 +714,7 @@
   },
   {
     "name": "納豆（ネギ付）＜選べる小鉢＞",
-    "type": "moaning_kobachi",
+    "type": "morning_kobachi",
     "price": 0,
     "calorie": 85,
     "protein": 7.6,
@@ -728,7 +727,7 @@
   },
   {
     "name": "とろろ＜選べる小鉢＞",
-    "type": "moaning_kobachi",
+    "type": "morning_kobachi",
     "price": 0,
     "calorie": 44,
     "protein": 1.5,
@@ -741,7 +740,7 @@
   },
   {
     "name": "プレミアムミニ牛皿＜選べる小鉢＞",
-    "type": "moaning_kobachi",
+    "type": "morning_kobachi",
     "price": 0,
     "calorie": 98,
     "protein": 3.9,
@@ -754,7 +753,7 @@
   },
   {
     "name": "ミニ牛皿＜選べる小鉢＞",
-    "type": "moaning_kobachi",
+    "type": "morning_kobachi",
     "price": 0,
     "calorie": 141,
     "protein": 5.6,
@@ -767,7 +766,7 @@
   },
   {
     "name": "冷やっこ＜選べる小鉢＞",
-    "type": "moaning_kobachi",
+    "type": "morning_kobachi",
     "price": 0,
     "calorie": 92,
     "protein": 7.9,
@@ -780,7 +779,7 @@
   },
   {
     "name": "小松菜ナムル＜選べる小鉢＞",
-    "type": "moaning_kobachi",
+    "type": "morning_kobachi",
     "price": 0,
     "calorie": 21,
     "protein": 0.7,
@@ -793,7 +792,7 @@
   },
   {
     "name": "定番朝定食",
-    "type": "moaning",
+    "type": "morning",
     "price": 360,
     "calorie": 519,
     "protein": 14.7,
@@ -806,7 +805,7 @@
   },
   {
     "name": "ソーセージエッグ定食",
-    "type": "moaning",
+    "type": "morning",
     "price": 400,
     "calorie": 620,
     "protein": 19.1,
@@ -846,7 +845,7 @@
   {
     "name": "プレミアムおろしポン酢牛めし 大盛",
     "type": "premium",
-    "price": 620,
+    "price": 630,
     "calorie": 976,
     "protein": 25.6,
     "lipid": 30,
@@ -859,7 +858,7 @@
   {
     "name": "プレミアムおろしポン酢牛めし 特盛",
     "type": "premium",
-    "price": 730,
+    "price": 750,
     "calorie": 1330,
     "protein": 36,
     "lipid": 46.7,
@@ -1249,7 +1248,7 @@
   {
     "name": "牛焼肉定食",
     "type": "teishuoku",
-    "price": 590,
+    "price": 600,
     "calorie": 776,
     "protein": 24.8,
     "lipid": 30.1,
@@ -1262,7 +1261,7 @@
   {
     "name": "牛焼肉W定食",
     "type": "teishuoku",
-    "price": 890,
+    "price": 900,
     "calorie": 1098,
     "protein": 40.8,
     "lipid": 57.9,
@@ -1275,7 +1274,7 @@
   {
     "name": "牛焼肉定食 ライスミニ",
     "type": "teishuoku",
-    "price": 590,
+    "price": 570,
     "calorie": 776,
     "protein": 24.8,
     "lipid": 30.1,
@@ -1288,7 +1287,7 @@
   {
     "name": "牛焼肉定食 単品",
     "type": "teishuoku",
-    "price": 390,
+    "price": 400,
     "calorie": 322,
     "protein": 16,
     "lipid": 27.9,
@@ -1327,7 +1326,7 @@
   {
     "name": "カルビ焼肉定食",
     "type": "teishuoku",
-    "price": 630,
+    "price": 650,
     "calorie": 912,
     "protein": 30.5,
     "lipid": 41,
@@ -1340,7 +1339,7 @@
   {
     "name": "カルビ焼肉W定食",
     "type": "teishuoku",
-    "price": 930,
+    "price": 950,
     "calorie": 1370,
     "protein": 52.2,
     "lipid": 79.7,
@@ -1353,7 +1352,7 @@
   {
     "name": "カルビ焼肉定食 ライスミニ",
     "type": "teishuoku",
-    "price": 600,
+    "price": 620,
     "calorie": 912,
     "protein": 30.5,
     "lipid": 41,
@@ -1366,7 +1365,7 @@
   {
     "name": "カルビ焼肉定食 単品",
     "type": "teishuoku",
-    "price": 430,
+    "price": 450,
     "calorie": 458,
     "protein": 21.7,
     "lipid": 38.8,
@@ -1379,7 +1378,7 @@
   {
     "name": "カルビ焼肉ラージ定食",
     "type": "teishuoku",
-    "price": 780,
+    "price": 800,
     "calorie": 1067,
     "protein": 37.8,
     "lipid": 53.9,
@@ -1392,7 +1391,7 @@
   {
     "name": "カルビ焼肉ラージ定食 単品",
     "type": "teishuoku",
-    "price": 580,
+    "price": 450,
     "calorie": 613,
     "protein": 29,
     "lipid": 51.7,
