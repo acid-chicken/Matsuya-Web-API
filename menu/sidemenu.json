@@ -1,4 +1,4 @@
-  {
+{
   "sidemenu_namatamago": {
     "Single": {
       "name": "生玉子",
@@ -140,7 +140,7 @@
     },
     "3": {
       "name": "プレミアム牛皿 大盛",
-      "price": 410,
+      "price": 420,
       "calorie": 333,
       "protein": 13.1,
       "lipid": 27.5,
