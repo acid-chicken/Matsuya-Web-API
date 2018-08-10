@@ -26,7 +26,7 @@
     },
     "Large": {
       "name": "プレミアム牛めし 大盛",
-      "price": 520,
+      "price": 530,
       "calorie": 948,
       "protein": 24.2,
       "lipid": 29.8,
@@ -38,7 +38,7 @@
     },
     "ExLarge": {
       "name": "プレミアム牛めし 特盛",
-      "price": 630,
+      "price": 650,
       "calorie": 1302,
       "protein": 34.6,
       "lipid": 46.5,
@@ -76,7 +76,7 @@
     },
     "Large": {
       "name": "ネギたっぷりプレミアム旨辛ネギたま牛めし 大盛",
-      "price": 630,
+      "price": 640,
       "calorie": 1079,
       "protein": 31.7,
       "lipid": 37.2,
@@ -88,7 +88,7 @@
     },
     "ExLarge": {
       "name": "ネギたっぷりプレミアム旨辛ネギたま牛めし 特盛",
-      "price": 740,
+      "price": 760,
       "calorie": 1433,
       "protein": 42.1,
       "lipid": 53.8,
@@ -126,7 +126,7 @@
     },
     "Large": {
       "name": "プレミアムおろしポン酢牛めし 大盛",
-      "price": 620,
+      "price": 630,
       "calorie": 976,
       "protein": 25.6,
       "lipid": 30,
@@ -138,7 +138,7 @@
     },
     "ExLarge": {
       "name": "プレミアムおろしポン酢牛めし 特盛",
-      "price": 730,
+      "price": 750,
       "calorie": 1330,
       "protein": 36,
       "lipid": 46.7,
