@@ -28,7 +28,7 @@
   "don_kimukaru": {
     "Regular": {
       "name": "キムカル丼並盛",
-      "price": 490,
+      "price": 500,
       "calorie": 816,
       "protein": 24.1,
       "lipid": 28.1,
@@ -40,7 +40,7 @@
     },
     "Large": {
       "name": "キムカル丼大盛",
-      "price": 590,
+      "price": 600,
       "calorie": 1175,
       "protein": 34.8,
       "lipid": 41.6,
@@ -52,7 +52,7 @@
     },
     "ExLarge": {
       "name": "キムカル丼特盛",
-      "price": 740,
+      "price": 750,
       "calorie": 1496,
       "protein": 44.6,
       "lipid": 54.8,

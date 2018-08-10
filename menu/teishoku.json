@@ -2,7 +2,7 @@
   "tei_gyuuyaki": {
     "Set": {
       "name": "牛焼肉定食",
-      "price": 590,
+      "price": 600,
       "calorie": 776,
       "protein": 24.8,
       "lipid": 30.1,
@@ -14,7 +14,7 @@
     },
     "WSet": {
       "name": "牛焼肉W定食",
-      "price": 890,
+      "price": 900,
       "calorie": 1098,
       "protein": 40.8,
       "lipid": 57.9,
@@ -26,7 +26,7 @@
     },
     "rMini": {
       "name": "牛焼肉定食 ライスミニ",
-      "price": 590,
+      "price": 570,
       "calorie": 776,
       "protein": 24.8,
       "lipid": 30.1,
@@ -38,7 +38,7 @@
     },
     "Single": {
       "name": "牛焼肉定食 単品",
-      "price": 390,
+      "price": 400,
       "calorie": 322,
       "protein": 16,
       "lipid": 27.9,
@@ -52,7 +52,7 @@
   "tei_gyuuyaki_large": {
     "Set": {
       "name": "牛焼肉ラージ定食",
-      "price": 740,
+      "price": 750,
       "calorie": 941,
       "protein": 32.9,
       "lipid": 44.1,
@@ -64,7 +64,7 @@
     },
     "Single": {
       "name": "牛焼肉ラージ定食 単品",
-      "price": 540,
+      "price": 400,
       "calorie": 486,
       "protein": 24.1,
       "lipid": 41.9,
@@ -78,7 +78,7 @@
   "tei_karubi": {
     "Set": {
       "name": "カルビ焼肉定食",
-      "price": 630,
+      "price": 650,
       "calorie": 912,
       "protein": 30.5,
       "lipid": 41,
@@ -90,7 +90,7 @@
     },
     "WSet": {
       "name": "カルビ焼肉W定食",
-      "price": 930,
+      "price": 950,
       "calorie": 1370,
       "protein": 52.2,
       "lipid": 79.7,
@@ -102,7 +102,7 @@
     },
     "rMini": {
       "name": "カルビ焼肉定食 ライスミニ",
-      "price": 600,
+      "price": 620,
       "calorie": 912,
       "protein": 30.5,
       "lipid": 41,
@@ -114,7 +114,7 @@
     },
     "Single": {
       "name": "カルビ焼肉定食 単品",
-      "price": 430,
+      "price": 450,
       "calorie": 458,
       "protein": 21.7,
       "lipid": 38.8,
@@ -128,7 +128,7 @@
   "tei_karubi_large": {
     "Set": {
       "name": "カルビ焼肉ラージ定食",
-      "price": 780,
+      "price": 800,
       "calorie": 1067,
       "protein": 37.8,
       "lipid": 53.9,
@@ -140,7 +140,7 @@
     },
     "Single": {
       "name": "カルビ焼肉ラージ定食 単品",
-      "price": 580,
+      "price": 650,
       "calorie": 613,
       "protein": 29,
       "lipid": 51.7,
