@@ -1,8 +1,8 @@
 # Matsuya-Web-API
 
 [GITHUB-RIKU6460]: https://github.com/riku6460
-[GITHUB-MAK0TIA]: https://github.com/mak0tia
-[SHIELDS-WEBSITE-MAK0TIA]: https://img.shields.io/website-online-offline-green-red/https/matsuya.makotia.me.svg?label=status
+[GITHUB-MAKOTIA]: https://github.com/makotia
+[SHIELDS-WEBSITE-MAKOTIA]: https://img.shields.io/website-online-offline-green-red/https/matsuya.makotia.me.svg?label=status
 [SHIELDS-WEBSITE-RIKU6460]: https://img.shields.io/website-online-offline-green-red/https/mty.riku.pw.svg?label=status
 
 松屋のメニューをランダムで返すAPIとメニューのデータ(栄養値)を返すAPI
@@ -13,20 +13,20 @@
 
 |                      Region | Status                      | URL                                 |
 |----------------------------:|:----------------------------|:------------------------------------|
-|  [mak0tia][GITHUB-MAK0TIA]  | ![SHIELDS-WEBSITE-MAK0TIA]  | <https://matsuya.makotia.me>        |
+|  [makotia][GITHUB-MAKOTIA]  | ![SHIELDS-WEBSITE-MAKOTIA]  | <https://matsuya.makotia.me>        |
 | [riku6460][GITHUB-RIKU6460] | ![SHIELDS-WEBSITE-RIKU6460] | <https://mty.riku.pw>               |
 
 1. [ドキュメント](https://matsuya.docs.apiary.io/)に詳細が書いてあります
 
-1. 自分でホストしたい人は[これ](https://github.com/mak0tia/Matsuya-Web-API/pull/52#issuecomment-361572917)みてください
+1. 自分でホストしたい人は[これ](https://github.com/makotia/Matsuya-Web-API/pull/52#issuecomment-361572917)みてください
 
 ## Author
 
-mak0tia
+makotia
 
 ## Status
 
-[![Build Status](https://travis-ci.org/mak0tia/Matsuya-Web-API.svg?branch=master)](https://travis-ci.org/mak0tia/Matsuya-Web-API)
+[![Build Status](https://travis-ci.org/makotia/Matsuya-Web-API.svg?branch=master)](https://travis-ci.org/makotia/Matsuya-Web-API)
 
 ## License
 
@@ -37,3 +37,4 @@ MIT
 IssueやPull Request待ってます
 
 [Twitter](https://twitter.com/hs6a) やってます
+
