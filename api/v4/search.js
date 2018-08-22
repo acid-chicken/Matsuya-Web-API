@@ -6,7 +6,7 @@ router.get('/', async function (req, res) {
   const query = req.query;
   if (query.type) {
     const type = query.type.split(',');
-    const q = { type: new RegExp(type) };
+    const q = { type: type };
     await dbSearch(q)
       .then(menu =>res.send(menu))
       .catch(ex => res.send(ex));
