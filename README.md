@@ -37,7 +37,7 @@ makotia
 |:--------------------------------|:----------------------------------------------------------------------|
 |    [うめっち][GITHUB-UMECCHI]   |       [MatsuyaWebAPI](https://github.com/umecchi/MatsuyaWebAPI)       |
 | [TinyKitten][GITHUB-TINYKITTEN] |      [FxOS-Matusya](https://github.com/TinyKitten/FxOS-Matusya)       |
-| [TinyKitten][GITHUB-TINYKITTEN] | [FxOS-MatsuyaFrontend](https://github.com/TinyKitten/MatsuyaFrontend) |
+| [TinyKitten][GITHUB-TINYKITTEN] |   [MatsuyaFrontend](https://github.com/TinyKitten/MatsuyaFrontend)    |
 |   [caffeine][GITHUB-ENIEHACK]   |     [Matsuya-Sinatra](https://github.com/eniehack/Matsuya-Sinatra)    |
 |    [makotia][GITHUB-MAKOTIA]    |               [ma2ya](https://github.com/makotia/ma2ya)               |
 
