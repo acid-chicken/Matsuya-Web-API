@@ -1,9 +1,9 @@
-import express from 'express';
-const router = express.Router();
+import express from 'express'
+const router = express.Router()
 
 /* GET home page. */
 router.get('/', function(req, res) {
-  res.render('index', { title: 'Matsuya Web API' });
-});
+  res.render('index', { title: 'Matsuya Web API' })
+})
 
-module.exports = router;
+module.exports = router

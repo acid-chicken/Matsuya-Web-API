@@ -1,71 +1,71 @@
-import express from 'express';
-import path from 'path';
-import logger from 'morgan';
-import cookieParser from 'cookie-parser';
-import bodyParser from 'body-parser';
+import express from 'express'
+import path from 'path'
+import logger from 'morgan'
+import cookieParser from 'cookie-parser'
+import bodyParser from 'body-parser'
 // import favicon from 'serve-favicon';
 
-import index from './routes/index';
+import index from './routes/index'
 
 //APIv1読み込み
-import v1random from './api/v1/random';
+import v1random from './api/v1/random'
 
 //APIv2読み込み
-import v2random from './api/v2/random';
+import v2random from './api/v2/random'
 
 //APIv3読み込み
-import v3random from './api/v3/random';
+import v3random from './api/v3/random'
 
 //APIv4読み込み
-import v4search from './api/v4/search';
-import v4random from './api/v4/random';
+import v4search from './api/v4/search'
+import v4random from './api/v4/random'
 
-const app = express();
+const app = express()
 
-app.disable('x-powered-by');
+app.disable('x-powered-by')
 
 // view engine setup
-app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'ejs');
+app.set('views', path.join(__dirname, 'views'))
+app.set('view engine', 'ejs')
 
 // app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
-app.use(logger('dev'));
-app.use(bodyParser.json());
+app.use(logger('dev'))
+app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({
   extended: false
-}));
-app.use(cookieParser());
-app.use(express.static(path.join(__dirname, 'public')));
+}))
+app.use(cookieParser())
+app.use(express.static(path.join(__dirname, 'public')))
 
-app.use('/', index);
+app.use('/', index)
 
 //APIv1実装
-app.use('/v1/random', v1random);
+app.use('/v1/random', v1random)
 
 //APIv2実装
-app.use('/v2/random', v2random);
+app.use('/v2/random', v2random)
 
 // APIv3実装
-app.use('/v3/random', v3random);
+app.use('/v3/random', v3random)
 
 //APIv4実装
-app.use('/v4/search', v4search);
-app.use('/v4/random', v4random);
+app.use('/v4/search', v4search)
+app.use('/v4/random', v4random)
 
 // catch 404 and forward to error handler
 app.use(function (req, res) {
-  res.sendStatus(404);
-});
+  res.sendStatus(404)
+})
 
 // error handler
 app.use(function (err, req, res) {
   // set locals, only providing error in development
-  res.locals.message = err.message;
-  res.locals.error = req.app.get('env') === 'development' ? err : {};
+  res.locals.message = err.message
+  res.locals.error = req.app.get('env') === 'development' ? err : {}
 
   // render the error page
-  res.status(err.status || 500);
-  res.render('error');
-});
+  res.status(err.status || 500)
+  res.render('error')
+})
 
-module.exports = app;
+module.exports = app
