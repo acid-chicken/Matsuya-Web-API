@@ -37,4 +37,3 @@ MIT
 IssueやPull Request待ってます
 
 [Twitter](https://twitter.com/hs6a) やってます
-
