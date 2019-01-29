@@ -47,6 +47,7 @@ var _ = Resource("v4", func() {
 			Param("name", String, "メニュー名")
 		})
 		Response(OK, V4Media)
+		Response(InternalServerError)
 	})
 	Action("search", func() {
 		Routing(GET("search"))
@@ -55,7 +56,7 @@ var _ = Resource("v4", func() {
 			Param("type", String, "メニューの種類")
 			Param("name", String, "メニュー名")
 		})
-		Response(OK, ArrayOf(V4Media))
+		Response(OK, ArrayOf(V4Media), "application/json")
 		Response(InternalServerError)
 	})
 })
