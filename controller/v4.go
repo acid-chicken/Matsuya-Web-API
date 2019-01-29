@@ -9,11 +9,11 @@ import (
 // V4Controller implements the v4 resource.
 type V4Controller struct {
 	*goa.Controller
-	db *mgo.Session
+	db *mgo.Database
 }
 
 // NewV4Controller creates a v4 controller.
-func NewV4Controller(service *goa.Service, db *mgo.Session) *V4Controller {
+func NewV4Controller(service *goa.Service, db *mgo.Database) *V4Controller {
 	return &V4Controller{
 		Controller: service.NewController("V4Controller"),
 		db:         db,
@@ -26,7 +26,7 @@ func (c *V4Controller) Random(ctx *app.RandomV4Context) error {
 
 	// Put your logic here
 
-	res := &app.MeMakotiaMatsuyaRandom{}
+	res := &app.MeMakotiaMatsuyaV4{}
 	return ctx.OK(res)
 	// V4Controller_Random: end_implement
 }

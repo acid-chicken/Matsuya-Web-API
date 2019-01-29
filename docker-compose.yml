@@ -9,6 +9,7 @@ services:
       - db
     environment:
       - MONGODB_CONNECTION_URL=mongodb://matsuya:matsuya@db:27017/matsuya
+      - MONGODB_DATABASE_NAME=matsuya
   db:
     build: ./migration
     restart: always

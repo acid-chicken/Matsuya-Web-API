@@ -18,9 +18,18 @@ func LoadEnv() {
 
 // GetMongoConnectionURL MongoDBのURLを返す
 func GetMongoConnectionURL() string {
-	port := os.Getenv("MONGODB_CONNECTION_URL")
-	if port == "" {
+	url := os.Getenv("MONGODB_CONNECTION_URL")
+	if url == "" {
 		return "mongodb://localhost/matsuya"
 	}
-	return port
+	return url
+}
+
+// GetDBName MongoDBのDB名を返す
+func GetDBName() string {
+	name := os.Getenv("MONGODB_DATABASE_NAME")
+	if name == "" {
+		return "matsuya"
+	}
+	return name
 }

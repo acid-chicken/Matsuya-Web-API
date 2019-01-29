@@ -9,4 +9,6 @@ var _ = API("Matsuya-Web-API", func() {
 	Description("松屋のメニューをランダムで返すAPIとメニューのデータ(栄養値)を返すAPI")
 	Host("matsuya.makotia.me")
 	Scheme("https")
+	Consumes("application/json")
+	Produces("application/json")
 })

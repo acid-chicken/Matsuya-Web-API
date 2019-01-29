@@ -10,7 +10,8 @@ var _ = Resource("v1", func() {
 	Action("random", func() {
 		Routing(GET("random"))
 		Description("ランダムで松屋のメニュー名を返す")
-		Response(OK, ArrayOf(String))
+		Response(OK, ArrayOf(String), "application/json")
+		Response(InternalServerError)
 	})
 })
 
@@ -21,6 +22,7 @@ var _ = Resource("v2", func() {
 		Routing(GET("random"))
 		Description("ランダムで松屋のメニュー名を返す")
 		Response(OK)
+		Response(InternalServerError)
 	})
 })
 
@@ -31,6 +33,7 @@ var _ = Resource("v3", func() {
 		Routing(GET("random"))
 		Description("ランダムで松屋のメニュー名を返す")
 		Response(OK)
+		Response(InternalServerError)
 	})
 })
 
@@ -53,5 +56,6 @@ var _ = Resource("v4", func() {
 			Param("name", String, "メニュー名")
 		})
 		Response(OK, ArrayOf(V4Media))
+		Response(InternalServerError)
 	})
 })

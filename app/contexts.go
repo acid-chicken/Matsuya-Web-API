@@ -38,9 +38,15 @@ func NewRandomV1Context(ctx context.Context, r *http.Request, service *goa.Servi
 // OK sends a HTTP response with status code 200.
 func (ctx *RandomV1Context) OK(r []string) error {
 	if ctx.ResponseData.Header().Get("Content-Type") == "" {
-		ctx.ResponseData.Header().Set("Content-Type", "text/plain")
+		ctx.ResponseData.Header().Set("Content-Type", "application/json")
 	}
 	return ctx.ResponseData.Service.Send(ctx.Context, 200, r)
+}
+
+// InternalServerError sends a HTTP response with status code 500.
+func (ctx *RandomV1Context) InternalServerError() error {
+	ctx.ResponseData.WriteHeader(500)
+	return nil
 }
 
 // RandomV2Context provides the v2 random action context.
@@ -70,6 +76,12 @@ func (ctx *RandomV2Context) OK(r *MeMakotiaMatsuyaV2) error {
 	return ctx.ResponseData.Service.Send(ctx.Context, 200, r)
 }
 
+// InternalServerError sends a HTTP response with status code 500.
+func (ctx *RandomV2Context) InternalServerError() error {
+	ctx.ResponseData.WriteHeader(500)
+	return nil
+}
+
 // RandomV3Context provides the v3 random action context.
 type RandomV3Context struct {
 	context.Context
@@ -95,6 +107,12 @@ func (ctx *RandomV3Context) OK(r *MeMakotiaMatsuyaV3) error {
 		ctx.ResponseData.Header().Set("Content-Type", "application/vnd.me.makotia.matsuya.v3+json")
 	}
 	return ctx.ResponseData.Service.Send(ctx.Context, 200, r)
+}
+
+// InternalServerError sends a HTTP response with status code 500.
+func (ctx *RandomV3Context) InternalServerError() error {
+	ctx.ResponseData.WriteHeader(500)
+	return nil
 }
 
 // RandomV4Context provides the v4 random action context.
@@ -129,9 +147,9 @@ func NewRandomV4Context(ctx context.Context, r *http.Request, service *goa.Servi
 }
 
 // OK sends a HTTP response with status code 200.
-func (ctx *RandomV4Context) OK(r *MeMakotiaMatsuyaRandom) error {
+func (ctx *RandomV4Context) OK(r *MeMakotiaMatsuyaV4) error {
 	if ctx.ResponseData.Header().Get("Content-Type") == "" {
-		ctx.ResponseData.Header().Set("Content-Type", "application/vnd.me.makotia.matsuya.random+json")
+		ctx.ResponseData.Header().Set("Content-Type", "application/vnd.me.makotia.matsuya.v4+json")
 	}
 	return ctx.ResponseData.Service.Send(ctx.Context, 200, r)
 }
@@ -168,9 +186,15 @@ func NewSearchV4Context(ctx context.Context, r *http.Request, service *goa.Servi
 }
 
 // OK sends a HTTP response with status code 200.
-func (ctx *SearchV4Context) OK(r []*MeMakotiaMatsuyaRandom) error {
+func (ctx *SearchV4Context) OK(r []*MeMakotiaMatsuyaV4) error {
 	if ctx.ResponseData.Header().Get("Content-Type") == "" {
 		ctx.ResponseData.Header().Set("Content-Type", "text/plain")
 	}
 	return ctx.ResponseData.Service.Send(ctx.Context, 200, r)
+}
+
+// InternalServerError sends a HTTP response with status code 500.
+func (ctx *SearchV4Context) InternalServerError() error {
+	ctx.ResponseData.WriteHeader(500)
+	return nil
 }

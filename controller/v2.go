@@ -9,11 +9,11 @@ import (
 // V2Controller implements the v2 resource.
 type V2Controller struct {
 	*goa.Controller
-	db *mgo.Session
+	db *mgo.Database
 }
 
 // NewV2Controller creates a v2 controller.
-func NewV2Controller(service *goa.Service, db *mgo.Session) *V2Controller {
+func NewV2Controller(service *goa.Service, db *mgo.Database) *V2Controller {
 	return &V2Controller{
 		Controller: service.NewController("V2Controller"),
 		db:         db,

@@ -1,98 +1,14 @@
 consumes:
 - application/json
-- application/xml
-- application/gob
-- application/x-gob
 definitions:
-  MeMakotiaMatsuyaRandom:
-    description: Version 4 (default view)
-    example:
-      calorie: 4103913588170123885
-      carbohydrate: 0.7414003038435382
-      description: Odio odit quas ut.
-      imageURL: Et quibusdam in nemo.
-      lipid: 0.04167406093236456
-      name: Quo sit.
-      price: 6096436032244781355
-      protein: 0.3720742865219837
-      saltEquivalent: 0.8785410405711529
-      sodium: 8064188946554459161
-      type: Dolorum asperiores nostrum nesciunt quaerat distinctio velit.
-    properties:
-      calorie:
-        description: カロリー
-        example: 4103913588170123885
-        format: int64
-        type: integer
-      carbohydrate:
-        description: 炭水化物
-        example: 0.7414003038435382
-        format: double
-        type: number
-      description:
-        description: 説明
-        example: Odio odit quas ut.
-        type: string
-      imageURL:
-        description: 紹介画像
-        example: Et quibusdam in nemo.
-        type: string
-      lipid:
-        description: 脂質
-        example: 0.04167406093236456
-        format: double
-        type: number
-      name:
-        description: メニュー名
-        example: Quo sit.
-        type: string
-      price:
-        description: 価格
-        example: 6096436032244781355
-        format: int64
-        type: integer
-      protein:
-        description: タンパク質
-        example: 0.3720742865219837
-        format: double
-        type: number
-      saltEquivalent:
-        description: 食塩相当量
-        example: 0.8785410405711529
-        format: double
-        type: number
-      sodium:
-        description: ナトリウム
-        example: 8064188946554459161
-        format: int64
-        type: integer
-      type:
-        description: 種類
-        example: Dolorum asperiores nostrum nesciunt quaerat distinctio velit.
-        type: string
-    required:
-    - name
-    - type
-    - price
-    - calorie
-    - protein
-    - lipid
-    - carbohydrate
-    - sodium
-    - saltEquivalent
-    - description
-    - imageURL
-    title: 'Mediatype identifier: application/vnd.me.makotia.matsuya.random+json;
-      view=default'
-    type: object
   MeMakotiaMatsuyaV2:
     description: Version 2 (default view)
     example:
-      menu: Qui quibusdam fugiat necessitatibus est sed neque.
+      menu: Maxime quis.
     properties:
       menu:
         description: メニュー名
-        example: Qui quibusdam fugiat necessitatibus est sed neque.
+        example: Maxime quis.
         type: string
     required:
     - menu
@@ -101,62 +17,62 @@ definitions:
   MeMakotiaMatsuyaV3:
     description: Version 3 (default view)
     example:
-      calorie: 7832382595641350085
-      carbohydrate: 0.8612953735968045
-      description: Dolores officiis qui ipsam velit ea.
-      imageURL: Rerum nam maxime repellendus.
-      lipid: 0.38880450659366445
-      name: Aliquam quis deserunt qui ut in praesentium.
-      price: 5294807844562973222
-      protein: 0.5483454842999721
-      saltEquivalent: 0.5708973574108325
-      sodium: 4714241507359647675
+      calorie: 235124777593117735
+      carbohydrate: 0.5058996283566668
+      description: Ut ut et quibusdam.
+      imageURL: Nemo sed iste quo sit nihil quas.
+      lipid: 0.8785410405711529
+      name: Quis dolorum.
+      price: 4238054262577731524
+      protein: 0.5874419441768178
+      saltEquivalent: 0.5527764588740911
+      sodium: 1831524268765446318
     properties:
       calorie:
         description: カロリー
-        example: 7832382595641350085
+        example: 235124777593117735
         format: int64
         type: integer
       carbohydrate:
         description: 炭水化物
-        example: 0.8612953735968045
+        example: 0.5058996283566668
         format: double
         type: number
       description:
         description: 説明
-        example: Dolores officiis qui ipsam velit ea.
+        example: Ut ut et quibusdam.
         type: string
       imageURL:
         description: 紹介画像
-        example: Rerum nam maxime repellendus.
+        example: Nemo sed iste quo sit nihil quas.
         type: string
       lipid:
         description: 脂質
-        example: 0.38880450659366445
+        example: 0.8785410405711529
         format: double
         type: number
       name:
         description: メニュー名
-        example: Aliquam quis deserunt qui ut in praesentium.
+        example: Quis dolorum.
         type: string
       price:
         description: 価格
-        example: 5294807844562973222
+        example: 4238054262577731524
         format: int64
         type: integer
       protein:
         description: タンパク質
-        example: 0.5483454842999721
+        example: 0.5874419441768178
         format: double
         type: number
       saltEquivalent:
         description: 食塩相当量
-        example: 0.5708973574108325
+        example: 0.5527764588740911
         format: double
         type: number
       sodium:
         description: ナトリウム
-        example: 4714241507359647675
+        example: 1831524268765446318
         format: int64
         type: integer
     required:
@@ -172,6 +88,86 @@ definitions:
     - imageURL
     title: 'Mediatype identifier: application/vnd.me.makotia.matsuya.v3+json; view=default'
     type: object
+  MeMakotiaMatsuyaV4:
+    description: Version 4 (default view)
+    example:
+      calorie: 1882704148655915041
+      carbohydrate: 0.27766919716662036
+      description: Qui quibusdam fugiat necessitatibus est sed neque.
+      imageURL: Expedita harum dolores officiis qui ipsam velit.
+      lipid: 0.1542423145539259
+      name: Rerum nam maxime repellendus.
+      price: 3586088613919122823
+      protein: 0.20676340692923645
+      saltEquivalent: 0.18516526030694105
+      sodium: 7989700975029463422
+      type: Qui ut in praesentium maiores.
+    properties:
+      calorie:
+        description: カロリー
+        example: 1882704148655915041
+        format: int64
+        type: integer
+      carbohydrate:
+        description: 炭水化物
+        example: 0.27766919716662036
+        format: double
+        type: number
+      description:
+        description: 説明
+        example: Qui quibusdam fugiat necessitatibus est sed neque.
+        type: string
+      imageURL:
+        description: 紹介画像
+        example: Expedita harum dolores officiis qui ipsam velit.
+        type: string
+      lipid:
+        description: 脂質
+        example: 0.1542423145539259
+        format: double
+        type: number
+      name:
+        description: メニュー名
+        example: Rerum nam maxime repellendus.
+        type: string
+      price:
+        description: 価格
+        example: 3586088613919122823
+        format: int64
+        type: integer
+      protein:
+        description: タンパク質
+        example: 0.20676340692923645
+        format: double
+        type: number
+      saltEquivalent:
+        description: 食塩相当量
+        example: 0.18516526030694105
+        format: double
+        type: number
+      sodium:
+        description: ナトリウム
+        example: 7989700975029463422
+        format: int64
+        type: integer
+      type:
+        description: 種類
+        example: Qui ut in praesentium maiores.
+        type: string
+    required:
+    - name
+    - type
+    - price
+    - calorie
+    - protein
+    - lipid
+    - carbohydrate
+    - sodium
+    - saltEquivalent
+    - description
+    - imageURL
+    title: 'Mediatype identifier: application/vnd.me.makotia.matsuya.v4+json; view=default'
+    type: object
 host: matsuya.makotia.me
 info:
   description: 松屋のメニューをランダムで返すAPIとメニューのデータ(栄養値)を返すAPI
@@ -182,11 +178,11 @@ paths:
     get:
       description: ランダムで松屋のメニュー名を返す
       operationId: v1#random
-      produces:
-      - text/plain
       responses:
         "200":
           description: OK
+        "500":
+          description: Internal Server Error
       schemes:
       - https
       summary: random v1
@@ -203,6 +199,8 @@ paths:
           description: OK
           schema:
             $ref: '#/definitions/MeMakotiaMatsuyaV2'
+        "500":
+          description: Internal Server Error
       schemes:
       - https
       summary: random v2
@@ -219,6 +217,8 @@ paths:
           description: OK
           schema:
             $ref: '#/definitions/MeMakotiaMatsuyaV3'
+        "500":
+          description: Internal Server Error
       schemes:
       - https
       summary: random v3
@@ -240,12 +240,12 @@ paths:
         required: false
         type: string
       produces:
-      - application/vnd.me.makotia.matsuya.random+json
+      - application/vnd.me.makotia.matsuya.v4+json
       responses:
         "200":
           description: OK
           schema:
-            $ref: '#/definitions/MeMakotiaMatsuyaRandom'
+            $ref: '#/definitions/MeMakotiaMatsuyaV4'
       schemes:
       - https
       summary: random v4
@@ -271,6 +271,8 @@ paths:
       responses:
         "200":
           description: OK
+        "500":
+          description: Internal Server Error
       schemes:
       - https
       summary: search v4
@@ -278,10 +280,9 @@ paths:
       - v4
 produces:
 - application/json
-- application/xml
-- application/gob
-- application/x-gob
 responses:
+  InternalServerError:
+    description: Internal Server Error
   OK:
     description: OK
     schema:

@@ -24,6 +24,8 @@ func main() {
 	}
 	defer mgoSession.Close()
 
+	db := mgoSession.DB(utils.GetDBName())
+
 	// Mount middleware
 	service.Use(middleware.RequestID())
 	service.Use(middleware.LogRequest(true))
@@ -31,16 +33,16 @@ func main() {
 	service.Use(middleware.Recover())
 
 	// Mount "v1" controller
-	c := controller.NewV1Controller(service, mgoSession)
+	c := controller.NewV1Controller(service, db)
 	app.MountV1Controller(service, c)
 	// Mount "v2" controller
-	c2 := controller.NewV2Controller(service, mgoSession)
+	c2 := controller.NewV2Controller(service, db)
 	app.MountV2Controller(service, c2)
 	// Mount "v3" controller
-	c3 := controller.NewV3Controller(service, mgoSession)
+	c3 := controller.NewV3Controller(service, db)
 	app.MountV3Controller(service, c3)
 	// Mount "v4" controller
-	c4 := controller.NewV4Controller(service, mgoSession)
+	c4 := controller.NewV4Controller(service, db)
 	app.MountV4Controller(service, c4)
 
 	// Start service

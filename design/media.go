@@ -56,7 +56,7 @@ var V3Media = MediaType("application/vnd.me.makotia.matsuya.v3+json", func() {
 	})
 })
 
-var V4Media = MediaType("application/vnd.me.makotia.matsuya.random+json", func() {
+var V4Media = MediaType("application/vnd.me.makotia.matsuya.v4+json", func() {
 	Description("Version 4")
 	Attributes(func() {
 		Attribute("name", String, "メニュー名")
