@@ -44,6 +44,9 @@ func main() {
 	// Mount "v4" controller
 	c4 := controller.NewV4Controller(service, db)
 	app.MountV4Controller(service, c4)
+	// Mount "swagger" controller
+	c5 := controller.NewSwaggerController(service)
+	app.MountSwaggerController(service, c5)
 
 	// Start service
 	if err := service.ListenAndServeTLS(":8080", "cert.pem", "key.pem"); err != nil {

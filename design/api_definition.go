@@ -12,3 +12,11 @@ var _ = API("Matsuya-Web-API", func() {
 	Consumes("application/json")
 	Produces("application/json")
 })
+
+var _ = Resource("swagger", func() {
+	Origin("*", func() {
+		Methods("GET") // Allow all origins to retrieve the Swagger JSON (CORS)
+	})
+	Files("/swagger.json", "swagger/swagger.json")
+	Files("/swaggerui/*filepath", "swaggerui")
+})
