@@ -3,15 +3,26 @@
 package main
 
 import (
+	"log"
+
 	"github.com/goadesign/goa"
 	"github.com/goadesign/goa/middleware"
 	"github.com/makotia/Matsuya-Web-API/app"
 	"github.com/makotia/Matsuya-Web-API/controller"
+	"github.com/makotia/Matsuya-Web-API/utils"
+	mgo "gopkg.in/mgo.v2"
 )
 
 func main() {
 	// Create service
 	service := goa.New("Matsuya-Web-API")
+
+	utils.LoadEnv()
+	mgoSession, err := mgo.Dial(utils.GetMongoConnectionURL())
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer mgoSession.Close()
 
 	// Mount middleware
 	service.Use(middleware.RequestID())
@@ -20,16 +31,16 @@ func main() {
 	service.Use(middleware.Recover())
 
 	// Mount "v1" controller
-	c := controller.NewV1Controller(service)
+	c := controller.NewV1Controller(service, mgoSession)
 	app.MountV1Controller(service, c)
 	// Mount "v2" controller
-	c2 := controller.NewV2Controller(service)
+	c2 := controller.NewV2Controller(service, mgoSession)
 	app.MountV2Controller(service, c2)
 	// Mount "v3" controller
-	c3 := controller.NewV3Controller(service)
+	c3 := controller.NewV3Controller(service, mgoSession)
 	app.MountV3Controller(service, c3)
 	// Mount "v4" controller
-	c4 := controller.NewV4Controller(service)
+	c4 := controller.NewV4Controller(service, mgoSession)
 	app.MountV4Controller(service, c4)
 
 	// Start service

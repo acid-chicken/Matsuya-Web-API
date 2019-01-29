@@ -3,16 +3,21 @@ package controller
 import (
 	"github.com/goadesign/goa"
 	"github.com/makotia/Matsuya-Web-API/app"
+	mgo "gopkg.in/mgo.v2"
 )
 
 // V4Controller implements the v4 resource.
 type V4Controller struct {
 	*goa.Controller
+	db *mgo.Session
 }
 
 // NewV4Controller creates a v4 controller.
-func NewV4Controller(service *goa.Service) *V4Controller {
-	return &V4Controller{Controller: service.NewController("V4Controller")}
+func NewV4Controller(service *goa.Service, db *mgo.Session) *V4Controller {
+	return &V4Controller{
+		Controller: service.NewController("V4Controller"),
+		db:         db,
+	}
 }
 
 // Random runs the random action.
