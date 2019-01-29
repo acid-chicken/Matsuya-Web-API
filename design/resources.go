@@ -46,7 +46,7 @@ var _ = Resource("v4", func() {
 		Response(OK, V4Media)
 	})
 	Action("search", func() {
-		Routing(GET("random"))
+		Routing(GET("search"))
 		Description("ランダムで松屋のメニュー名を返す")
 		Params(func() {
 			Param("type", String, "メニューの種類")

@@ -1,0 +1,27 @@
+package controller
+
+import (
+	"github.com/goadesign/goa"
+	"github.com/makotia/Matsuya-Web-API/app"
+)
+
+// V2Controller implements the v2 resource.
+type V2Controller struct {
+	*goa.Controller
+}
+
+// NewV2Controller creates a v2 controller.
+func NewV2Controller(service *goa.Service) *V2Controller {
+	return &V2Controller{Controller: service.NewController("V2Controller")}
+}
+
+// Random runs the random action.
+func (c *V2Controller) Random(ctx *app.RandomV2Context) error {
+	// V2Controller_Random: start_implement
+
+	// Put your logic here
+
+	res := &app.MeMakotiaMatsuyaV2{}
+	return ctx.OK(res)
+	// V2Controller_Random: end_implement
+}
