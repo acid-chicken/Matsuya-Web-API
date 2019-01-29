@@ -3,6 +3,7 @@ package controller
 import (
 	"github.com/goadesign/goa"
 	"github.com/makotia/Matsuya-Web-API/app"
+	"github.com/makotia/Matsuya-Web-API/repository"
 	mgo "gopkg.in/mgo.v2"
 )
 
@@ -25,8 +26,15 @@ func (c *V2Controller) Random(ctx *app.RandomV2Context) error {
 	// V2Controller_Random: start_implement
 
 	// Put your logic here
+	r := repository.NewMenuRepository(c.db)
+	menu, err := r.FindRandom()
+	if err != nil {
+		return ctx.InternalServerError()
+	}
 
-	res := &app.MeMakotiaMatsuyaV2{}
+	res := &app.MeMakotiaMatsuyaV2{
+		Menu: menu.Name,
+	}
 	return ctx.OK(res)
 	// V2Controller_Random: end_implement
 }
