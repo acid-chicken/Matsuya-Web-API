@@ -4,16 +4,14 @@ services:
     build: .
     restart: always
     ports:
-      - '3000:3000'
+      - '8080:8080'
     links:
       - db
     environment:
-      - NODE_MONGODB_CONNECTION_URL=db
-      - NODE_MONGODB_CONNECTION_PORT=27017
-      - NODE_MONGODB_CONNECTION_USER=matsuya
-      - NODE_MONGODB_CONNECTION_PASS=matsuya
+      - MONGODB_CONNECTION_URL=mongodb://matsuya:matsuya@db:27017/matsuya
+      - MONGODB_DATABASE_NAME=matsuya
   db:
-    build: ./mongo
+    build: ./migration
     restart: always
     environment:
       - MONGO_INITDB_DATABASE=matsuya

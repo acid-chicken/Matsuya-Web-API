@@ -1,9 +1,9 @@
-FROM node:10.9.0-alpine
+FROM golang:1.11
 
-WORKDIR /usr/local/src
+WORKDIR /go/src/github.com/makotia/Matsuya-Web-API
 COPY . .
 
-RUN yarn
-CMD yarn start
+RUN go get -d -v ./...
+RUN go install -v ./...
 
-EXPOSE 3000
+CMD ["Matsuya-Web-API"]
