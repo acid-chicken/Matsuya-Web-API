@@ -5,7 +5,7 @@ jobs:
     working_directory: /go/src/github.com/makotia/Matsuya-Web-API
     docker:
       - image: circleci/golang:1.11
-      - image: circleci/mongodb:4.0
+      - image: circleci/mongo:4.0
     steps:
       - checkout
       - run: go get -v -t -d ./...
